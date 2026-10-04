@@ -1,0 +1,24 @@
+{
+  "published": true,
+  "images": {
+    "nos": "lexmachine-budget:20261004-liens-tampons",
+    "plfss": "nos-deniers-plfss:20261004-liens-tampons"
+  },
+  "files": {
+    "nos": {
+      "public/explorer.html": "a5997f333a43963a14e36bd2606f3dbef81b68fb35c13842cfe105abb5db3935",
+      "public/assets/plf-stamp.css": "1fc036e5d7978abe21e9c30f9947e94c6545356c461bc1ff12af907339955445",
+      "public/assets/tampon-plfss-2027.png": "0fe883bde00609b88898da50b8f736e0ba7efb634038581bd1ef63df08dc2eab",
+      "budget_service/web.py": "08f5720855acf188c19de728b4bc5c99c696be0c0cfb68c17dd67e950514b685"
+    },
+    "plfss": {
+      "public/index.html": "f91454b4341a3c3c91774cc893debdd34e748acfc3edfec9a6a5050af52612f3",
+      "public/assets/plfss.css": "22b0a8592ea3c2f2d90d8adc48c9b58c621c19c0bfbe3fd08d1567594a69cbe7",
+      "public/assets/tampon-plfss-2027.png": "0fe883bde00609b88898da50b8f736e0ba7efb634038581bd1ef63df08dc2eab"
+    }
+  },
+  "four_nos_instances": true,
+  "financial_meta_unchanged": true,
+  "javascript_unchanged": true,
+  "search_unchanged": true
+}

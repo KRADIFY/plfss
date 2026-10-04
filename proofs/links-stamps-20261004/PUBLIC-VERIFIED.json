@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "domain": "budget.lexmachine.net",
+      "stamp_and_link": true
+    },
+    {
+      "domain": "budgetecolo.lexmachine.net",
+      "stamp_and_link": true
+    },
+    {
+      "domain": "plfss.lexmachine.net",
+      "stamp_and_link": true
+    }
+  ]
+}
