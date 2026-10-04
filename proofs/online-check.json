@@ -1,0 +1,70 @@
+{
+  "passed": true,
+  "url": "https://plfss.lexmachine.net",
+  "data_version": "7711a46a263ae522cd77b805ea6862bdd60f839644090006a9811ae433a1a34d",
+  "facts": 5412,
+  "passages": 311791,
+  "financial_cells_compared": 1056,
+  "checks": [
+    {
+      "label": "HTTPS public sans authentification, page locale identique",
+      "seconds": 0.172
+    },
+    {
+      "label": "Matrice EQUILIBRE ROBSS RECETTES",
+      "seconds": 0.187
+    },
+    {
+      "label": "Matrice EQUILIBRE ROBSS DEPENSES",
+      "seconds": 0.156
+    },
+    {
+      "label": "Matrice EQUILIBRE ROBSS SOLDE",
+      "seconds": 0.187
+    },
+    {
+      "label": "Matrice EQUILIBRE RG DEPENSES",
+      "seconds": 0.14
+    },
+    {
+      "label": "Matrice EQUILIBRE FSV SOLDE",
+      "seconds": 0.078
+    },
+    {
+      "label": "Matrice ONDAM ROBSS DEPENSES",
+      "seconds": 0.125
+    },
+    {
+      "label": "Documents du millésime 2017",
+      "documents": 100
+    },
+    {
+      "label": "Documents du millésime 2026",
+      "documents": 100
+    },
+    {
+      "label": "Documents du millésime 2027",
+      "documents": 3
+    },
+    {
+      "label": "PDF conservé disponible avec plages de lecture",
+      "source_id": "1810967718d61d6d32492999"
+    },
+    {
+      "label": "Recherche dense/sparse/texte 2017 et passage vérifié",
+      "results": 5,
+      "seconds": 0.937
+    },
+    {
+      "label": "Recherche dense/sparse/texte 2027 et passage vérifié",
+      "results": 5,
+      "seconds": 0.844
+    },
+    {
+      "label": "Export Excel HTTPS",
+      "bytes": 6788,
+      "seconds": 0.359
+    }
+  ],
+  "scope": "Publication HTTPS et égalité avec la génération locale ; pas de certification globale des détails d’annexes."
+}

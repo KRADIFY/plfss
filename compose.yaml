@@ -1,0 +1,50 @@
+services:
+  web:
+    image: nos-deniers-plfss:20261004-public
+    environment:
+      PLFSS_RETRIEVAL_URL: http://retrieval:8090
+    depends_on:
+      retrieval:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:18895:8080"
+    volumes:
+      - ./data:/data:ro
+    restart: unless-stopped
+    read_only: true
+    tmpfs: ["/tmp:size=32m,mode=1777"]
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    cpus: 1.0
+    cpu_shares: 256
+    mem_limit: 768m
+    pids_limit: 80
+  retrieval:
+    image: nos-deniers-plfss-retrieval:20261004-vectorise
+    init: true
+    restart: unless-stopped
+    read_only: true
+    tmpfs: ["/tmp:size=128m,mode=1777"]
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    cpus: 2.0
+    cpu_shares: 256
+    mem_limit: 4g
+    pids_limit: 128
+    environment:
+      PLFSS_SEARCH_ROOT: /search
+      PLFSS_ENCODER_THREADS: "2"
+      PLFSS_SEARCH_THREADS: "2"
+      PLFSS_PRELOAD: "1"
+    volumes:
+      - type: bind
+        source: ./data/search
+        target: /search
+        read_only: true
+        bind: {create_host_path: false}
+    healthcheck:
+      test: [CMD, python, -c, "import json,urllib.request; assert json.load(urllib.request.urlopen('http://127.0.0.1:8090/healthz',timeout=5))['available']"]
+      interval: 20s
+      timeout: 8s
+      start_period: 120s
+      retries: 5

@@ -1,0 +1,190 @@
+{
+  "qualified_observations": 1402,
+  "unique_positions": 1402,
+  "tables": [
+    {
+      "source_id": "00b03ef588e9819f28167414",
+      "sheet": "FRR tab_3",
+      "topic": "comptes_fonds_reserves",
+      "perimeter": "FRR",
+      "qualified_cells": 68,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "00b03ef588e9819f28167414",
+      "sheet": "CADES tab_3",
+      "topic": "dette_sociale",
+      "perimeter": "CADES",
+      "qualified_cells": 36,
+      "other_cells_not_integrated": {
+        "year_outside_2017_2027_or_unqualified": 84
+      }
+    },
+    {
+      "source_id": "db683c94356ef66261405595",
+      "sheet": "FRR tab 1",
+      "topic": "comptes_fonds_reserves",
+      "perimeter": "FRR",
+      "qualified_cells": 85,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "d31472be645a025bf271e4f6",
+      "sheet": "FRR tab_3",
+      "topic": "comptes_fonds_reserves",
+      "perimeter": "FRR",
+      "qualified_cells": 68,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "d31472be645a025bf271e4f6",
+      "sheet": "CADES tab_3",
+      "topic": "dette_sociale",
+      "perimeter": "CADES",
+      "qualified_cells": 32,
+      "other_cells_not_integrated": {
+        "year_outside_2017_2027_or_unqualified": 84
+      }
+    },
+    {
+      "source_id": "1d13a3795ffd016b4453ef2d",
+      "sheet": "FRR tab 1",
+      "topic": "comptes_fonds_reserves",
+      "perimeter": "FRR",
+      "qualified_cells": 85,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "cd97e78f7118881908c5fdb8",
+      "sheet": "III.tab7",
+      "topic": "recettes_detaillees",
+      "perimeter": "consolide_ROBSS_FSV",
+      "qualified_cells": 148,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "cd97e78f7118881908c5fdb8",
+      "sheet": "III.tab12",
+      "topic": "depenses_detaillees",
+      "perimeter": "consolide_ROBSS_FSV",
+      "qualified_cells": 48,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "7ff5d944a44a34c0ae5b7142",
+      "sheet": "FRR tab_3",
+      "topic": "comptes_fonds_reserves",
+      "perimeter": "FRR",
+      "qualified_cells": 68,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "7ff5d944a44a34c0ae5b7142",
+      "sheet": "CADES tab_3",
+      "topic": "dette_sociale",
+      "perimeter": "CADES",
+      "qualified_cells": 28,
+      "other_cells_not_integrated": {
+        "year_outside_2017_2027_or_unqualified": 84
+      }
+    },
+    {
+      "source_id": "267df6b160346ad91f142d10",
+      "sheet": "FRR tab 1",
+      "topic": "comptes_fonds_reserves",
+      "perimeter": "FRR",
+      "qualified_cells": 84,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "d0866c69066cbeb89982e709",
+      "sheet": "III.tab9",
+      "topic": "recettes_detaillees",
+      "perimeter": "consolide_ROBSS_FSV",
+      "qualified_cells": 148,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "d0866c69066cbeb89982e709",
+      "sheet": "III.tab14",
+      "topic": "depenses_detaillees",
+      "perimeter": "consolide_ROBSS_FSV",
+      "qualified_cells": 59,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "d7336df74ab899647e4cb8ef",
+      "sheet": "FRR tab_2",
+      "topic": "comptes_fonds_reserves",
+      "perimeter": "FRR",
+      "qualified_cells": 68,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "d7336df74ab899647e4cb8ef",
+      "sheet": "CADES tab_3",
+      "topic": "dette_sociale",
+      "perimeter": "CADES",
+      "qualified_cells": 24,
+      "other_cells_not_integrated": {
+        "year_outside_2017_2027_or_unqualified": 84
+      }
+    },
+    {
+      "source_id": "7f5ab7e4f51c7a552d22e9ab",
+      "sheet": "FRR tab2",
+      "topic": "comptes_fonds_reserves",
+      "perimeter": "FRR",
+      "qualified_cells": 85,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "7f5ab7e4f51c7a552d22e9ab",
+      "sheet": "CADES tab3",
+      "topic": "dette_sociale",
+      "perimeter": "CADES",
+      "qualified_cells": 24,
+      "other_cells_not_integrated": {
+        "year_outside_2017_2027_or_unqualified": 84
+      }
+    },
+    {
+      "source_id": "1d9eee3416dd3c28f0ff3914",
+      "sheet": "IV.tab16",
+      "topic": "recettes_detaillees",
+      "perimeter": "consolide_ROBSS_FSV",
+      "qualified_cells": 189,
+      "other_cells_not_integrated": {}
+    },
+    {
+      "source_id": "1d9eee3416dd3c28f0ff3914",
+      "sheet": "IV.tab21",
+      "topic": "depenses_detaillees",
+      "perimeter": "consolide_ROBSS_FSV",
+      "qualified_cells": 55,
+      "other_cells_not_integrated": {}
+    }
+  ],
+  "held": [
+    {
+      "source_id": "db683c94356ef66261405595",
+      "sheet": "CADES tab 3",
+      "reason": "unit_not_unique"
+    },
+    {
+      "source_id": "1d13a3795ffd016b4453ef2d",
+      "sheet": "CADES tab 3",
+      "reason": "unit_not_unique"
+    },
+    {
+      "source_id": "267df6b160346ad91f142d10",
+      "sheet": "CADES tab 3",
+      "reason": "unit_not_unique"
+    }
+  ],
+  "source_cells_rechecked": 1402,
+  "explicit_zeros": 264,
+  "added_to_branch_totals": false,
+  "financial_database_modified": false,
+  "all_annex_details_qualified": false
+}

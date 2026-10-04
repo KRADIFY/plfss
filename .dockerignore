@@ -1,0 +1,10 @@
+data/
+reports/*
+!reports/coverage.json
+.git/
+__pycache__/
+tests/
+tools/
+POINT_DE_REPRISE.md
+deploy/
+vectorization/

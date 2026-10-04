@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-labelledby="nd-icone-titre nd-icone-description">
+  <title id="nd-icone-titre">Nos Deniers — Du budget voté à l’euro dépensé</title>
+  <desc id="nd-icone-description">Fronton et trois colonnes budgétaires bleu marine et corail sur un disque bleu pâle. Dessin de la première proposition, sans loupe.</desc>
+  <circle cx="100" cy="100" r="100" fill="#EDF4FA"/>
+  <path d="M38 72 100 38 162 72Z" fill="#FFFFFF" stroke="#173A55" stroke-width="7" stroke-linejoin="round"/>
+  <g fill="#FFFFFF">
+    <rect x="52" y="88" width="22" height="56" rx="2"/>
+    <rect x="89" y="88" width="22" height="56" rx="2"/>
+    <rect x="126" y="88" width="22" height="56" rx="2"/>
+  </g>
+  <g fill="#D84B50">
+    <path d="M52 117H74V142Q74 144 72 144H54Q52 144 52 142Z"/>
+    <path d="M89 102H111V142Q111 144 109 144H91Q89 144 89 142Z"/>
+    <path d="M126 111H148V142Q148 144 146 144H128Q126 144 126 142Z"/>
+  </g>
+  <g fill="none" stroke="#173A55" stroke-width="6" stroke-linejoin="round">
+    <rect x="52" y="88" width="22" height="56" rx="2"/>
+    <rect x="89" y="88" width="22" height="56" rx="2"/>
+    <rect x="126" y="88" width="22" height="56" rx="2"/>
+  </g>
+  <g fill="none" stroke="#173A55" stroke-width="7" stroke-linecap="round">
+    <path d="M44 151H156"/>
+    <path d="M36 164H164"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+secrets/
+*.pem
+*.key
+data/documents/
+data/raw/
+data/search/search.sqlite
+data/search/dense.faiss
+web-image.tar.gz

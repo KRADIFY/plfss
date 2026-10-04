@@ -1,0 +1,505 @@
+{
+  "data_version": "7711a46a263ae522cd77b805ea6862bdd60f839644090006a9811ae433a1a34d",
+  "observations": 5412,
+  "checked_files": 2216,
+  "integrity_errors": [],
+  "balance_checks": 1657,
+  "arithmetic_errors": [],
+  "matrix_scenarios": 48,
+  "source_arithmetic_notices": [
+    {
+      "key": [
+        "JORFARTI000036339103",
+        0,
+        2017,
+        "ROBSS",
+        "VIEILLESSE",
+        3
+      ],
+      "stage": "LFSS_RECTIF",
+      "source_sha": "1d248fc2785bcf3da9bbb0e0d2f27ad2fe51b566dfd011510d79ba1331fd751b",
+      "source_id": "JORFARTI000036339103",
+      "table_index": 0,
+      "exercise": 2017,
+      "perimeter": "ROBSS",
+      "entity": "VIEILLESSE",
+      "balance_row_index": 3,
+      "gap_cents": -40000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 23220000000000,
+        "DEPENSES": 23110000000000,
+        "SOLDE": 150000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 232,2 Md€ de recettes, 231,1 Md€ de dépenses et 1,5 Md€ de solde. Recettes moins dépenses donne 1,1 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : L’article rectificatif imprime 232,2 / 231,1 / +1,5 Md€. L’annexe B de la même édition imprime 232,6 / 231,1 / +1,5 Md€ pour la vieillesse des régimes de base. Le rapport sénatorial reprend cette seconde série. La différence porte sur les recettes ; le solde de +1,5 n’est pas modifié. Les deux emplacements sont conservés ; l’article n’est pas réécrit à partir de l’annexe.",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036339103",
+      "documentary_category": "divergence_article_annexe",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    },
+    {
+      "key": [
+        "JORFARTI000036339114",
+        5,
+        2019,
+        "ROBSS_FSV",
+        "TOTAL_FSV",
+        1
+      ],
+      "stage": "PROJECTION",
+      "source_sha": "0fa0f6c4722e20406b096f5e3727cd9faa1933ac46b05cb917e0ee7b3410f1ac",
+      "source_id": "JORFARTI000036339114",
+      "table_index": 5,
+      "exercise": 2019,
+      "perimeter": "ROBSS_FSV",
+      "entity": "TOTAL_FSV",
+      "balance_row_index": 1,
+      "gap_cents": 120000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 50960000000000,
+        "DEPENSES": 50900000000000,
+        "SOLDE": -60000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 509,6 Md€ de recettes, 509 Md€ de dépenses et -0,6 Md€ de solde. Recettes moins dépenses donne 0,6 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : Les recettes et dépenses de la projection sont identiques dans l’annexe JORF et la présentation sénatoriale de l’annexe B. Le JORF porte un solde négatif, alors que l’Assemblée et le Sénat présentent un solde positif pour 2019, 2020 et 2021. Le signe positif concorde avec recettes moins dépenses. Cela documente une divergence de publication ; aucun signe n’est retourné automatiquement dans la valeur JORF.",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036339114",
+      "documentary_category": "divergence_signe_entre_publications",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    },
+    {
+      "key": [
+        "JORFARTI000036339114",
+        5,
+        2020,
+        "ROBSS_FSV",
+        "TOTAL_FSV",
+        1
+      ],
+      "stage": "PROJECTION",
+      "source_sha": "0fa0f6c4722e20406b096f5e3727cd9faa1933ac46b05cb917e0ee7b3410f1ac",
+      "source_id": "JORFARTI000036339114",
+      "table_index": 5,
+      "exercise": 2020,
+      "perimeter": "ROBSS_FSV",
+      "entity": "TOTAL_FSV",
+      "balance_row_index": 1,
+      "gap_cents": 980000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 52500000000000,
+        "DEPENSES": 52010000000000,
+        "SOLDE": -490000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 525 Md€ de recettes, 520,1 Md€ de dépenses et -4,9 Md€ de solde. Recettes moins dépenses donne 4,9 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : Les recettes et dépenses de la projection sont identiques dans l’annexe JORF et la présentation sénatoriale de l’annexe B. Le JORF porte un solde négatif, alors que l’Assemblée et le Sénat présentent un solde positif pour 2019, 2020 et 2021. Le signe positif concorde avec recettes moins dépenses. Cela documente une divergence de publication ; aucun signe n’est retourné automatiquement dans la valeur JORF.",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036339114",
+      "documentary_category": "divergence_signe_entre_publications",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    },
+    {
+      "key": [
+        "JORFARTI000036339114",
+        5,
+        2021,
+        "ROBSS_FSV",
+        "TOTAL_FSV",
+        1
+      ],
+      "stage": "PROJECTION",
+      "source_sha": "0fa0f6c4722e20406b096f5e3727cd9faa1933ac46b05cb917e0ee7b3410f1ac",
+      "source_id": "JORFARTI000036339114",
+      "table_index": 5,
+      "exercise": 2021,
+      "perimeter": "ROBSS_FSV",
+      "entity": "TOTAL_FSV",
+      "balance_row_index": 1,
+      "gap_cents": 1720000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 54110000000000,
+        "DEPENSES": 53250000000000,
+        "SOLDE": -860000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 541,1 Md€ de recettes, 532,5 Md€ de dépenses et -8,6 Md€ de solde. Recettes moins dépenses donne 8,6 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : Les recettes et dépenses de la projection sont identiques dans l’annexe JORF et la présentation sénatoriale de l’annexe B. Le JORF porte un solde négatif, alors que l’Assemblée et le Sénat présentent un solde positif pour 2019, 2020 et 2021. Le signe positif concorde avec recettes moins dépenses. Cela documente une divergence de publication ; aucun signe n’est retourné automatiquement dans la valeur JORF.",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036339114",
+      "documentary_category": "divergence_signe_entre_publications",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    },
+    {
+      "key": [
+        "JORFARTI000039675325",
+        1,
+        2018,
+        "RG_FSV",
+        "TOTAL_FSV",
+        6
+      ],
+      "stage": "CONSTATE",
+      "source_sha": "b03931cc62aa6f783d26a00907ad3d7abc0a479e517c812f7424b435de6f6f0f",
+      "source_id": "JORFARTI000039675325",
+      "table_index": 1,
+      "exercise": 2018,
+      "perimeter": "RG_FSV",
+      "entity": "TOTAL_FSV",
+      "balance_row_index": 6,
+      "gap_cents": -240000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 39460000000000,
+        "DEPENSES": 39580000000000,
+        "SOLDE": 120000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 394,6 Md€ de recettes, 395,8 Md€ de dépenses et 1,2 Md€ de solde. Recettes moins dépenses donne -1,2 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : Pour 2018, l’article 1 JORF imprime +1,2 Md€ pour RG+FSV avec 394,6 de recettes et 395,8 de dépenses. L’annexe B et le texte parlementaire examiné présentent −1,2 Md€ pour ce même périmètre. La divergence de signe est localisée et sourcée ; l’article JORF reste conservé avec son avertissement.",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000039675325",
+      "documentary_category": "divergence_signe_article_annexe",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "e36eb4597f6491649b1013cf",
+          "title": "LFSS 2020 : texte examiné au Sénat, article 1 et annexe B",
+          "url": "https://www.senat.fr/enseance/textes/2019-2020/98.html",
+          "path": "documents/2020/e36eb4597f6491649b1013cf_98.html",
+          "sha256": "c9151b3c368368f56b954a23f10da840a9ab1c94e933fdb198920779b6ed22c4",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    },
+    {
+      "key": [
+        "JORFARTI000046791760",
+        1,
+        2021,
+        "RG",
+        "MALADIE",
+        1
+      ],
+      "stage": "CONSTATE",
+      "source_sha": "304c8cc7b19248fe4507875abfa51deba07e50e19372bbf6cc598952c8e7c9e7",
+      "source_id": "JORFARTI000046791760",
+      "table_index": 1,
+      "exercise": 2021,
+      "perimeter": "RG",
+      "entity": "MALADIE",
+      "balance_row_index": 1,
+      "gap_cents": -100000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 20530000000000,
+        "DEPENSES": 23500000000000,
+        "SOLDE": -2870000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 205,3 Md€ de recettes, 235 Md€ de dépenses et -28,7 Md€ de solde. Recettes moins dépenses donne -29,7 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : Le rapport sénatorial sur le PLACSS 2022 reprend 205,3 / 235,0 / −28,7 Md€ pour la maladie du régime général en 2021 et décrit les coordinations législatives incomplètes après la correction des comptes. Ce commentaire éclaire le contexte mais ne justifie pas à lui seul quel chiffre de la ligne changer. Les trois valeurs légales et l’écart arithmétique restent affichés ; aucune dépense ou recette corrigée n’est inventée.",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046791760",
+      "documentary_category": "coordination_legislative_incomplete_documentee",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "8dfcb776a84e22b8d92baa3d",
+          "title": "PLACSS 2022 : rapport du Sénat sur les corrections incomplètes des comptes 2021",
+          "url": "https://www.senat.fr/rap/l22-789/l22-789_mono.html",
+          "path": "documents/2022/8dfcb776a84e22b8d92baa3d_l22-789_mono.html",
+          "sha256": "4cfccce195a576788dcae3aee63ded2c0379afe88daa534820e2fb8157a2b267",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    },
+    {
+      "key": [
+        "d5a97207cd2a12e2bd0c4177",
+        3,
+        2017,
+        "ROBSS",
+        "VIEILLESSE",
+        3
+      ],
+      "stage": "PLFSS_RECTIF",
+      "source_sha": "070af65a608b4e21ce8297cd4c570ae1d00ec6d86e4e390da32c5eae0bbf2c68",
+      "source_id": "d5a97207cd2a12e2bd0c4177",
+      "table_index": 3,
+      "exercise": 2017,
+      "perimeter": "ROBSS",
+      "entity": "VIEILLESSE",
+      "balance_row_index": 3,
+      "gap_cents": -40000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 23220000000000,
+        "DEPENSES": 23110000000000,
+        "SOLDE": 150000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 232,2 Md€ de recettes, 231,1 Md€ de dépenses et 1,5 Md€ de solde. Recettes moins dépenses donne 1,1 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : L’article rectificatif imprime 232,2 / 231,1 / +1,5 Md€. L’annexe B de la même édition imprime 232,6 / 231,1 / +1,5 Md€ pour la vieillesse des régimes de base. Le rapport sénatorial reprend cette seconde série. La différence porte sur les recettes ; le solde de +1,5 n’est pas modifié. Les deux emplacements sont conservés ; l’article n’est pas réécrit à partir de l’annexe.",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0269.html",
+      "documentary_category": "divergence_article_annexe",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    },
+    {
+      "key": [
+        "c6bb95edc6d0f892471d293f",
+        17,
+        2023,
+        "ROBSS",
+        "VIEILLESSE",
+        11
+      ],
+      "stage": "PROJECTION",
+      "source_sha": "34db99c9501217d72d06583b86c7581d3b111d9a6e2c8b4665d79eb025329827",
+      "source_id": "c6bb95edc6d0f892471d293f",
+      "table_index": 17,
+      "exercise": 2023,
+      "perimeter": "ROBSS",
+      "entity": "VIEILLESSE",
+      "balance_row_index": 11,
+      "gap_cents": -100000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 25890000000000,
+        "DEPENSES": 26560000000000,
+        "SOLDE": -570000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 258,9 Md€ de recettes, 265,6 Md€ de dépenses et -5,7 Md€ de solde. Recettes moins dépenses donne -6,7 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : La projection vieillesse 2023 du PLFSS 2022 imprime 258,9 / 265,6 / −5,7 Md€ : la soustraction donne −6,7. Le PDF initial et le texte parlementaire examiné reproduisent cette série. Aucun rectificatif établissant la valeur à remplacer n’est démontré dans le lot. L’incohérence est donc documentée et reste signalée, sans transformer le résultat calculé en solde officiel.",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B4523.html",
+      "documentary_category": "incoherence_source_reproduite",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "83a691f0547bed1b9cd61f7d",
+          "title": "PLFSS 2022 : texte initial PDF, annexes B et C",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/projets/pl4523.pdf",
+          "path": "documents/2022/83a691f0547bed1b9cd61f7d_pl4523.pdf",
+          "sha256": "43f02cd16fb8e9862fdab417629a79321fa45046b4f1cf9f9587e726cd998a64",
+          "status": "downloaded",
+          "page_number": 165
+        },
+        {
+          "id": "2c5e6851c3e9e97e8aecea07",
+          "title": "PLFSS 2022 : texte examiné au Sénat, annexe B",
+          "url": "https://www.senat.fr/enseance/textes/2021-2022/118.html",
+          "path": "documents/2022/2c5e6851c3e9e97e8aecea07_118.html",
+          "sha256": "8ae887823470649a051c9e92721d5c18e38abdcf53ce77cfd0d735e5a97c6ce5",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    },
+    {
+      "key": [
+        "c6bb95edc6d0f892471d293f",
+        18,
+        2018,
+        "FSV",
+        "FSV",
+        2
+      ],
+      "stage": "CONSTATE",
+      "source_sha": "34db99c9501217d72d06583b86c7581d3b111d9a6e2c8b4665d79eb025329827",
+      "source_id": "c6bb95edc6d0f892471d293f",
+      "table_index": 18,
+      "exercise": 2018,
+      "perimeter": "FSV",
+      "entity": "FSV",
+      "balance_row_index": 2,
+      "gap_cents": -90000000000,
+      "published_rounding_cents": "15000000000",
+      "values_cents": {
+        "RECETTES": 1720000000000,
+        "DEPENSES": 1990000000000,
+        "SOLDE": -180000000000
+      },
+      "status": "source_difference_documented_values_retained",
+      "explanation": "Le tableau source publie 17,2 Md€ de recettes, 19,9 Md€ de dépenses et -1,8 Md€ de solde. Recettes moins dépenses donne -2,7 Md€. L’écart dépasse les arrondis publiés. Les trois cellules originales ont été relues ; leurs valeurs sont conservées sans correction automatique. Rapprochement documentaire : Le PLFSS 2022, y compris son PDF et le texte examiné au Sénat, publie 17,2 / 19,9 / −1,8 Md€ pour le FSV en 2018. L’article 1 et l’annexe B de la LFSS 2020 publient 17,2 / 19,0 / −1,8 Md€ pour 2018. Le montant des dépenses diffère de 0,9 Md€ ; aucune correction formelle du PLFSS 2022 n’a été trouvée dans ce rapprochement. L’ancienne annexe est conservée comme une observation distincte, pas comme un nouveau résultat 2018.",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B4523.html",
+      "documentary_category": "divergence_valeur_annexe_historique",
+      "resolved_value": false,
+      "supporting_documents": [
+        {
+          "id": "e36eb4597f6491649b1013cf",
+          "title": "LFSS 2020 : texte examiné au Sénat, article 1 et annexe B",
+          "url": "https://www.senat.fr/enseance/textes/2019-2020/98.html",
+          "path": "documents/2020/e36eb4597f6491649b1013cf_98.html",
+          "sha256": "c9151b3c368368f56b954a23f10da840a9ab1c94e933fdb198920779b6ed22c4",
+          "status": "downloaded",
+          "page_number": null
+        },
+        {
+          "id": "83a691f0547bed1b9cd61f7d",
+          "title": "PLFSS 2022 : texte initial PDF, annexes B et C",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/projets/pl4523.pdf",
+          "path": "documents/2022/83a691f0547bed1b9cd61f7d_pl4523.pdf",
+          "sha256": "43f02cd16fb8e9862fdab417629a79321fa45046b4f1cf9f9587e726cd998a64",
+          "status": "downloaded",
+          "page_number": 165
+        },
+        {
+          "id": "2c5e6851c3e9e97e8aecea07",
+          "title": "PLFSS 2022 : texte examiné au Sénat, annexe B",
+          "url": "https://www.senat.fr/enseance/textes/2021-2022/118.html",
+          "path": "documents/2022/2c5e6851c3e9e97e8aecea07_118.html",
+          "sha256": "8ae887823470649a051c9e92721d5c18e38abdcf53ce77cfd0d735e5a97c6ce5",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ]
+    }
+  ],
+  "source_balance_passed": false,
+  "exclusion_checks": 21,
+  "source_divergences": [],
+  "collected_source_entries": 2227,
+  "sources_with_qualified_values": 85,
+  "failed_downloads": [
+    {
+      "id": "9ca3c9075009f5c129475c86",
+      "title": "Consulter la loi de financement de la Sécurité sociale pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053226384",
+      "publication_year": 2026,
+      "error": "HTTP retrieval failed, curl=22"
+    },
+    {
+      "id": "ef8be296a1be7d02bc559c71",
+      "title": "Consulter la loi de financement de la Sécurité sociale pour 2024",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048668665",
+      "publication_year": 2024,
+      "error": "HTTP retrieval failed, curl=22"
+    },
+    {
+      "id": "88a7759113b418603f9d18a6",
+      "title": "Télécharger la loi de financement de la Sécurité sociale pour 2023",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046791754",
+      "publication_year": 2023,
+      "error": "HTTP retrieval failed, curl=22"
+    },
+    {
+      "id": "6898c78dda09093490f16876",
+      "title": "Télécharger la loi de financement de la Sécurité sociale pour 2022",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044553428",
+      "publication_year": 2022,
+      "error": "HTTP retrieval failed, curl=22"
+    },
+    {
+      "id": "a40362e3c621fb8ac0ab55bb",
+      "title": "Loi n° 2020-1576 du 14 décembre 2020",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042665307",
+      "publication_year": 2021,
+      "error": "HTTP retrieval failed, curl=22"
+    },
+    {
+      "id": "f7fbb282f35996237b5f782e",
+      "title": "Télécharger le dossier presse du PLFSS 2021",
+      "url": "https://solidarites-sante.gouv.fr/IMG/pdf/dossier_de_presse_plfss_2021.pdf",
+      "publication_year": 2021,
+      "error": "PDF expected, other content received"
+    },
+    {
+      "id": "d1ce24df73b9bcd67f9be250",
+      "title": "Loi n° 2019-1446 du 24 décembre 201",
+      "url": "https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039675317&fastPos=24&fastReqId=1265995455&categorieLien=cid&oldAction=rechTexte",
+      "publication_year": 2020,
+      "error": "HTTP retrieval failed, curl=22"
+    },
+    {
+      "id": "39e52d311a06e432215f4549",
+      "title": "LFSS 2019 en chiffres",
+      "url": "https://www.securite-sociale.fr/IMG/pdf/web-lfss-depliant-2019.pdf",
+      "publication_year": 2019,
+      "error": "PDF expected, other content received"
+    },
+    {
+      "id": "d4422fe8fcc53844911b1655",
+      "title": "Loi n° 2018-1203 du 22 décembre 2018",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2018/12/22/CPAX1824950L/jo/texte",
+      "publication_year": 2019,
+      "error": "HTTP retrieval failed, curl=22"
+    },
+    {
+      "id": "a644795404bddb339ac7638a",
+      "title": "Loi n° 2017-1836 du 30 décembre 2017",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2017/12/30/CPAX1725580L/jo/texte",
+      "publication_year": 2018,
+      "error": "HTTP retrieval failed, curl=22"
+    },
+    {
+      "id": "1ebb3fa9ed93d567b294a75b",
+      "title": "Loi n° 2016-1827 du 23 décembre 2016",
+      "url": "https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D1A6688788E3180A58F33EEC5901563B.tpdila22v_2?cidTexte=JORFTEXT000033680665&categorieLien=id",
+      "publication_year": 2017,
+      "error": "HTTP retrieval failed, curl=22"
+    }
+  ],
+  "source_families": {
+    "PLFSS et annexes": 321,
+    "PLACSS": 96,
+    "LFRSS": 5,
+    "REPSS-PQE": 31,
+    "CCSS": 19,
+    "Cour des comptes": 665,
+    "LFSS promulguée": 1090
+  },
+  "vectorized": true,
+  "published": false,
+  "documentary_global_validated": false,
+  "passed": true,
+  "scope": "Fichiers collectés, cellules intégrées, équilibres par source et tableaux du service. Ne démontre pas l’exploitation de tous les tableaux des annexes."
+}

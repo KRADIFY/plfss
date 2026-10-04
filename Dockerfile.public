@@ -1,0 +1,2 @@
+FROM nos-deniers-plfss:20261004-vectorise
+COPY public/index.html /app/public/index.html

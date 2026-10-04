@@ -1,0 +1,30 @@
+{
+  "source_id": "641a2fb3a1933d25b182e75f",
+  "source_sha256": "679cbbcf1d5d75c57089e5f44466182120834364ee80df01e0ce603ff075f628",
+  "page": 34,
+  "original_code_sha256": "5d309fe216bc4f586219a2c7d732516a906d89e2d8b24b0af2b523a72a8efe63",
+  "diagnostic_only": true,
+  "source_bytes_changed": false,
+  "findings": [
+    {
+      "message": "Serialized chunk exceeds its token contract",
+      "tokens": 801,
+      "max_tokens": 800,
+      "table_id": "original-1",
+      "pending": [
+        {
+          "field_ref": "header:2",
+          "label": "En-tête candidat non certifié 2",
+          "state": "value",
+          "kind": "header_candidate",
+          "candidate_index": 2,
+          "text": "Elle s'applique également aux gains et\nrémunérations des apprentis pour lesquels l'employeur n'est pas\néligible à l'exonération prévue à l'article L. 6227-8-1 dudit code.\nCette réduction n'est pas applicable aux revenus d'activité tels qu'ils\nsont pris en compte pour la détermination de l'assiette des cotisations\ndéfinie à l'article L. 242-1 versés par les employeurs relevant des\ndispositions du titre Ier du livre VII du présent code, à l'exception des\nemployeurs relevant des régimes spéciaux de sécurité sociale des\nmarins, des mines et des clercs et employés de notaires.\nIII.-Le montant de la réduction est calculé chaque année civile, pour\nchaque salarié et pour chaque contrat de travail, selon des modalités\nfixées par décret. Il est égal au produit des revenus d'activité de\nl'année tels qu'ils sont pris en compte pour la détermination de\nl'assiette des cotisations définie à l'article L. 242-1 et d'un coefficient.\nCe coefficient est déterminé par application d'une formule fixée par\ndécret. Il est fonction du rapport entre les revenus d'activité de l'année\ntels qu'ils sont pris en compte pour la détermination de l'assiette des\ncotisations définie au quatrième alinéa du présent III, majorés le cas\néchéant du montant de la prime de partage de la valeur mentionné\nau I et le salaire minimum de croissance calculé pour un an sur la base\nde la durée légale du travail augmentée, le cas échéant, du nombre\nd'heures complémentaires ou supplémentaires, sans prise en compte\ndes majorations auxquelles elles donnent lieu. Pour les salariés qui ne\nsont pas employés à temps plein ou qui ne sont pas employés sur toute\nl'année, le salaire minimum de croissance pris en compte est celui qui\ncorrespond à la durée de travail prévue au contrat au titre de la\npériode pendant laquelle ils sont présents ",
+          "char_start": 1751,
+          "char_end": 3559,
+          "original_characters": 4536,
+          "complete": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "passed": true,
+  "data_version": "7711a46a263ae522cd77b805ea6862bdd60f839644090006a9811ae433a1a34d",
+  "checks": [
+    {
+      "label": "initial",
+      "cells": 90,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2023",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ROBSS RECETTES",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2019",
+      "end": "2019",
+      "metric": "RECETTES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ROBSS DEPENSES",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2019",
+      "end": "2019",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ROBSS SOLDE",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2019",
+      "end": "2019",
+      "metric": "SOLDE",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "RG RECETTES",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "RG",
+      "start": "2019",
+      "end": "2019",
+      "metric": "RECETTES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "RG DEPENSES",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "RG",
+      "start": "2019",
+      "end": "2019",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "RG SOLDE",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "RG",
+      "start": "2019",
+      "end": "2019",
+      "metric": "SOLDE",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ROBSS_FSV RECETTES",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS_FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "RECETTES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ROBSS_FSV DEPENSES",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS_FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ROBSS_FSV SOLDE",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS_FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "SOLDE",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "RG_FSV RECETTES",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "RG_FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "RECETTES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "RG_FSV DEPENSES",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "RG_FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "RG_FSV SOLDE",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "RG_FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "SOLDE",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "FSV RECETTES",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "RECETTES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "FSV DEPENSES",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "FSV SOLDE",
+      "cells": 3,
+      "domain": "EQUILIBRE",
+      "perimeter": "FSV",
+      "start": "2019",
+      "end": "2019",
+      "metric": "SOLDE",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2017",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2017",
+      "end": "2017",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2018",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2018",
+      "end": "2018",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2019",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2019",
+      "end": "2019",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2020",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2020",
+      "end": "2020",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2021",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2021",
+      "end": "2021",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2022",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2022",
+      "end": "2022",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2023",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2023",
+      "end": "2023",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2024",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2024",
+      "end": "2024",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2025",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2025",
+      "end": "2025",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2026",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2026",
+      "end": "2026",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "exercice 2027",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2027",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "étapes PLFSS_RECTIF,LFSS_RECTIF",
+      "cells": 12,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2027",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS_RECTIF,LFSS_RECTIF",
+      "exclude": ""
+    },
+    {
+      "label": "étapes PROJECTION",
+      "cells": 6,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2027",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PROJECTION",
+      "exclude": ""
+    },
+    {
+      "label": "étapes PLFSS,LFSS,CONSTATE",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2027",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "unité 1",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2027",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "unité 1000000",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2027",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "unité 1000000000",
+      "cells": 18,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2027",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "écart publié visible et expliqué"
+    },
+    {
+      "label": "ONDAM 2017",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2017",
+      "end": "2017",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2018",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2018",
+      "end": "2018",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2019",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2019",
+      "end": "2019",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2020",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2020",
+      "end": "2020",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2021",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2021",
+      "end": "2021",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2022",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2022",
+      "end": "2022",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2023",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2023",
+      "end": "2023",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2024",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2024",
+      "end": "2024",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2025",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2025",
+      "end": "2025",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2026",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2026",
+      "end": "2026",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "ONDAM 2027",
+      "cells": 21,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2027",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "compteur central des preuves"
+    },
+    {
+      "label": "exclusion ONDAM",
+      "cells": 24,
+      "domain": "ONDAM",
+      "perimeter": "ROBSS",
+      "start": "2019",
+      "end": "2019",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": "SOINS_VILLE"
+    },
+    {
+      "label": "export Excel et compteur"
+    },
+    {
+      "label": "pagination documentaire"
+    },
+    {
+      "label": "documents 2017"
+    },
+    {
+      "label": "documents 2026"
+    },
+    {
+      "label": "documents 2027"
+    },
+    {
+      "label": "aucun résultat documentaire expliqué"
+    },
+    {
+      "label": "recherche vectorielle dans les documents 2027"
+    },
+    {
+      "label": "passage complet avec repères"
+    },
+    {
+      "label": "filtre documentaire 2017 après recherche 2027"
+    },
+    {
+      "label": "couverture et limites"
+    },
+    {
+      "label": "réinitialisation depuis couverture",
+      "cells": 90,
+      "domain": "EQUILIBRE",
+      "perimeter": "ROBSS",
+      "start": "2023",
+      "end": "2027",
+      "metric": "DEPENSES",
+      "stages": "PLFSS,LFSS,CONSTATE",
+      "exclude": ""
+    },
+    {
+      "label": "présentation ordinateur et téléphone"
+    }
+  ],
+  "errors": [],
+  "base": "http://127.0.0.1:18895"
+}

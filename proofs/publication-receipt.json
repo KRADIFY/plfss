@@ -1,0 +1,47 @@
+{
+  "published": true,
+  "passed": true,
+  "checked_at_utc": "2026-10-04T16:37:59.886276+00:00",
+  "url": "https://plfss.lexmachine.net/",
+  "server": "5.189.145.254",
+  "release": "/opt/plfss/releases/20261004-vectorise-7711a46a",
+  "authentication_required": false,
+  "gpu_used_for_publication": false,
+  "data_version": "7711a46a263ae522cd77b805ea6862bdd60f839644090006a9811ae433a1a34d",
+  "facts": 5412,
+  "passages": 311791,
+  "financial_cells_compared": 1056,
+  "browser_scenarios": 59,
+  "browser_cells_compared": 858,
+  "browser_errors": 0,
+  "nos_deniers_ready": true,
+  "other_nginx_hosts_unchanged": true,
+  "limits": {
+    "nos-deniers-plfss-public-web-1": {
+      "cpu": 1.0,
+      "memory_bytes": 805306368,
+      "cpu_shares": 256,
+      "healthy": true,
+      "restart_count": 0
+    },
+    "nos-deniers-plfss-public-retrieval-1": {
+      "cpu": 2.0,
+      "memory_bytes": 4294967296,
+      "cpu_shares": 256,
+      "healthy": true,
+      "restart_count": 0
+    }
+  },
+  "scope": "Publication HTTPS et égalité avec la génération locale ; pas de certification globale des détails d’annexes.",
+  "original_package_sha256": "665379f7e6b352f9250327c9c44a4a7477714cd6fa65b9a48f12f31f8f7633f5",
+  "documentation_updated_after_checks": [
+    "README.txt",
+    "POINT_DE_REPRISE.md"
+  ],
+  "file_sha256": {
+    "data/derived/plfss.sqlite": "8c37953ef9c4bb222c132b8134bf652aebe86670818a4202f7c9dfc67083da24",
+    "data/search/search.sqlite": "243914843c499e27329d1613b9ce904dd89b720c123c340efbe5d841155bc024",
+    "data/search/dense.faiss": "9fc366560c01f38e0560a333b836180b6ba07cd0507d23451f329efee938ae06",
+    "compose.yaml": "dde6c2192b289552afd75256fe108e4dade46c29a38de04116e03192008549b1"
+  }
+}

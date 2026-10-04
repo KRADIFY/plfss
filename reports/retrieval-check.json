@@ -1,0 +1,142 @@
+{
+  "passed": true,
+  "data_version": "7711a46a263ae522cd77b805ea6862bdd60f839644090006a9811ae433a1a34d",
+  "passages": 311791,
+  "indexed_documents": 2170,
+  "physical_files": 2086,
+  "checked_citations": 75,
+  "hybrid_methods": [
+    "dense",
+    "sparse_rerank",
+    "text"
+  ],
+  "checks": [
+    {
+      "q": "ONDAM",
+      "year": "2017",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 1.718
+    },
+    {
+      "q": "ONDAM",
+      "year": "2018",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 2.14
+    },
+    {
+      "q": "ONDAM",
+      "year": "2019",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 2.543
+    },
+    {
+      "q": "ONDAM",
+      "year": "2020",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 2.24
+    },
+    {
+      "q": "ONDAM",
+      "year": "2021",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 1.498
+    },
+    {
+      "q": "ONDAM",
+      "year": "2022",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 1.338
+    },
+    {
+      "q": "ONDAM",
+      "year": "2023",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 1.061
+    },
+    {
+      "q": "ONDAM",
+      "year": "2024",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 1.138
+    },
+    {
+      "q": "ONDAM",
+      "year": "2025",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 1.197
+    },
+    {
+      "q": "ONDAM",
+      "year": "2026",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 1.362
+    },
+    {
+      "q": "ONDAM",
+      "year": "2027",
+      "mode": "text",
+      "limit": 5,
+      "results": 5,
+      "seconds": 5.006
+    },
+    {
+      "q": "ONDAM",
+      "year": "2027",
+      "mode": "hybrid",
+      "limit": 5,
+      "results": 5,
+      "seconds": 6.66
+    },
+    {
+      "q": "autonomie",
+      "year": "2027",
+      "mode": "hybrid",
+      "limit": 5,
+      "results": 5,
+      "seconds": 7.795
+    },
+    {
+      "q": "maladie",
+      "year": "2027",
+      "mode": "hybrid",
+      "limit": 5,
+      "results": 5,
+      "seconds": 11.314
+    },
+    {
+      "q": "ONDAM",
+      "year": "2027",
+      "format": "pdf",
+      "family": "PLFSS et annexes",
+      "mode": "hybrid",
+      "limit": 5,
+      "results": 5,
+      "seconds": 6.472
+    }
+  ],
+  "financial_database_sha256": "8c37953ef9c4bb222c132b8134bf652aebe86670818a4202f7c9dfc67083da24",
+  "search_input_sha256": "3ab0e1a4256b6903718ecbfdbca174b6592ac8638093d1def1d4f72f3a741d68",
+  "model": "BAAI/bge-m3",
+  "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "scope": "Intégrité de tous les passages importés et recherches réelles filtrées ; ne certifie pas tous les tableaux financiers des annexes."
+}

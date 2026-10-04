@@ -1,0 +1,666 @@
+{
+  "data_version": "7711a46a263ae522cd77b805ea6862bdd60f839644090006a9811ae433a1a34d",
+  "lines": 9,
+  "all_lines_documented": true,
+  "source_values_changed": 0,
+  "unresolved_authoritative_corrections": 9,
+  "support_download_failures": [],
+  "items": [
+    {
+      "key": [
+        "JORFARTI000036339103",
+        0,
+        2017,
+        "ROBSS",
+        "VIEILLESSE",
+        3
+      ],
+      "source_sha": "1d248fc2785bcf3da9bbb0e0d2f27ad2fe51b566dfd011510d79ba1331fd751b",
+      "values_cents": {
+        "RECETTES": 23220000000000,
+        "DEPENSES": 23110000000000,
+        "SOLDE": 150000000000
+      },
+      "category": "divergence_article_annexe",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "L’article rectificatif imprime 232,2 / 231,1 / +1,5 Md€. L’annexe B de la même édition imprime 232,6 / 231,1 / +1,5 Md€ pour la vieillesse des régimes de base. Le rapport sénatorial reprend cette seconde série. La différence porte sur les recettes ; le solde de +1,5 n’est pas modifié. Les deux emplacements sont conservés ; l’article n’est pas réécrit à partir de l’annexe.",
+      "comparisons": [
+        {
+          "source_id": "JORFARTI000036339114",
+          "source_sha": "0fa0f6c4722e20406b096f5e3727cd9faa1933ac46b05cb917e0ee7b3410f1ac",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036339114",
+          "table_index": 2,
+          "balance_row_index": 13,
+          "stage": "LFSS_RECTIF",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 23260000000000,
+            "DEPENSES": 23110000000000,
+            "SOLDE": 150000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "d5a97207cd2a12e2bd0c4177",
+          "source_sha": "070af65a608b4e21ce8297cd4c570ae1d00ec6d86e4e390da32c5eae0bbf2c68",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0269.html",
+          "table_index": 3,
+          "balance_row_index": 3,
+          "stage": "PLFSS_RECTIF",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 23220000000000,
+            "DEPENSES": 23110000000000,
+            "SOLDE": 150000000000
+          },
+          "gap_cents": -40000000000
+        },
+        {
+          "source_id": "d5a97207cd2a12e2bd0c4177",
+          "source_sha": "070af65a608b4e21ce8297cd4c570ae1d00ec6d86e4e390da32c5eae0bbf2c68",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0269.html",
+          "table_index": 27,
+          "balance_row_index": 27,
+          "stage": "PLFSS_RECTIF",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 23260000000000,
+            "DEPENSES": 23110000000000,
+            "SOLDE": 150000000000
+          },
+          "gap_cents": 0
+        }
+      ],
+      "evidence": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:08.955085+00:00"
+    },
+    {
+      "key": [
+        "JORFARTI000036339114",
+        5,
+        2019,
+        "ROBSS_FSV",
+        "TOTAL_FSV",
+        1
+      ],
+      "source_sha": "0fa0f6c4722e20406b096f5e3727cd9faa1933ac46b05cb917e0ee7b3410f1ac",
+      "values_cents": {
+        "RECETTES": 50960000000000,
+        "DEPENSES": 50900000000000,
+        "SOLDE": -60000000000
+      },
+      "category": "divergence_signe_entre_publications",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "Les recettes et dépenses de la projection sont identiques dans l’annexe JORF et la présentation sénatoriale de l’annexe B. Le JORF porte un solde négatif, alors que l’Assemblée et le Sénat présentent un solde positif pour 2019, 2020 et 2021. Le signe positif concorde avec recettes moins dépenses. Cela documente une divergence de publication ; aucun signe n’est retourné automatiquement dans la valeur JORF.",
+      "comparisons": [
+        {
+          "source_id": "d5a97207cd2a12e2bd0c4177",
+          "source_sha": "070af65a608b4e21ce8297cd4c570ae1d00ec6d86e4e390da32c5eae0bbf2c68",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0269.html",
+          "table_index": 27,
+          "balance_row_index": 42,
+          "stage": "PROJECTION",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 50960000000000,
+            "DEPENSES": 50900000000000,
+            "SOLDE": 60000000000
+          },
+          "gap_cents": 0
+        }
+      ],
+      "evidence": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:08.966087+00:00"
+    },
+    {
+      "key": [
+        "JORFARTI000036339114",
+        5,
+        2020,
+        "ROBSS_FSV",
+        "TOTAL_FSV",
+        1
+      ],
+      "source_sha": "0fa0f6c4722e20406b096f5e3727cd9faa1933ac46b05cb917e0ee7b3410f1ac",
+      "values_cents": {
+        "RECETTES": 52500000000000,
+        "DEPENSES": 52010000000000,
+        "SOLDE": -490000000000
+      },
+      "category": "divergence_signe_entre_publications",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "Les recettes et dépenses de la projection sont identiques dans l’annexe JORF et la présentation sénatoriale de l’annexe B. Le JORF porte un solde négatif, alors que l’Assemblée et le Sénat présentent un solde positif pour 2019, 2020 et 2021. Le signe positif concorde avec recettes moins dépenses. Cela documente une divergence de publication ; aucun signe n’est retourné automatiquement dans la valeur JORF.",
+      "comparisons": [
+        {
+          "source_id": "d5a97207cd2a12e2bd0c4177",
+          "source_sha": "070af65a608b4e21ce8297cd4c570ae1d00ec6d86e4e390da32c5eae0bbf2c68",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0269.html",
+          "table_index": 27,
+          "balance_row_index": 42,
+          "stage": "PROJECTION",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 52500000000000,
+            "DEPENSES": 52010000000000,
+            "SOLDE": 480000000000
+          },
+          "gap_cents": 10000000000
+        }
+      ],
+      "evidence": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:08.976090+00:00"
+    },
+    {
+      "key": [
+        "JORFARTI000036339114",
+        5,
+        2021,
+        "ROBSS_FSV",
+        "TOTAL_FSV",
+        1
+      ],
+      "source_sha": "0fa0f6c4722e20406b096f5e3727cd9faa1933ac46b05cb917e0ee7b3410f1ac",
+      "values_cents": {
+        "RECETTES": 54110000000000,
+        "DEPENSES": 53250000000000,
+        "SOLDE": -860000000000
+      },
+      "category": "divergence_signe_entre_publications",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "Les recettes et dépenses de la projection sont identiques dans l’annexe JORF et la présentation sénatoriale de l’annexe B. Le JORF porte un solde négatif, alors que l’Assemblée et le Sénat présentent un solde positif pour 2019, 2020 et 2021. Le signe positif concorde avec recettes moins dépenses. Cela documente une divergence de publication ; aucun signe n’est retourné automatiquement dans la valeur JORF.",
+      "comparisons": [
+        {
+          "source_id": "d5a97207cd2a12e2bd0c4177",
+          "source_sha": "070af65a608b4e21ce8297cd4c570ae1d00ec6d86e4e390da32c5eae0bbf2c68",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0269.html",
+          "table_index": 27,
+          "balance_row_index": 42,
+          "stage": "PROJECTION",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 54110000000000,
+            "DEPENSES": 53250000000000,
+            "SOLDE": 860000000000
+          },
+          "gap_cents": 0
+        }
+      ],
+      "evidence": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:08.986087+00:00"
+    },
+    {
+      "key": [
+        "JORFARTI000039675325",
+        1,
+        2018,
+        "RG_FSV",
+        "TOTAL_FSV",
+        6
+      ],
+      "source_sha": "b03931cc62aa6f783d26a00907ad3d7abc0a479e517c812f7424b435de6f6f0f",
+      "values_cents": {
+        "RECETTES": 39460000000000,
+        "DEPENSES": 39580000000000,
+        "SOLDE": 120000000000
+      },
+      "category": "divergence_signe_article_annexe",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "Pour 2018, l’article 1 JORF imprime +1,2 Md€ pour RG+FSV avec 394,6 de recettes et 395,8 de dépenses. L’annexe B et le texte parlementaire examiné présentent −1,2 Md€ pour ce même périmètre. La divergence de signe est localisée et sourcée ; l’article JORF reste conservé avec son avertissement.",
+      "comparisons": [
+        {
+          "source_id": "JORFARTI000039675337",
+          "source_sha": "d2a26032be03a91b5dcd3b85f90785725afda6bebb16b067851a07b5d4586d1c",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000039675337",
+          "table_index": 4,
+          "balance_row_index": 1,
+          "stage": "CONSTATE",
+          "edition": 2020,
+          "values_cents": {
+            "RECETTES": 39460000000000,
+            "DEPENSES": 39580000000000,
+            "SOLDE": -120000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "JORFARTI000042665406",
+          "source_sha": "6e5831a99ec6bd4fe2c867fec708a0f35afc552ddf71e08363de92c148c2ee17",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000042665406",
+          "table_index": 6,
+          "balance_row_index": 1,
+          "stage": "CONSTATE",
+          "edition": 2021,
+          "values_cents": {
+            "RECETTES": 39460000000000,
+            "DEPENSES": 39580000000000,
+            "SOLDE": -120000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "JORFARTI000044553476",
+          "source_sha": "0b9545250e493afffc62055a3a6b83b89be88e3cc9c831ba05dd7ba7a7df9973",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044553476",
+          "table_index": 3,
+          "balance_row_index": 1,
+          "stage": "CONSTATE",
+          "edition": 2022,
+          "values_cents": {
+            "RECETTES": 39460000000000,
+            "DEPENSES": 39580000000000,
+            "SOLDE": -120000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "c6087b8b6b0d98a44ff9573c",
+          "source_sha": "2ecd8716bfe70736951e55cad2f29ee0ce045147fb5bf787d15a6b1c12b913a9",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B2296.html",
+          "table_index": 19,
+          "balance_row_index": 38,
+          "stage": "CONSTATE",
+          "edition": 2020,
+          "values_cents": {
+            "RECETTES": 39460000000000,
+            "DEPENSES": 39580000000000,
+            "SOLDE": -120000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "8081d8f865aa8e5a649466e8",
+          "source_sha": "dff95e4f2a96e2c082d9a14bcd420ce126499e8afc828b8b58793ff605d3a2ed",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B3397.html",
+          "table_index": 19,
+          "balance_row_index": 43,
+          "stage": "CONSTATE",
+          "edition": 2021,
+          "values_cents": {
+            "RECETTES": 39460000000000,
+            "DEPENSES": 39580000000000,
+            "SOLDE": -120000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "c6bb95edc6d0f892471d293f",
+          "source_sha": "34db99c9501217d72d06583b86c7581d3b111d9a6e2c8b4665d79eb025329827",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B4523.html",
+          "table_index": 19,
+          "balance_row_index": 2,
+          "stage": "CONSTATE",
+          "edition": 2022,
+          "values_cents": {
+            "RECETTES": 39460000000000,
+            "DEPENSES": 39580000000000,
+            "SOLDE": -120000000000
+          },
+          "gap_cents": 0
+        }
+      ],
+      "evidence": [
+        {
+          "id": "e36eb4597f6491649b1013cf",
+          "title": "LFSS 2020 : texte examiné au Sénat, article 1 et annexe B",
+          "url": "https://www.senat.fr/enseance/textes/2019-2020/98.html",
+          "path": "documents/2020/e36eb4597f6491649b1013cf_98.html",
+          "sha256": "c9151b3c368368f56b954a23f10da840a9ab1c94e933fdb198920779b6ed22c4",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:09.098172+00:00"
+    },
+    {
+      "key": [
+        "JORFARTI000046791760",
+        1,
+        2021,
+        "RG",
+        "MALADIE",
+        1
+      ],
+      "source_sha": "304c8cc7b19248fe4507875abfa51deba07e50e19372bbf6cc598952c8e7c9e7",
+      "values_cents": {
+        "RECETTES": 20530000000000,
+        "DEPENSES": 23500000000000,
+        "SOLDE": -2870000000000
+      },
+      "category": "coordination_legislative_incomplete_documentee",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "Le rapport sénatorial sur le PLACSS 2022 reprend 205,3 / 235,0 / −28,7 Md€ pour la maladie du régime général en 2021 et décrit les coordinations législatives incomplètes après la correction des comptes. Ce commentaire éclaire le contexte mais ne justifie pas à lui seul quel chiffre de la ligne changer. Les trois valeurs légales et l’écart arithmétique restent affichés ; aucune dépense ou recette corrigée n’est inventée.",
+      "comparisons": [],
+      "evidence": [
+        {
+          "id": "8dfcb776a84e22b8d92baa3d",
+          "title": "PLACSS 2022 : rapport du Sénat sur les corrections incomplètes des comptes 2021",
+          "url": "https://www.senat.fr/rap/l22-789/l22-789_mono.html",
+          "path": "documents/2022/8dfcb776a84e22b8d92baa3d_l22-789_mono.html",
+          "sha256": "4cfccce195a576788dcae3aee63ded2c0379afe88daa534820e2fb8157a2b267",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:09.101137+00:00"
+    },
+    {
+      "key": [
+        "d5a97207cd2a12e2bd0c4177",
+        3,
+        2017,
+        "ROBSS",
+        "VIEILLESSE",
+        3
+      ],
+      "source_sha": "070af65a608b4e21ce8297cd4c570ae1d00ec6d86e4e390da32c5eae0bbf2c68",
+      "values_cents": {
+        "RECETTES": 23220000000000,
+        "DEPENSES": 23110000000000,
+        "SOLDE": 150000000000
+      },
+      "category": "divergence_article_annexe",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "L’article rectificatif imprime 232,2 / 231,1 / +1,5 Md€. L’annexe B de la même édition imprime 232,6 / 231,1 / +1,5 Md€ pour la vieillesse des régimes de base. Le rapport sénatorial reprend cette seconde série. La différence porte sur les recettes ; le solde de +1,5 n’est pas modifié. Les deux emplacements sont conservés ; l’article n’est pas réécrit à partir de l’annexe.",
+      "comparisons": [
+        {
+          "source_id": "JORFARTI000036339103",
+          "source_sha": "1d248fc2785bcf3da9bbb0e0d2f27ad2fe51b566dfd011510d79ba1331fd751b",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036339103",
+          "table_index": 0,
+          "balance_row_index": 3,
+          "stage": "LFSS_RECTIF",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 23220000000000,
+            "DEPENSES": 23110000000000,
+            "SOLDE": 150000000000
+          },
+          "gap_cents": -40000000000
+        },
+        {
+          "source_id": "JORFARTI000036339114",
+          "source_sha": "0fa0f6c4722e20406b096f5e3727cd9faa1933ac46b05cb917e0ee7b3410f1ac",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000036339114",
+          "table_index": 2,
+          "balance_row_index": 13,
+          "stage": "LFSS_RECTIF",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 23260000000000,
+            "DEPENSES": 23110000000000,
+            "SOLDE": 150000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "d5a97207cd2a12e2bd0c4177",
+          "source_sha": "070af65a608b4e21ce8297cd4c570ae1d00ec6d86e4e390da32c5eae0bbf2c68",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0269.html",
+          "table_index": 27,
+          "balance_row_index": 27,
+          "stage": "PLFSS_RECTIF",
+          "edition": 2018,
+          "values_cents": {
+            "RECETTES": 23260000000000,
+            "DEPENSES": 23110000000000,
+            "SOLDE": 150000000000
+          },
+          "gap_cents": 0
+        }
+      ],
+      "evidence": [
+        {
+          "id": "360690f2a4b66774810840c8",
+          "title": "LFSS 2018 : annexe B examinée au Sénat",
+          "url": "https://www.senat.fr/rap/l17-122/l17-1225.html",
+          "path": "documents/2018/360690f2a4b66774810840c8_l17-1225.html",
+          "sha256": "7b23a09e8de7e46703f13f6f630efca9c3cfc61031ad72df6922dfc402b8206f",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:09.116396+00:00"
+    },
+    {
+      "key": [
+        "c6bb95edc6d0f892471d293f",
+        17,
+        2023,
+        "ROBSS",
+        "VIEILLESSE",
+        11
+      ],
+      "source_sha": "34db99c9501217d72d06583b86c7581d3b111d9a6e2c8b4665d79eb025329827",
+      "values_cents": {
+        "RECETTES": 25890000000000,
+        "DEPENSES": 26560000000000,
+        "SOLDE": -570000000000
+      },
+      "category": "incoherence_source_reproduite",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "La projection vieillesse 2023 du PLFSS 2022 imprime 258,9 / 265,6 / −5,7 Md€ : la soustraction donne −6,7. Le PDF initial et le texte parlementaire examiné reproduisent cette série. Aucun rectificatif établissant la valeur à remplacer n’est démontré dans le lot. L’incohérence est donc documentée et reste signalée, sans transformer le résultat calculé en solde officiel.",
+      "comparisons": [
+        {
+          "source_id": "JORFARTI000044553476",
+          "source_sha": "0b9545250e493afffc62055a3a6b83b89be88e3cc9c831ba05dd7ba7a7df9973",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044553476",
+          "table_index": 1,
+          "balance_row_index": 13,
+          "stage": "PROJECTION",
+          "edition": 2022,
+          "values_cents": {
+            "RECETTES": 25970000000000,
+            "DEPENSES": 26460000000000,
+            "SOLDE": -500000000000
+          },
+          "gap_cents": 10000000000
+        }
+      ],
+      "evidence": [
+        {
+          "id": "83a691f0547bed1b9cd61f7d",
+          "title": "PLFSS 2022 : texte initial PDF, annexes B et C",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/projets/pl4523.pdf",
+          "path": "documents/2022/83a691f0547bed1b9cd61f7d_pl4523.pdf",
+          "sha256": "43f02cd16fb8e9862fdab417629a79321fa45046b4f1cf9f9587e726cd998a64",
+          "status": "downloaded",
+          "page_number": 165
+        },
+        {
+          "id": "2c5e6851c3e9e97e8aecea07",
+          "title": "PLFSS 2022 : texte examiné au Sénat, annexe B",
+          "url": "https://www.senat.fr/enseance/textes/2021-2022/118.html",
+          "path": "documents/2022/2c5e6851c3e9e97e8aecea07_118.html",
+          "sha256": "8ae887823470649a051c9e92721d5c18e38abdcf53ce77cfd0d735e5a97c6ce5",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:09.126401+00:00"
+    },
+    {
+      "key": [
+        "c6bb95edc6d0f892471d293f",
+        18,
+        2018,
+        "FSV",
+        "FSV",
+        2
+      ],
+      "source_sha": "34db99c9501217d72d06583b86c7581d3b111d9a6e2c8b4665d79eb025329827",
+      "values_cents": {
+        "RECETTES": 1720000000000,
+        "DEPENSES": 1990000000000,
+        "SOLDE": -180000000000
+      },
+      "category": "divergence_valeur_annexe_historique",
+      "analysis_status": "documented_original_values_retained",
+      "resolved_value": false,
+      "warning_required": true,
+      "explanation": "Le PLFSS 2022, y compris son PDF et le texte examiné au Sénat, publie 17,2 / 19,9 / −1,8 Md€ pour le FSV en 2018. L’article 1 et l’annexe B de la LFSS 2020 publient 17,2 / 19,0 / −1,8 Md€ pour 2018. Le montant des dépenses diffère de 0,9 Md€ ; aucune correction formelle du PLFSS 2022 n’a été trouvée dans ce rapprochement. L’ancienne annexe est conservée comme une observation distincte, pas comme un nouveau résultat 2018.",
+      "comparisons": [
+        {
+          "source_id": "JORFARTI000039675337",
+          "source_sha": "d2a26032be03a91b5dcd3b85f90785725afda6bebb16b067851a07b5d4586d1c",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000039675337",
+          "table_index": 3,
+          "balance_row_index": 1,
+          "stage": "CONSTATE",
+          "edition": 2020,
+          "values_cents": {
+            "RECETTES": 1720000000000,
+            "DEPENSES": 1900000000000,
+            "SOLDE": -180000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "JORFARTI000042665406",
+          "source_sha": "6e5831a99ec6bd4fe2c867fec708a0f35afc552ddf71e08363de92c148c2ee17",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000042665406",
+          "table_index": 5,
+          "balance_row_index": 1,
+          "stage": "CONSTATE",
+          "edition": 2021,
+          "values_cents": {
+            "RECETTES": 1720000000000,
+            "DEPENSES": 1900000000000,
+            "SOLDE": -180000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "JORFARTI000044553476",
+          "source_sha": "0b9545250e493afffc62055a3a6b83b89be88e3cc9c831ba05dd7ba7a7df9973",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000044553476",
+          "table_index": 2,
+          "balance_row_index": 1,
+          "stage": "CONSTATE",
+          "edition": 2022,
+          "values_cents": {
+            "RECETTES": 1720000000000,
+            "DEPENSES": 1900000000000,
+            "SOLDE": -180000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "c6087b8b6b0d98a44ff9573c",
+          "source_sha": "2ecd8716bfe70736951e55cad2f29ee0ce045147fb5bf787d15a6b1c12b913a9",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B2296.html",
+          "table_index": 19,
+          "balance_row_index": 34,
+          "stage": "CONSTATE",
+          "edition": 2020,
+          "values_cents": {
+            "RECETTES": 1720000000000,
+            "DEPENSES": 1900000000000,
+            "SOLDE": -180000000000
+          },
+          "gap_cents": 0
+        },
+        {
+          "source_id": "8081d8f865aa8e5a649466e8",
+          "source_sha": "dff95e4f2a96e2c082d9a14bcd420ce126499e8afc828b8b58793ff605d3a2ed",
+          "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B3397.html",
+          "table_index": 19,
+          "balance_row_index": 39,
+          "stage": "CONSTATE",
+          "edition": 2021,
+          "values_cents": {
+            "RECETTES": 1720000000000,
+            "DEPENSES": 1900000000000,
+            "SOLDE": -180000000000
+          },
+          "gap_cents": 0
+        }
+      ],
+      "evidence": [
+        {
+          "id": "e36eb4597f6491649b1013cf",
+          "title": "LFSS 2020 : texte examiné au Sénat, article 1 et annexe B",
+          "url": "https://www.senat.fr/enseance/textes/2019-2020/98.html",
+          "path": "documents/2020/e36eb4597f6491649b1013cf_98.html",
+          "sha256": "c9151b3c368368f56b954a23f10da840a9ab1c94e933fdb198920779b6ed22c4",
+          "status": "downloaded",
+          "page_number": null
+        },
+        {
+          "id": "83a691f0547bed1b9cd61f7d",
+          "title": "PLFSS 2022 : texte initial PDF, annexes B et C",
+          "url": "https://www.assemblee-nationale.fr/15/pdf/projets/pl4523.pdf",
+          "path": "documents/2022/83a691f0547bed1b9cd61f7d_pl4523.pdf",
+          "sha256": "43f02cd16fb8e9862fdab417629a79321fa45046b4f1cf9f9587e726cd998a64",
+          "status": "downloaded",
+          "page_number": 165
+        },
+        {
+          "id": "2c5e6851c3e9e97e8aecea07",
+          "title": "PLFSS 2022 : texte examiné au Sénat, annexe B",
+          "url": "https://www.senat.fr/enseance/textes/2021-2022/118.html",
+          "path": "documents/2022/2c5e6851c3e9e97e8aecea07_118.html",
+          "sha256": "8ae887823470649a051c9e92721d5c18e38abdcf53ce77cfd0d735e5a97c6ce5",
+          "status": "downloaded",
+          "page_number": null
+        }
+      ],
+      "checked_at": "2026-10-04T08:05:09.150404+00:00"
+    }
+  ]
+}

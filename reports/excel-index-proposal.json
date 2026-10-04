@@ -1,0 +1,63 @@
+{
+  "status": "proposal_only_not_applied",
+  "source_files_changed": false,
+  "preparation_contract_changed": false,
+  "numeric_database_changed": false,
+  "paid_compute_authorized": false,
+  "gpu_launched": false,
+  "proposal_code_sha256": "7e847e449d0b8922fbf3a75d0e746f8a33cb5addb7ff67af6a775bad0c7a39d3",
+  "examples": [
+    {
+      "source_id": "1d9eee3416dd3c28f0ff3914",
+      "source_sha256": "237c7c3d7ef55a4475b7edd7b4ec44ddc369ae875a547102ff58e03680f1d887",
+      "url": "https://www.securite-sociale.fr/files/live/sites/SSFR/files/medias/PLFSS/2023/Annexe%203_Tableaux.xlsx",
+      "sheet": "I.tab5",
+      "row_start": 32,
+      "original_columns": 16369,
+      "original_chunks": 298,
+      "original_tokens": 237100,
+      "proposed_chunks": 1,
+      "proposed_tokens": 259,
+      "unchanged_source_values": true,
+      "all_nulls_reconstructable": true,
+      "proposed_reading": [
+        "Ligne 32. Colonne 1 [en-tête candidat Tableau 5 - Actif] : [ABSENT NULL] | Colonne 2 [en-tête candidat (en millions d'euros) / IMMOBILISATIONS / Immobilisations non financières] : Créances nettes au titre des instruments financiers | Colonne 3 [en-tête candidat 2021 / Brut / 15616.6 / 13538.6] : 496.1 | Colonne 4 [en-tête candidat Amort. \nDépréc. / 8350.8 / 8341.7] : 0 | Colonne 5 [en-tête candidat Net / 7265.8 / 5196.8] : 496.1 | Colonne 6 [en-tête candidat 2020 / Net / 7303.4 / 5169.3] : 1997.9 | Colonne 7 [en-tête candidat variation 2021/2020 / -37.6 / 27.5] : -1501.8 | Colonnes 8 à 16369 : 16362 cellules [ABSENT NULL], conservées dans la preuve originale."
+      ],
+      "proposed_ranges": [
+        {
+          "first_column": 8,
+          "last_column": 16369,
+          "count": 16362,
+          "state": "NULL",
+          "source_row": 32
+        }
+      ]
+    },
+    {
+      "source_id": "d0866c69066cbeb89982e709",
+      "source_sha256": "9080a2318839df63b55a40f8476ebac6fbabbae51407d240ebc28e8267f68c6c",
+      "url": "https://www.securite-sociale.fr/files/live/sites/SSFR/files/medias/PLFSS/2024/Annexe%203_Donn%c3%a9es.xlsx",
+      "sheet": "III.tab12",
+      "row_start": 13,
+      "original_columns": 16384,
+      "original_chunks": 298,
+      "original_tokens": 237311,
+      "proposed_chunks": 1,
+      "proposed_tokens": 273,
+      "unchanged_source_values": true,
+      "all_nulls_reconstructable": true,
+      "proposed_reading": [
+        "Ligne 13. Colonne 1 [en-tête candidat Tableau 12 - Les rendements de contributions sociales, impôts et taxes, hors CSG (champ ROBSS + FSV)\n / Forfait social /] : Taxe tabacs | Colonne 2 [en-tête candidat 2021 / 5132 / 879] : 14738 | Colonne 3 [en-tête candidat 2022 / 6192 / 901] : 13765 | Colonne 4 [en-tête candidat % / 20.7 / 2.5] : -6.6 | Colonne 5 [en-tête candidat 2023 (p) / 6613 / 978] : 13701 | Colonne 6 [en-tête candidat % / 6.8 / 8.5] : -0.5 | Colonne 7 [en-tête candidat 2024 (p) / 7007 / 1016] : 13953 | Colonne 8 [en-tête candidat en millions d'euros / % / 6 / 3.9] : 1.8 | Colonnes 9 à 16384 : 16376 cellules [ABSENT NULL], conservées dans la preuve originale."
+      ],
+      "proposed_ranges": [
+        {
+          "first_column": 9,
+          "last_column": 16384,
+          "count": 16376,
+          "state": "NULL",
+          "source_row": 13
+        }
+      ]
+    }
+  ]
+}
