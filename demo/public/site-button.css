@@ -1,0 +1,9 @@
+/* Only the PLFSS demo access button; the application's existing styles stay intact. */
+.plfss-demo-link{display:inline-flex;align-items:center;justify-content:center;flex:none;gap:7px;margin-left:18px;margin-right:auto;padding:10px 15px;border:0;border-radius:12px;background:linear-gradient(145deg,#ffb766,#f3973c);color:#533013;font:700 12px/1.35 "Inter Display",Arial,sans-serif;white-space:nowrap;text-decoration:none}
+.plfss-demo-link:hover{text-decoration:none;filter:brightness(.97)}
+.plfss-demo-link:active{transform:translateY(1px)}
+.plfss-demo-link:focus-visible{outline:2px solid #173a55;outline-offset:4px}
+@media(max-width:720px){.plfss-demo-link{margin-left:6px;padding:9px 11px}}
+@media(max-width:1340px){.plfss-demo-link{margin-left:auto;margin-right:0}}
+@media(max-width:650px){.plfss-demo-link{position:absolute;right:20px;top:6px;margin:0;padding:7px 10px;font-size:11px}}
+@media(max-width:360px){.plfss-demo-link{right:8px;top:4px;padding:6px 8px;font-size:10px}}

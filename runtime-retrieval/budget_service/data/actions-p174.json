@@ -1,0 +1,799 @@
+{
+  "updated_at": "2026-09-10",
+  "method": "Colonne Total, lignes Prévision LFI et Consommation du même exercice ; aucune ouverture ni FdC ajouté.",
+  "coverage": "Programme 174, LFI et consommé, AE et CP, 2023–2025 ; six actions, aucune sous-action.",
+  "groups": [
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 421,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 579291410400,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 61,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 5792914104,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 117324229
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 4049047498
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 1296572041
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 270254000
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 58365571
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 1350765
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 421,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 486434821600,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 61,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 4864348216,
+      "action_sum_minus_parent_cents": -100,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 150054176
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 2664321403
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 1715754710
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 267556778
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 51847766
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 14813382
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 421,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 556376039000,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 62,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 5563760390,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 141379319
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 3795494265
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 1296572041
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 270254000
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 58710000
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 1350765
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 421,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 498675705500,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 62,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 4986757055,
+      "action_sum_minus_parent_cents": 100,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 130736570
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 2816824669
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 1697562193
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 267544769
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 53505928
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 20582927
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 426,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 581717706200,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 61,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 5817177062,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 187324229
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 3791947498
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 1500999999
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 270189000
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 65365571
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 1350765
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 426,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 435332483732,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 61,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 4353324837,
+      "action_sum_minus_parent_cents": -32,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 133103728
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 2008156266
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 1884762984
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 253014553
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 51481737
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 22805569
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 426,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 543515492500,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 61,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 5435154925,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 182674229
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 3416230932
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 1500999999
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 270189000
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 63710000
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 1350765
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 426,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 379744710997,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 61,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 3797447110,
+      "action_sum_minus_parent_cents": 103,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 93902151
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 1468153947
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 1909103748
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 253015478
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 50392900
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 22878887
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 401,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 191913163100,
+        "source": "fdf68434f123c7f199cd",
+        "line": 59,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 1919131631,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 178475248
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 900000000
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 496098326
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 256698000
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 81660056
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 6200001
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 401,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 156273330856,
+        "source": "fdf68434f123c7f199cd",
+        "line": 59,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 1562733309,
+      "action_sum_minus_parent_cents": -56,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 104647991
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 675288693
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 426486318
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 287548735
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 56519388
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 12242183
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 401,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 148372282500,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 59,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 1483722825,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 181122012
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 465000000
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 496098326
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 256698000
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 78604485
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 6200002
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 401,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 142292321643,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 59,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 1422923216,
+      "action_sum_minus_parent_cents": 157,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Politique de l'énergie",
+          "euros": 101084303
+        },
+        {
+          "code": "02",
+          "label": "Accompagnement transition énergétique",
+          "euros": 542414809
+        },
+        {
+          "code": "03",
+          "label": "Aides à l'acquisition de véhicules propres",
+          "euros": 424760201
+        },
+        {
+          "code": "04",
+          "label": "Gestion économique et sociale de l'après-mines",
+          "euros": 287558200
+        },
+        {
+          "code": "05",
+          "label": "Lutte contre le changement climatique et pour la qualité de l'air",
+          "euros": 52750795
+        },
+        {
+          "code": "06",
+          "label": "Soutien",
+          "euros": 14354910
+        }
+      ]
+    }
+  ]
+}

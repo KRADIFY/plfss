@@ -1,0 +1,3191 @@
+{
+  "updated_at": "2026-09-10",
+  "coverage": "P181 et P217 : LFI/consommé, AE/CP, 2023–2025 ; P235 : 2025 seulement. Totaux par action tous titres, sans sous-action.",
+  "note": "Les parents T2 et HT2 sont conservés séparément. Chaque action utilise une seule fois le Total publié dans le RAP, hors FdC/AdP prévus pour la LFI.",
+  "groups": [
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 339,
+      "total_page": 339,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 5378887600,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 66,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 108772348000,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 67,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1141512356,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 60772005,
+          "page": 339
+        },
+        {
+          "code": "09",
+          "label": "Contrôle de la sûreté nucléaire et de la radioprotection",
+          "euros": 66923089,
+          "page": 339
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 37499037,
+          "page": 339
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 41252108,
+          "page": 339
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 700000000,
+          "page": 339
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 30066117,
+          "page": 339
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 205000000,
+          "page": 339
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 339,
+      "total_page": 339,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 4433071890,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 66,
+          "field": "AE_Consommees",
+          "approximate": 0
+        },
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 106286705200,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 67,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1107197771,
+      "action_sum_minus_parent_cents": 10,
+      "published_total_minus_parent_cents": 10,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 57370768,
+          "page": 339
+        },
+        {
+          "code": "09",
+          "label": "Contrôle de la sûreté nucléaire et de la radioprotection",
+          "euros": 62163353,
+          "page": 339
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 39419644,
+          "page": 339
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 41019866,
+          "page": 339
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 673709349,
+          "page": 339
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 20432989,
+          "page": 339
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 213081802,
+          "page": 339
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 339,
+      "total_page": 340,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 5378887600,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 67,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 108936169100,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 68,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1143150567,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 62710216,
+          "page": 339
+        },
+        {
+          "code": "09",
+          "label": "Contrôle de la sûreté nucléaire et de la radioprotection",
+          "euros": 71623089,
+          "page": 339
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 37499037,
+          "page": 339
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 41252108,
+          "page": 339
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 700000000,
+          "page": 339
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 30066117,
+          "page": 340
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 200000000,
+          "page": 340
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 339,
+      "total_page": 340,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 4433071890,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 67,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        },
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 106494204700,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 68,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1109272766,
+      "action_sum_minus_parent_cents": 10,
+      "published_total_minus_parent_cents": 10,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 64240788,
+          "page": 339
+        },
+        {
+          "code": "09",
+          "label": "Contrôle de la sûreté nucléaire et de la radioprotection",
+          "euros": 67213681,
+          "page": 339
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 42446443,
+          "page": 339
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 41400213,
+          "page": 339
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 673709349,
+          "page": 339
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 20432989,
+          "page": 340
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 199829303,
+          "page": 340
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 339,
+      "total_page": 339,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 5703631600,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 66,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 129990917400,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 67,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1356945490,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 70522005,
+          "page": 339
+        },
+        {
+          "code": "09",
+          "label": "Contrôle de la sûreté nucléaire et de la radioprotection",
+          "euros": 70490056,
+          "page": 339
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 37799037,
+          "page": 339
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 42068275,
+          "page": 339
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 879000000,
+          "page": 339
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 32066117,
+          "page": 339
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 225000000,
+          "page": 339
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 339,
+      "total_page": 339,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 4763382672,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 66,
+          "field": "AE_Consommees",
+          "approximate": 0
+        },
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 122549538037,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 67,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1273129207,
+      "action_sum_minus_parent_cents": 91,
+      "published_total_minus_parent_cents": -9,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 68166724,
+          "page": 339
+        },
+        {
+          "code": "09",
+          "label": "Contrôle de la sûreté nucléaire et de la radioprotection",
+          "euros": 67552267,
+          "page": 339
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 32612893,
+          "page": 339
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 39124726,
+          "page": 339
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 788503530,
+          "page": 339
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 32627848,
+          "page": 339
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 244541220,
+          "page": 339
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 339,
+      "total_page": 339,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 5703631600,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 66,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 130154738500,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 67,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1358583701,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 72460216,
+          "page": 339
+        },
+        {
+          "code": "09",
+          "label": "Contrôle de la sûreté nucléaire et de la radioprotection",
+          "euros": 75190056,
+          "page": 339
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 37799037,
+          "page": 339
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 42068275,
+          "page": 339
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 879000000,
+          "page": 339
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 32066117,
+          "page": 339
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 220000000,
+          "page": 339
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 339,
+      "total_page": 340,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 4763382672,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 66,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        },
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 123828371199,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 67,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1285917539,
+      "action_sum_minus_parent_cents": 129,
+      "published_total_minus_parent_cents": 29,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 75173482,
+          "page": 339
+        },
+        {
+          "code": "09",
+          "label": "Contrôle de la sûreté nucléaire et de la radioprotection",
+          "euros": 72322960,
+          "page": 339
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 35342104,
+          "page": 339
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 45361527,
+          "page": 339
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 788503530,
+          "page": 339
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 32627848,
+          "page": 339
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 236586089,
+          "page": 339
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 325,
+      "total_page": 325,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 141779950100,
+          "source": "fdf68434f123c7f199cd",
+          "line": 64,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1417799501,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 59322005,
+          "page": 325
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 65161090,
+          "page": 325
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 42389976,
+          "page": 325
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 888360313,
+          "page": 325
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 32566117,
+          "page": 325
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 330000000,
+          "page": 325
+        },
+        {
+          "code": "15",
+          "label": "Retrait Gonflement des Argiles",
+          "euros": 0,
+          "page": 325
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 325,
+      "total_page": 325,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 125393589546,
+          "source": "fdf68434f123c7f199cd",
+          "line": 64,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1253935895,
+      "action_sum_minus_parent_cents": 54,
+      "published_total_minus_parent_cents": -46,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 39652920,
+          "page": 325
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 35228088,
+          "page": 325
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 41313168,
+          "page": 325
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 842785549,
+          "page": 325
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 32635287,
+          "page": 325
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 261655517,
+          "page": 325
+        },
+        {
+          "code": "15",
+          "label": "Retrait Gonflement des Argiles",
+          "euros": 665367,
+          "page": 325
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 325,
+      "total_page": 325,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 134973771200,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 64,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1349737712,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 61260216,
+          "page": 325
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 37799037,
+          "page": 325
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 42389976,
+          "page": 325
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 888360313,
+          "page": 325
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 32566117,
+          "page": 325
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 287362053,
+          "page": 325
+        },
+        {
+          "code": "15",
+          "label": "Retrait Gonflement des Argiles",
+          "euros": 0,
+          "page": 325
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "181",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 325,
+      "total_page": 326,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "181",
+          "program_label": "Prévention des risques",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 125129317034,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 64,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 1251293170,
+      "action_sum_minus_parent_cents": -34,
+      "published_total_minus_parent_cents": -34,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Prévention des risques technologiques et des pollutions",
+          "euros": 52920475,
+          "page": 325
+        },
+        {
+          "code": "10",
+          "label": "Prévention des risques naturels et hydrauliques",
+          "euros": 32835735,
+          "page": 325
+        },
+        {
+          "code": "11",
+          "label": "Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites",
+          "euros": 40187277,
+          "page": 325
+        },
+        {
+          "code": "12",
+          "label": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME)",
+          "euros": 842784433,
+          "page": 325
+        },
+        {
+          "code": "13",
+          "label": "Institut national de l'environnement industriel et des risques (INERIS)",
+          "euros": 32635287,
+          "page": 325
+        },
+        {
+          "code": "14",
+          "label": "Fonds de prévention des risques naturels majeurs",
+          "euros": 249646158,
+          "page": 325
+        },
+        {
+          "code": "15",
+          "label": "Retrait Gonflement des Argiles",
+          "euros": 283805,
+          "page": 325
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 518,
+      "total_page": 518,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 275809300000,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 59,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 22017274000,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 60,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 2978265740,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 828694885,
+          "page": 518
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 589028029,
+          "page": 518
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 518
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 204591360,
+          "page": 518
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 264595249,
+          "page": 518
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 671574822,
+          "page": 518
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 265898066,
+          "page": 518
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 0,
+          "page": 518
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 10321500,
+          "page": 518
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 65706954,
+          "page": 518
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 4066571,
+          "page": 518
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 2010885,
+          "page": 518
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 20074021,
+          "page": 518
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 51703398,
+          "page": 518
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 518,
+      "total_page": 518,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 275767961300,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 59,
+          "field": "AE_Consommees",
+          "approximate": 0
+        },
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 20784775950,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 60,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 2965527372,
+      "action_sum_minus_parent_cents": 50,
+      "published_total_minus_parent_cents": -50,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 808520109,
+          "page": 518
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 599730393,
+          "page": 518
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 518
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 219810410,
+          "page": 518
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 282195363,
+          "page": 518
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 597458269,
+          "page": 518
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 280238238,
+          "page": 518
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 5054449,
+          "page": 518
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 15068885,
+          "page": 518
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 73305953,
+          "page": 518
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 5726660,
+          "page": 518
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 2119602,
+          "page": 518
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 20313769,
+          "page": 518
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 55985273,
+          "page": 518
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 519,
+      "total_page": 519,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 275809300000,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 60,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 23731986900,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 61,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 2995412869,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 843281344,
+          "page": 519
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 589028029,
+          "page": 519
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 519
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 204591360,
+          "page": 519
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 264595249,
+          "page": 519
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 671574822,
+          "page": 519
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 265898066,
+          "page": 519
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 0,
+          "page": 519
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 10321500,
+          "page": 519
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 65706954,
+          "page": 519
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 4066571,
+          "page": 519
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 2010885,
+          "page": 519
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 22634691,
+          "page": 519
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 51703398,
+          "page": 519
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 519,
+      "total_page": 519,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 275767961300,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 60,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        },
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 23671478030,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 61,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 2994394393,
+      "action_sum_minus_parent_cents": 70,
+      "published_total_minus_parent_cents": -30,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 834211389,
+          "page": 519
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 599730393,
+          "page": 519
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 519
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 219810410,
+          "page": 519
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 282195363,
+          "page": 519
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 597458269,
+          "page": 519
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 280238238,
+          "page": 519
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 5054449,
+          "page": 519
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 15068885,
+          "page": 519
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 73305953,
+          "page": 519
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 6017055,
+          "page": 519
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 2058572,
+          "page": 519
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 23260145,
+          "page": 519
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 55985273,
+          "page": 519
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 530,
+      "total_page": 530,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 283110017900,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 59,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 27241737100,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 60,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 3103517550,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 904545263,
+          "page": 530
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 591826782,
+          "page": 530
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 530
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 222714416,
+          "page": 530
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 266205446,
+          "page": 530
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 677073578,
+          "page": 530
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 279606389,
+          "page": 530
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 0,
+          "page": 530
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 9792775,
+          "page": 530
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 70243597,
+          "page": 530
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 4067149,
+          "page": 530
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 2010886,
+          "page": 530
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 21946096,
+          "page": 530
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 53485173,
+          "page": 530
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 530,
+      "total_page": 530,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 282914521727,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 59,
+          "field": "AE_Consommees",
+          "approximate": 0
+        },
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 19918182169,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 60,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 3028327039,
+      "action_sum_minus_parent_cents": 4,
+      "published_total_minus_parent_cents": 4,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 824787576,
+          "page": 530
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 588412715,
+          "page": 530
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 530
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 218382813,
+          "page": 530
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 259205499,
+          "page": 530
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 658012992,
+          "page": 530
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 288213114,
+          "page": 530
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 3254351,
+          "page": 530
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 15306680,
+          "page": 530
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 84984854,
+          "page": 530
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 8532948,
+          "page": 530
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 1883692,
+          "page": 530
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 21098913,
+          "page": 530
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 56250892,
+          "page": 530
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 531,
+      "total_page": 531,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 283110017900,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 59,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 26453516200,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 60,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 3095635341,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 894102384,
+          "page": 531
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 591826782,
+          "page": 531
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 531
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 222714416,
+          "page": 531
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 266205446,
+          "page": 531
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 677073578,
+          "page": 531
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 279606389,
+          "page": 531
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 0,
+          "page": 531
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 9792775,
+          "page": 531
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 70243597,
+          "page": 531
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 4067149,
+          "page": 531
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 2010886,
+          "page": 531
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 24506766,
+          "page": 531
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 53485173,
+          "page": 531
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 531,
+      "total_page": 531,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 282914521727,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 59,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        },
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 25275234365,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 60,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 3081897561,
+      "action_sum_minus_parent_cents": -92,
+      "published_total_minus_parent_cents": 8,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 875409404,
+          "page": 531
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 588412715,
+          "page": 531
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 531
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 218382813,
+          "page": 531
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 259205499,
+          "page": 531
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 658012992,
+          "page": 531
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 288213114,
+          "page": 531
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 3254351,
+          "page": 531
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 15306680,
+          "page": 531
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 84984854,
+          "page": 531
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 7245512,
+          "page": 531
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 1959831,
+          "page": 531
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 25258903,
+          "page": 531
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 56250892,
+          "page": 531
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 508,
+      "total_page": 508,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 291555466000,
+          "source": "fdf68434f123c7f199cd",
+          "line": 57,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 26728912200,
+          "source": "fdf68434f123c7f199cd",
+          "line": 58,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 3182843782,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 910923674,
+          "page": 508
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 599299812,
+          "page": 508
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 508
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 232039652,
+          "page": 508
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 273202900,
+          "page": 508
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 693393435,
+          "page": 508
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 288339361,
+          "page": 508
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 0,
+          "page": 508
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 29890614,
+          "page": 508
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 72867850,
+          "page": 508
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 4199215,
+          "page": 508
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 2035655,
+          "page": 508
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 21902688,
+          "page": 508
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 54748926,
+          "page": 508
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 508,
+      "total_page": 508,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 287205119187,
+          "source": "fdf68434f123c7f199cd",
+          "line": 57,
+          "field": "AE_Consommees",
+          "approximate": 0
+        },
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 22160020930,
+          "source": "fdf68434f123c7f199cd",
+          "line": 58,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 3093651401,
+      "action_sum_minus_parent_cents": 83,
+      "published_total_minus_parent_cents": -17,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 843620111,
+          "page": 508
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 598409210,
+          "page": 508
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 508
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 233780227,
+          "page": 508
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 282502419,
+          "page": 508
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 662498791,
+          "page": 508
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 281800086,
+          "page": 508
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 1782837,
+          "page": 508
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 29024229,
+          "page": 508
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 72128909,
+          "page": 508
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 8336757,
+          "page": 508
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 1894450,
+          "page": 508
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 20287520,
+          "page": 508
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 57585856,
+          "page": 508
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 509,
+      "total_page": 509,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 291555466000,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 57,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 27123331000,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 58,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 3186787970,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 912307192,
+          "page": 509
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 599299812,
+          "page": 509
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 509
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 232039652,
+          "page": 509
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 273202900,
+          "page": 509
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 693393435,
+          "page": 509
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 288339361,
+          "page": 509
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 0,
+          "page": 509
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 29890614,
+          "page": 509
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 72867850,
+          "page": 509
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 4199215,
+          "page": 509
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 2035655,
+          "page": 509
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 24463358,
+          "page": 509
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 54748926,
+          "page": 509
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "217",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 509,
+      "total_page": 509,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 287205119187,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 57,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        },
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "217",
+          "program_label": "Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 24775343172,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 58,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 3119804624,
+      "action_sum_minus_parent_cents": 141,
+      "published_total_minus_parent_cents": 41,
+      "actions": [
+        {
+          "code": "07",
+          "label": "Pilotage, support, audit et évaluations",
+          "euros": 867863551,
+          "page": 509
+        },
+        {
+          "code": "08",
+          "label": "Personnels œuvrant pour les politiques de transport",
+          "euros": 598409210,
+          "page": 509
+        },
+        {
+          "code": "09",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Sécurité et éducation routières\"",
+          "euros": 0,
+          "page": 509
+        },
+        {
+          "code": "11",
+          "label": "Personnels oeuvrant pour les politiques du programme \"Affaires maritimes\"",
+          "euros": 233780227,
+          "page": 509
+        },
+        {
+          "code": "13",
+          "label": "Personnels œuvrant pour la politique de l'eau et de la biodiversité",
+          "euros": 282502419,
+          "page": 509
+        },
+        {
+          "code": "15",
+          "label": "Personnels œuvrant pour les politiques du programme Urbanisme, territoires et aménagement de l'habitat",
+          "euros": 662498791,
+          "page": 509
+        },
+        {
+          "code": "16",
+          "label": "Personnels œuvrant pour la politique de la prévention des risques",
+          "euros": 281800086,
+          "page": 509
+        },
+        {
+          "code": "18",
+          "label": "Personnels relevant de programmes d'autres ministères",
+          "euros": 1782837,
+          "page": 509
+        },
+        {
+          "code": "22",
+          "label": "Personnels transférés aux collectivités territoriales",
+          "euros": 29024229,
+          "page": 509
+        },
+        {
+          "code": "23",
+          "label": "Personnels œuvrant pour les politiques de l'énergie et du climat",
+          "euros": 72128909,
+          "page": 509
+        },
+        {
+          "code": "25",
+          "label": "Commission nationale du débat public",
+          "euros": 8793677,
+          "page": 509
+        },
+        {
+          "code": "26",
+          "label": "Autorité de contrôle des nuisances aéroportuaires (ACNUSA)",
+          "euros": 1959921,
+          "page": 509
+        },
+        {
+          "code": "27",
+          "label": "Commission de régulation de l'énergie (CRE)",
+          "euros": 21674912,
+          "page": 509
+        },
+        {
+          "code": "28",
+          "label": "Personnels œuvrant dans le domaine de la stratégie et de la connaissance des politiques de transition écologique",
+          "euros": 57585856,
+          "page": 509
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "235",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 607,
+      "total_page": 607,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "235",
+          "program_label": "Sûreté nucléaire et radioprotection",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 22373801900,
+          "source": "fdf68434f123c7f199cd",
+          "line": 66,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "235",
+          "program_label": "Sûreté nucléaire et radioprotection",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 13057518500,
+          "source": "fdf68434f123c7f199cd",
+          "line": 67,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 354313204,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Personnels œuvrant pour la politique en matière de sûreté nucléaire et radio-protection",
+          "euros": 223738019,
+          "page": 607
+        },
+        {
+          "code": "02",
+          "label": "Sûreté nucléaire et radio-protection",
+          "euros": 130575185,
+          "page": 607
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "235",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 607,
+      "total_page": 607,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "235",
+          "program_label": "Sûreté nucléaire et radioprotection",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 21421271038,
+          "source": "fdf68434f123c7f199cd",
+          "line": 66,
+          "field": "AE_Consommees",
+          "approximate": 0
+        },
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "235",
+          "program_label": "Sûreté nucléaire et radioprotection",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 13761084628,
+          "source": "fdf68434f123c7f199cd",
+          "line": 67,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 351823557,
+      "action_sum_minus_parent_cents": 34,
+      "published_total_minus_parent_cents": 34,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Personnels œuvrant pour la politique en matière de sûreté nucléaire et radio-protection",
+          "euros": 214213563,
+          "page": 607
+        },
+        {
+          "code": "02",
+          "label": "Sûreté nucléaire et radio-protection",
+          "euros": 137609994,
+          "page": 607
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "235",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 607,
+      "total_page": 607,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "235",
+          "program_label": "Sûreté nucléaire et radioprotection",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 22373801900,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 66,
+          "field": "LFI",
+          "approximate": 0
+        },
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "235",
+          "program_label": "Sûreté nucléaire et radioprotection",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 13527518500,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 67,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 359013204,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Personnels œuvrant pour la politique en matière de sûreté nucléaire et radio-protection",
+          "euros": 223738019,
+          "page": 607
+        },
+        {
+          "code": "02",
+          "label": "Sûreté nucléaire et radio-protection",
+          "euros": 135275185,
+          "page": 607
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "235",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 607,
+      "total_page": 607,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "235",
+          "program_label": "Sûreté nucléaire et radioprotection",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "2",
+          "cents": 21421267438,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 66,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        },
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "235",
+          "program_label": "Sûreté nucléaire et radioprotection",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 14172857341,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 67,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 355941248,
+      "action_sum_minus_parent_cents": 21,
+      "published_total_minus_parent_cents": 21,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Personnels œuvrant pour la politique en matière de sûreté nucléaire et radio-protection",
+          "euros": 214213527,
+          "page": 607
+        },
+        {
+          "code": "02",
+          "label": "Sûreté nucléaire et radio-protection",
+          "euros": 141727721,
+          "page": 607
+        }
+      ]
+    }
+  ]
+}

@@ -10,3 +10,11 @@
 .integration-stamps img, .page-heading > .plfss-stamp { display:block; width:174px; height:auto; flex:0 0 174px; align-self:center; }
 @media (max-width:1280px) { .page-heading:has(> .integration-stamps) { flex-wrap:wrap; } .integration-stamps img { width:148px; flex-basis:148px; } }
 @media (max-width:720px) { .page-heading > .integration-stamps { margin-inline:0; } .page-heading > .plfss-stamp { flex:none; } }
+
+.document-filters #doc-mode { width:230px; min-width:230px; max-width:230px; flex:0 0 230px; }
+#headline { font-size:14px; font-weight:650; }
+.masthead { position:relative; }
+.masthead > .masthead-right { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:calc(100% - 720px); justify-content:center; text-align:center; }
+.masthead > .masthead-right { flex-direction:column; gap:3px; }
+.headline-subtitle { font-size:11px; line-height:1.3; color:var(--blue); }
+@media (max-width:1024px) { .masthead > .masthead-right { gap:2px; } .headline-subtitle { font-size:10px; line-height:1.2; } }

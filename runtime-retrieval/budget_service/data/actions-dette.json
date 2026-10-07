@@ -1,0 +1,191 @@
+{
+  "updated_at": "2026-09-10",
+  "coverage": "P355, mission Écologie en 2023 seulement : LFI/consommé, AE/CP, action 01. Années ultérieures en mission EB non revues ici.",
+  "note": "Une action publiée et un parent HT2 unique par groupe ; aucun transfert de montant entre missions ou exercices.",
+  "groups": [
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "355",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 577,
+      "total_page": 577,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "355",
+          "program_label": "Charge de la dette de SNCF Réseau reprise par l'État (crédits évaluatifs)",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 90000000000,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 58,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 900000000,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Charge de la dette de SNCF Réseau reprise par l'État",
+          "euros": 900000000,
+          "page": 577
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "355",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 577,
+      "total_page": 577,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "355",
+          "program_label": "Charge de la dette de SNCF Réseau reprise par l'État (crédits évaluatifs)",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 90541110600,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 58,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 905411106,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Charge de la dette de SNCF Réseau reprise par l'État",
+          "euros": 905411106,
+          "page": 577
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "355",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 577,
+      "total_page": 577,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "355",
+          "program_label": "Charge de la dette de SNCF Réseau reprise par l'État (crédits évaluatifs)",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 90000000000,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 59,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 900000000,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Charge de la dette de SNCF Réseau reprise par l'État",
+          "euros": 900000000,
+          "page": 577
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "355",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 577,
+      "total_page": 577,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "355",
+          "program_label": "Charge de la dette de SNCF Réseau reprise par l'État (crédits évaluatifs)",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 90541110600,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 59,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 905411106,
+      "action_sum_minus_parent_cents": 0,
+      "published_total_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Charge de la dette de SNCF Réseau reprise par l'État",
+          "euros": 905411106,
+          "page": 577
+        }
+      ]
+    }
+  ]
+}

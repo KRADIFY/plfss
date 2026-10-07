@@ -1,5 +1,16 @@
 # PLFSS — point de reprise
 
+## 7 octobre 2026 — Sauvegarde Git de la version actuellement en ligne
+
+Capture en lecture seule des conteneurs actifs, de la démo à trois parcours avec
+ses voix et des styles/configurations injectés. Manifeste :
+`proofs/VERSION-EN-LIGNE-20261007.json` ; 185 fichiers contrôlés par empreinte.
+Dépôt privé `KRADIFY/plfss`, branche `sauvegarde-en-ligne-20261007`.
+Checkout de sauvegarde : `D:/ChatGPT/docker/backups/plfss-20261004-public/git`.
+Base financière inchangée, documents/index conservés dans la release `en-ligne-20261004`.
+Les indications historiques de quatre parcours ci-dessous sont remplacées par
+les trois parcours du fichier `demo/public/parcours.json`. Aucun déploiement effectué.
+
 ## État actuel vérifié — 4 octobre 2026, après publication
 
 Chemin permanent : D:/ChatGPT/docker/plfss ; aucun dépôt Git. Consultation locale : http://127.0.0.1:18895/ (sans mot de passe). Site publié : https://plfss.lexmachine.net/, sur 5.189.145.254, HTTPS valide et aucun mot de passe. Projet Docker nos-deniers-plfss-public, version /opt/plfss/releases/20261004-vectorise-7711a46a, lien actif /opt/plfss/current. Seul l'hôte nginx PLFSS a été configuré ; empreintes des autres hôtes inchangées et disponibilité Nos Deniers vérifiée.

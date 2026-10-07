@@ -1,0 +1,7143 @@
+{
+  "updated_at": "2026-09-10",
+  "source_kind": "rap_recapitulation",
+  "coverage": "P174 Écologie, 2023–2025 : 20 lignes sources, 38 montants AE/CP publiés, autres titres ; récapitulations distinctes des actes JORF.",
+  "scope": {
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "budget": "BG",
+    "mission": "TA",
+    "program": "174",
+    "title": "HT2"
+  },
+  "limits": [
+    "Récapitulations des RAP du programme 174, mission Écologie, 2023–2025, autres titres uniquement. Ce registre ne couvre pas toute la mission ni tous les actes de l’État.",
+    "Les dates sont les dates de signature telles que publiées dans le RAP ; les rattachements FdC 2023 sont des agrégats mensuels. Aucun jour, date de publication ou date d’effet n’est inventé.",
+    "Les montants sont publiés à l’euro. Les cellules blanches des huit colonnes sont conservées à null dans les preuves ; leur absence ne signifie pas montant nul ou absence de mouvement.",
+    "Ces lignes expliquent les agrégats annuels et ne s’ajoutent ni aux crédits ouverts ni aux événements JORF. Les deux lignes du 21 février 2024 sont liées au même décret déjà intégré.",
+    "Les reports de FdC appartiennent aux reports entrants, pas aux nouveaux rattachements FdC. Le tableau 2025 exclut explicitement le décret de services votés.",
+    "La colonne annuelle LFR peut réunir lois de finances et décrets d’annulation ; les transferts et virements sont rapprochés de la colonne Mvts_reglementaires.",
+    "Les contreparties des transferts, les actions, sous-actions et la part MaPrimeRénov’ ne sont pas établies par ces tableaux. Aucun gel ou dégel n’est déduit de ces montants.",
+    "Les dates citées par les RAP restent des observations de la source tant que chaque acte n’est pas identifié. Le lien du décret du 21 février 2024 est le seul lien juridique établi dans ce lot."
+  ],
+  "sources": [
+    {
+      "id": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "year": 2023,
+      "pages": [
+        423,
+        424
+      ]
+    },
+    {
+      "id": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "year": 2024,
+      "pages": [
+        429,
+        430
+      ]
+    },
+    {
+      "id": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "year": 2025,
+      "pages": [
+        403,
+        404,
+        405
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "rap-2023-p174-rattachement_fdc-2023-04/AE/opening",
+      "row_id": "rap-2023-p174-rattachement_fdc-2023-04",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "RATTACHEMENT_FDC",
+      "date": "2023-04",
+      "date_precision": "month",
+      "date_kind": "month",
+      "sign": 1,
+      "amount_cents": 978600,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 423,
+      "field": "ARRÊTÉS DE RATTACHEMENT DE FDC · 04/2023 · Ouvertures · AE · Autres titres",
+      "reconciles_stage": "FDC",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-rattachement_fdc-2023-04/CP/opening",
+      "row_id": "rap-2023-p174-rattachement_fdc-2023-04",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "RATTACHEMENT_FDC",
+      "date": "2023-04",
+      "date_precision": "month",
+      "date_kind": "month",
+      "sign": 1,
+      "amount_cents": 978600,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 423,
+      "field": "ARRÊTÉS DE RATTACHEMENT DE FDC · 04/2023 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "FDC",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-rattachement_fdc-2023-05/AE/opening",
+      "row_id": "rap-2023-p174-rattachement_fdc-2023-05",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "RATTACHEMENT_FDC",
+      "date": "2023-05",
+      "date_precision": "month",
+      "date_kind": "month",
+      "sign": 1,
+      "amount_cents": 16754800,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 423,
+      "field": "ARRÊTÉS DE RATTACHEMENT DE FDC · 05/2023 · Ouvertures · AE · Autres titres",
+      "reconciles_stage": "FDC",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-rattachement_fdc-2023-05/CP/opening",
+      "row_id": "rap-2023-p174-rattachement_fdc-2023-05",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "RATTACHEMENT_FDC",
+      "date": "2023-05",
+      "date_precision": "month",
+      "date_kind": "month",
+      "sign": 1,
+      "amount_cents": 16754800,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 423,
+      "field": "ARRÊTÉS DE RATTACHEMENT DE FDC · 05/2023 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "FDC",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-report_fdc-2023-02-16/AE/opening",
+      "row_id": "rap-2023-p174-report_fdc-2023-02-16",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "REPORT_FDC",
+      "date": "2023-02-16",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 17263400,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "ARRÊTÉS DE REPORT DE FDC · 16/02/2023 · Ouvertures · AE · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-report_fdc-2023-02-16/CP/opening",
+      "row_id": "rap-2023-p174-report_fdc-2023-02-16",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "REPORT_FDC",
+      "date": "2023-02-16",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 18035800,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "ARRÊTÉS DE REPORT DE FDC · 16/02/2023 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-report_general-2023-03-02/AE/opening",
+      "row_id": "rap-2023-p174-report_general-2023-03-02",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "REPORT_GENERAL",
+      "date": "2023-03-02",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 33250000000,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "ARRÊTÉS DE REPORT GÉNÉRAL HORS FDC HORS AENE · 02/03/2023 · Ouvertures · AE · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-report_general-2023-03-02/CP/opening",
+      "row_id": "rap-2023-p174-report_general-2023-03-02",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "REPORT_GENERAL",
+      "date": "2023-03-02",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 55667171800,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "ARRÊTÉS DE REPORT GÉNÉRAL HORS FDC HORS AENE · 02/03/2023 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-transfert-2023-06-27/AE/cancellation",
+      "row_id": "rap-2023-p174-transfert-2023-06-27",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "TRANSFERT",
+      "date": "2023-06-27",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 763086400,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "DÉCRETS DE TRANSFERT · 27/06/2023 · Annulations · AE · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-transfert-2023-06-27/CP/cancellation",
+      "row_id": "rap-2023-p174-transfert-2023-06-27",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "TRANSFERT",
+      "date": "2023-06-27",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 755451900,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "DÉCRETS DE TRANSFERT · 27/06/2023 · Annulations · CP · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-transfert-2023-11-20/AE/opening",
+      "row_id": "rap-2023-p174-transfert-2023-11-20",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "TRANSFERT",
+      "date": "2023-11-20",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 1400000000,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "DÉCRETS DE TRANSFERT · 20/11/2023 · Ouvertures · AE · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-transfert-2023-11-20/CP/opening",
+      "row_id": "rap-2023-p174-transfert-2023-11-20",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "TRANSFERT",
+      "date": "2023-11-20",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 1400000000,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "DÉCRETS DE TRANSFERT · 20/11/2023 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-loi_finances-2023-11-30/AE/cancellation",
+      "row_id": "rap-2023-p174-loi_finances-2023-11-30",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "LOI_FINANCES",
+      "date": "2023-11-30",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 78026686800,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "LOIS DE FINANCES RECTIFICATIVES · 30/11/2023 · Annulations · AE · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2023-p174-loi_finances-2023-11-30/CP/cancellation",
+      "row_id": "rap-2023-p174-loi_finances-2023-11-30",
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "LOI_FINANCES",
+      "date": "2023-11-30",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 109232121700,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 424,
+      "field": "LOIS DE FINANCES RECTIFICATIVES · 30/11/2023 · Annulations · CP · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2024-p174-report_fdc-2024-02-22/AE/opening",
+      "row_id": "rap-2024-p174-report_fdc-2024-02-22",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "REPORT_FDC",
+      "date": "2024-02-22",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 34057800,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "ARRETES DE REPORT DE FDC · 22/02/2024 · Ouvertures · AE · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2024-p174-report_fdc-2024-02-22/CP/opening",
+      "row_id": "rap-2024-p174-report_fdc-2024-02-22",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "REPORT_FDC",
+      "date": "2024-02-22",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 33996800,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "ARRETES DE REPORT DE FDC · 22/02/2024 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2024-p174-report_general-2024-03-13/CP/opening",
+      "row_id": "rap-2024-p174-report_general-2024-03-13",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "REPORT_GENERAL",
+      "date": "2024-03-13",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 4750000000,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "ARRETES DE REPORT GENERAL HORS FDC HORS AENE · 13/03/2024 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2024-p174-annulation-2024-02-21/AE/cancellation",
+      "row_id": "rap-2024-p174-annulation-2024-02-21",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "ANNULATION",
+      "date": "2024-02-21",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 95000000000,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "DECRETS D'ANNULATION · 21/02/2024 · Annulations · AE · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": "JORFTEXT000049180270"
+    },
+    {
+      "id": "rap-2024-p174-annulation-2024-02-21/CP/cancellation",
+      "row_id": "rap-2024-p174-annulation-2024-02-21",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "ANNULATION",
+      "date": "2024-02-21",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 130000000000,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "DECRETS D'ANNULATION · 21/02/2024 · Annulations · CP · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": "JORFTEXT000049180270"
+    },
+    {
+      "id": "rap-2024-p174-transfert-2024-06-26/AE/cancellation",
+      "row_id": "rap-2024-p174-transfert-2024-06-26",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "TRANSFERT",
+      "date": "2024-06-26",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 512080000,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "DECRETS DE TRANSFERT · 26/06/2024 · Annulations · AE · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2024-p174-transfert-2024-06-26/CP/cancellation",
+      "row_id": "rap-2024-p174-transfert-2024-06-26",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "TRANSFERT",
+      "date": "2024-06-26",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 512080000,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "DECRETS DE TRANSFERT · 26/06/2024 · Annulations · CP · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2024-p174-transfert-2024-11-28/AE/cancellation",
+      "row_id": "rap-2024-p174-transfert-2024-11-28",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "TRANSFERT",
+      "date": "2024-11-28",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 735608500,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "DECRETS DE TRANSFERT · 28/11/2024 · Annulations · AE · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2024-p174-transfert-2024-11-28/CP/cancellation",
+      "row_id": "rap-2024-p174-transfert-2024-11-28",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "TRANSFERT",
+      "date": "2024-11-28",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 735608500,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "DECRETS DE TRANSFERT · 28/11/2024 · Annulations · CP · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2024-p174-loi_finances-2024-12-07/CP/cancellation",
+      "row_id": "rap-2024-p174-loi_finances-2024-12-07",
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "LOI_FINANCES",
+      "date": "2024-12-07",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 18200000000,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 429,
+      "field": "LOI DE FINANCES DE FIN DE GESTION · 07/12/2024 · Annulations · CP · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-report_fdc-2025-02-05/AE/opening",
+      "row_id": "rap-2025-p174-report_fdc-2025-02-05",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "REPORT_FDC",
+      "date": "2025-02-05",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 30257800,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 403,
+      "field": "ARRETES DE REPORT DE FDC · 05/02/2025 · Ouvertures · AE · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-report_fdc-2025-02-05/CP/opening",
+      "row_id": "rap-2025-p174-report_fdc-2025-02-05",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "REPORT_FDC",
+      "date": "2025-02-05",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 30259500,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 403,
+      "field": "ARRETES DE REPORT DE FDC · 05/02/2025 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-report_general-2025-03-10/AE/opening",
+      "row_id": "rap-2025-p174-report_general-2025-03-10",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "REPORT_GENERAL",
+      "date": "2025-03-10",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 40000000000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "ARRETES DE REPORT GENERAL HORS FDC HORS AENE · 10/03/2025 · Ouvertures · AE · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-report_general-2025-03-10/CP/opening",
+      "row_id": "rap-2025-p174-report_general-2025-03-10",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "REPORT_GENERAL",
+      "date": "2025-03-10",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": 1,
+      "amount_cents": 16160000000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "ARRETES DE REPORT GENERAL HORS FDC HORS AENE · 10/03/2025 · Ouvertures · CP · Autres titres",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-annulation-2025-04-25/AE/cancellation",
+      "row_id": "rap-2025-p174-annulation-2025-04-25",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "ANNULATION",
+      "date": "2025-04-25",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 10500599000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "DECRETS D'ANNULATION · 25/04/2025 · Annulations · AE · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-annulation-2025-04-25/CP/cancellation",
+      "row_id": "rap-2025-p174-annulation-2025-04-25",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "ANNULATION",
+      "date": "2025-04-25",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 4052925200,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "DECRETS D'ANNULATION · 25/04/2025 · Annulations · CP · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-transfert-2025-07-09/AE/cancellation",
+      "row_id": "rap-2025-p174-transfert-2025-07-09",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "TRANSFERT",
+      "date": "2025-07-09",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 953375000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "DECRETS DE TRANSFERT · 09/07/2025 · Annulations · AE · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-transfert-2025-07-09/CP/cancellation",
+      "row_id": "rap-2025-p174-transfert-2025-07-09",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "TRANSFERT",
+      "date": "2025-07-09",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 953375000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "DECRETS DE TRANSFERT · 09/07/2025 · Annulations · CP · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-transfert-2025-12-03/AE/cancellation",
+      "row_id": "rap-2025-p174-transfert-2025-12-03",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "TRANSFERT",
+      "date": "2025-12-03",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 339080000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "DECRETS DE TRANSFERT · 03/12/2025 · Annulations · AE · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-transfert-2025-12-03/CP/cancellation",
+      "row_id": "rap-2025-p174-transfert-2025-12-03",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "TRANSFERT",
+      "date": "2025-12-03",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 339080000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "DECRETS DE TRANSFERT · 03/12/2025 · Annulations · CP · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-virement-2025-07-11/AE/cancellation",
+      "row_id": "rap-2025-p174-virement-2025-07-11",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "VIREMENT",
+      "date": "2025-07-11",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 30000000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "DECRETS DE VIREMENT · 11/07/2025 · Annulations · AE · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-virement-2025-07-11/CP/cancellation",
+      "row_id": "rap-2025-p174-virement-2025-07-11",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "VIREMENT",
+      "date": "2025-07-11",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 30000000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "DECRETS DE VIREMENT · 11/07/2025 · Annulations · CP · Autres titres",
+      "reconciles_stage": "REGLEMENT",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-loi_finances-2025-12-08/AE/cancellation",
+      "row_id": "rap-2025-p174-loi_finances-2025-12-08",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "AE",
+      "kind": "LOI_FINANCES",
+      "date": "2025-12-08",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 292000000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "LOI DE FINANCES DE FIN DE GESTION · 08/12/2025 · Annulations · AE · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": null
+    },
+    {
+      "id": "rap-2025-p174-loi_finances-2025-12-08/CP/cancellation",
+      "row_id": "rap-2025-p174-loi_finances-2025-12-08",
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "title": "HT2",
+      "measure": "CP",
+      "kind": "LOI_FINANCES",
+      "date": "2025-12-08",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "sign": -1,
+      "amount_cents": 2292000000,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 404,
+      "field": "LOI DE FINANCES DE FIN DE GESTION · 08/12/2025 · Annulations · CP · Autres titres",
+      "reconciles_stage": "LEGIS",
+      "linked_act_id": null
+    }
+  ],
+  "evidence_rows": [
+    {
+      "row_id": "rap-2023-p174-rattachement_fdc-2023-04",
+      "table_id": "rap-2023-p174-423-rattachement_fdc",
+      "year": 2023,
+      "page": 423,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "RATTACHEMENT_FDC",
+      "reconciles_stage": "FDC",
+      "date": "2023-04",
+      "date_precision": "month",
+      "date_kind": "month",
+      "table_title": "ARRÊTÉS DE RATTACHEMENT DE FDC",
+      "source_date": "04/2023",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 978600,
+          "raw_text": "9 786",
+          "bbox": [
+            192.86,
+            753.877,
+            212.345,
+            761.638
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 978600,
+          "raw_text": "9 786",
+          "bbox": [
+            299.45,
+            753.877,
+            318.905,
+            761.638
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        67.344,
+        753.877,
+        550.0,
+        761.638
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2023-p174-rattachement_fdc-2023-05",
+      "table_id": "rap-2023-p174-423-rattachement_fdc",
+      "year": 2023,
+      "page": 423,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "RATTACHEMENT_FDC",
+      "reconciles_stage": "FDC",
+      "date": "2023-05",
+      "date_precision": "month",
+      "date_kind": "month",
+      "table_title": "ARRÊTÉS DE RATTACHEMENT DE FDC",
+      "source_date": "05/2023",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 16754800,
+          "raw_text": "167 548",
+          "bbox": [
+            185.06,
+            767.557,
+            212.345,
+            775.318
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 16754800,
+          "raw_text": "167 548",
+          "bbox": [
+            291.65,
+            767.557,
+            318.905,
+            775.318
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        67.344,
+        767.557,
+        550.0,
+        775.318
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2023-p174-report_fdc-2023-02-16",
+      "table_id": "rap-2023-p174-424-report_fdc",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "REPORT_FDC",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "date": "2023-02-16",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "ARRÊTÉS DE REPORT DE FDC",
+      "source_date": "16/02/2023",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 17263400,
+          "raw_text": "172 634",
+          "bbox": [
+            168.14,
+            188.121,
+            195.395,
+            195.882
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 18035800,
+          "raw_text": "180 358",
+          "bbox": [
+            274.61,
+            188.121,
+            301.865,
+            195.882
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        45.48,
+        188.121,
+        550.0,
+        195.882
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2023-p174-report_general-2023-03-02",
+      "table_id": "rap-2023-p174-424-report_general",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "REPORT_GENERAL",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "date": "2023-03-02",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "ARRÊTÉS DE REPORT GÉNÉRAL HORS FDC HORS AENE",
+      "source_date": "02/03/2023",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 33250000000,
+          "raw_text": "332 500 000",
+          "bbox": [
+            154.58,
+            316.791,
+            195.395,
+            324.552
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 55667171800,
+          "raw_text": "556 671 718",
+          "bbox": [
+            261.05,
+            316.791,
+            301.865,
+            324.552
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        45.48,
+        316.791,
+        550.0,
+        324.552
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2023-p174-transfert-2023-06-27",
+      "table_id": "rap-2023-p174-424-transfert",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "TRANSFERT",
+      "reconciles_stage": "REGLEMENT",
+      "date": "2023-06-27",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DÉCRETS DE TRANSFERT",
+      "source_date": "27/06/2023",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 763086400,
+          "raw_text": "7 630 864",
+          "bbox": [
+            375.31,
+            445.311,
+            408.445,
+            453.072
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 755451900,
+          "raw_text": "7 554 519",
+          "bbox": [
+            482.62,
+            445.311,
+            515.755,
+            453.072
+          ]
+        }
+      ],
+      "bbox": [
+        45.48,
+        445.311,
+        550.0,
+        453.072
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2023-p174-transfert-2023-11-20",
+      "table_id": "rap-2023-p174-424-transfert",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "TRANSFERT",
+      "reconciles_stage": "REGLEMENT",
+      "date": "2023-11-20",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DÉCRETS DE TRANSFERT",
+      "source_date": "20/11/2023",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 1400000000,
+          "raw_text": "14 000 000",
+          "bbox": [
+            158.42,
+            459.111,
+            195.395,
+            466.872
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 1400000000,
+          "raw_text": "14 000 000",
+          "bbox": [
+            264.89,
+            459.111,
+            301.865,
+            466.872
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        45.48,
+        459.111,
+        550.0,
+        466.872
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2023-p174-loi_finances-2023-11-30",
+      "table_id": "rap-2023-p174-424-loi_finances",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "LOI_FINANCES",
+      "reconciles_stage": "LEGIS",
+      "date": "2023-11-30",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "LOIS DE FINANCES RECTIFICATIVES",
+      "source_date": "30/11/2023",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 78026686800,
+          "raw_text": "780 266 868",
+          "bbox": [
+            367.63,
+            587.651,
+            408.445,
+            595.412
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 109232121700,
+          "raw_text": "1 092 321 217",
+          "bbox": [
+            469.06,
+            587.651,
+            515.755,
+            595.412
+          ]
+        }
+      ],
+      "bbox": [
+        45.48,
+        587.651,
+        550.0,
+        595.412
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2024-p174-report_fdc-2024-02-22",
+      "table_id": "rap-2024-p174-429-report_fdc",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "REPORT_FDC",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "date": "2024-02-22",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "ARRETES DE REPORT DE FDC",
+      "source_date": "22/02/2024",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 34057800,
+          "raw_text": "340 578",
+          "bbox": [
+            185.06,
+            226.881,
+            212.345,
+            234.642
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 33996800,
+          "raw_text": "339 968",
+          "bbox": [
+            291.65,
+            226.881,
+            318.905,
+            234.642
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        62.4,
+        226.881,
+        550.0,
+        234.642
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2024-p174-report_general-2024-03-13",
+      "table_id": "rap-2024-p174-429-report_general",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "REPORT_GENERAL",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "date": "2024-03-13",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "ARRETES DE REPORT GENERAL HORS FDC HORS AENE",
+      "source_date": "13/03/2024",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 4750000000,
+          "raw_text": "47 500 000",
+          "bbox": [
+            281.93,
+            355.551,
+            318.905,
+            363.312
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        62.4,
+        355.551,
+        550.0,
+        363.312
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2024-p174-annulation-2024-02-21",
+      "table_id": "rap-2024-p174-429-annulation",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "ANNULATION",
+      "reconciles_stage": "LEGIS",
+      "date": "2024-02-21",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DECRETS D'ANNULATION",
+      "source_date": "21/02/2024",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 95000000000,
+          "raw_text": "950 000 000",
+          "bbox": [
+            384.55,
+            484.091,
+            425.365,
+            491.852
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 130000000000,
+          "raw_text": "1 300 000 000",
+          "bbox": [
+            486.1,
+            484.091,
+            532.795,
+            491.852
+          ]
+        }
+      ],
+      "bbox": [
+        62.4,
+        484.091,
+        550.0,
+        491.852
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2024-p174-transfert-2024-06-26",
+      "table_id": "rap-2024-p174-429-transfert",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "TRANSFERT",
+      "reconciles_stage": "REGLEMENT",
+      "date": "2024-06-26",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DECRETS DE TRANSFERT",
+      "source_date": "26/06/2024",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 512080000,
+          "raw_text": "5 120 800",
+          "bbox": [
+            392.23,
+            612.731,
+            425.365,
+            620.492
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 512080000,
+          "raw_text": "5 120 800",
+          "bbox": [
+            499.66,
+            612.731,
+            532.795,
+            620.492
+          ]
+        }
+      ],
+      "bbox": [
+        62.4,
+        612.731,
+        550.0,
+        620.492
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2024-p174-transfert-2024-11-28",
+      "table_id": "rap-2024-p174-429-transfert",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "TRANSFERT",
+      "reconciles_stage": "REGLEMENT",
+      "date": "2024-11-28",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DECRETS DE TRANSFERT",
+      "source_date": "28/11/2024",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 735608500,
+          "raw_text": "7 356 085",
+          "bbox": [
+            392.23,
+            626.411,
+            425.365,
+            634.172
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 735608500,
+          "raw_text": "7 356 085",
+          "bbox": [
+            499.66,
+            626.411,
+            532.795,
+            634.172
+          ]
+        }
+      ],
+      "bbox": [
+        62.4,
+        626.411,
+        550.0,
+        634.172
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2024-p174-loi_finances-2024-12-07",
+      "table_id": "rap-2024-p174-429-loi_finances",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "LOI_FINANCES",
+      "reconciles_stage": "LEGIS",
+      "date": "2024-12-07",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "LOI DE FINANCES DE FIN DE GESTION",
+      "source_date": "07/12/2024",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 18200000000,
+          "raw_text": "182 000 000",
+          "bbox": [
+            491.98,
+            755.077,
+            532.795,
+            762.838
+          ]
+        }
+      ],
+      "bbox": [
+        62.4,
+        755.077,
+        550.0,
+        762.838
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2025-p174-report_fdc-2025-02-05",
+      "table_id": "rap-2025-p174-403-report_fdc",
+      "year": 2025,
+      "page": 403,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "REPORT_FDC",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "date": "2025-02-05",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "ARRETES DE REPORT DE FDC",
+      "source_date": "05/02/2025",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 30257800,
+          "raw_text": "302 578",
+          "bbox": [
+            185.06,
+            686.201,
+            212.345,
+            693.962
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 30259500,
+          "raw_text": "302 595",
+          "bbox": [
+            291.65,
+            686.201,
+            318.905,
+            693.962
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        62.4,
+        686.201,
+        550.0,
+        693.962
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2025-p174-report_general-2025-03-10",
+      "table_id": "rap-2025-p174-404-report_general",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "REPORT_GENERAL",
+      "reconciles_stage": "REPORT_ENTRANT",
+      "date": "2025-03-10",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "ARRETES DE REPORT GENERAL HORS FDC HORS AENE",
+      "source_date": "10/03/2025",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 40000000000,
+          "raw_text": "400 000 000",
+          "bbox": [
+            154.58,
+            188.121,
+            195.395,
+            195.882
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 16160000000,
+          "raw_text": "161 600 000",
+          "bbox": [
+            261.05,
+            188.121,
+            301.865,
+            195.882
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "bbox": [
+        45.48,
+        188.121,
+        550.0,
+        195.882
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2025-p174-annulation-2025-04-25",
+      "table_id": "rap-2025-p174-404-annulation",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "ANNULATION",
+      "reconciles_stage": "LEGIS",
+      "date": "2025-04-25",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DECRETS D'ANNULATION",
+      "source_date": "25/04/2025",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 10500599000,
+          "raw_text": "105 005 990",
+          "bbox": [
+            367.63,
+            316.791,
+            408.445,
+            324.552
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 4052925200,
+          "raw_text": "40 529 252",
+          "bbox": [
+            478.78,
+            316.791,
+            515.755,
+            324.552
+          ]
+        }
+      ],
+      "bbox": [
+        45.48,
+        316.791,
+        550.0,
+        324.552
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2025-p174-transfert-2025-07-09",
+      "table_id": "rap-2025-p174-404-transfert",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "TRANSFERT",
+      "reconciles_stage": "REGLEMENT",
+      "date": "2025-07-09",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DECRETS DE TRANSFERT",
+      "source_date": "09/07/2025",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 953375000,
+          "raw_text": "9 533 750",
+          "bbox": [
+            375.31,
+            445.311,
+            408.445,
+            453.072
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 953375000,
+          "raw_text": "9 533 750",
+          "bbox": [
+            482.62,
+            445.311,
+            515.755,
+            453.072
+          ]
+        }
+      ],
+      "bbox": [
+        45.48,
+        445.311,
+        550.0,
+        453.072
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2025-p174-transfert-2025-12-03",
+      "table_id": "rap-2025-p174-404-transfert",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "TRANSFERT",
+      "reconciles_stage": "REGLEMENT",
+      "date": "2025-12-03",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DECRETS DE TRANSFERT",
+      "source_date": "03/12/2025",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 339080000,
+          "raw_text": "3 390 800",
+          "bbox": [
+            375.31,
+            459.111,
+            408.445,
+            466.872
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 339080000,
+          "raw_text": "3 390 800",
+          "bbox": [
+            482.62,
+            459.111,
+            515.755,
+            466.872
+          ]
+        }
+      ],
+      "bbox": [
+        45.48,
+        459.111,
+        550.0,
+        466.872
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2025-p174-virement-2025-07-11",
+      "table_id": "rap-2025-p174-404-virement",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "VIREMENT",
+      "reconciles_stage": "REGLEMENT",
+      "date": "2025-07-11",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "DECRETS DE VIREMENT",
+      "source_date": "11/07/2025",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 30000000,
+          "raw_text": "300 000",
+          "bbox": [
+            381.19,
+            587.651,
+            408.445,
+            595.412
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 30000000,
+          "raw_text": "300 000",
+          "bbox": [
+            488.5,
+            587.651,
+            515.755,
+            595.412
+          ]
+        }
+      ],
+      "bbox": [
+        45.48,
+        587.651,
+        550.0,
+        595.412
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    },
+    {
+      "row_id": "rap-2025-p174-loi_finances-2025-12-08",
+      "table_id": "rap-2025-p174-404-loi_finances",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "LOI_FINANCES",
+      "reconciles_stage": "LEGIS",
+      "date": "2025-12-08",
+      "date_precision": "day",
+      "date_kind": "signature",
+      "table_title": "LOI DE FINANCES DE FIN DE GESTION",
+      "source_date": "08/12/2025",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 292000000,
+          "raw_text": "2 920 000",
+          "bbox": [
+            375.31,
+            716.321,
+            408.445,
+            724.082
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 2292000000,
+          "raw_text": "22 920 000",
+          "bbox": [
+            478.78,
+            716.321,
+            515.755,
+            724.082
+          ]
+        }
+      ],
+      "bbox": [
+        45.48,
+        716.321,
+        550.0,
+        724.082
+      ],
+      "published_precision": "Montants publiés à l’euro dans le RAP."
+    }
+  ],
+  "table_totals": [
+    {
+      "table_id": "rap-2023-p174-423-rattachement_fdc",
+      "year": 2023,
+      "page": 423,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "RATTACHEMENT_FDC",
+      "table_title": "ARRÊTÉS DE RATTACHEMENT DE FDC",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 17733400,
+          "raw_text": "177 334",
+          "bbox": [
+            185.06,
+            783.277,
+            212.345,
+            791.038
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 17733400,
+          "raw_text": "177 334",
+          "bbox": [
+            291.65,
+            783.277,
+            318.905,
+            791.038
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            123.5,
+            736.672,
+            143.781,
+            743.897
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            167.9,
+            736.672,
+            204.411,
+            743.897
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            230.09,
+            736.672,
+            250.371,
+            743.897
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            274.49,
+            736.672,
+            310.971,
+            743.897
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            336.55,
+            736.672,
+            356.831,
+            743.897
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            380.95,
+            736.672,
+            417.431,
+            743.897
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            443.11,
+            736.672,
+            463.391,
+            743.897
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            487.9,
+            736.672,
+            524.381,
+            743.897
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2023-p174-424-report_fdc",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "REPORT_FDC",
+      "table_title": "ARRÊTÉS DE REPORT DE FDC",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 17263400,
+          "raw_text": "172 634",
+          "bbox": [
+            168.14,
+            203.841,
+            195.395,
+            211.602
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 18035800,
+          "raw_text": "180 358",
+          "bbox": [
+            274.61,
+            203.841,
+            301.865,
+            211.602
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            170.916,
+            126.861,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            170.916,
+            187.461,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            170.916,
+            233.331,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            170.916,
+            293.931,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            170.916,
+            339.911,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            170.916,
+            400.511,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            170.916,
+            446.351,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            170.916,
+            507.341,
+            178.141
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2023-p174-424-report_general",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "REPORT_GENERAL",
+      "table_title": "ARRÊTÉS DE REPORT GÉNÉRAL HORS FDC HORS AENE",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 33250000000,
+          "raw_text": "332 500 000",
+          "bbox": [
+            154.58,
+            332.391,
+            195.395,
+            340.152
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 55667171800,
+          "raw_text": "556 671 718",
+          "bbox": [
+            261.05,
+            332.391,
+            301.865,
+            340.152
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            299.586,
+            126.861,
+            306.811
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            299.586,
+            187.461,
+            306.811
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            299.586,
+            233.331,
+            306.811
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            299.586,
+            293.931,
+            306.811
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            299.586,
+            339.911,
+            306.811
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            299.586,
+            400.511,
+            306.811
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            299.586,
+            446.351,
+            306.811
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            299.586,
+            507.341,
+            306.811
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2023-p174-424-transfert",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "TRANSFERT",
+      "table_title": "DÉCRETS DE TRANSFERT",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 1400000000,
+          "raw_text": "14 000 000",
+          "bbox": [
+            158.42,
+            474.731,
+            195.395,
+            482.492
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 1400000000,
+          "raw_text": "14 000 000",
+          "bbox": [
+            264.89,
+            474.731,
+            301.865,
+            482.492
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 763086400,
+          "raw_text": "7 630 864",
+          "bbox": [
+            375.31,
+            474.731,
+            408.445,
+            482.492
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 755451900,
+          "raw_text": "7 554 519",
+          "bbox": [
+            482.62,
+            474.731,
+            515.755,
+            482.492
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            428.106,
+            126.861,
+            435.331
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            428.106,
+            187.461,
+            435.331
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            428.106,
+            233.331,
+            435.331
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            428.106,
+            293.931,
+            435.331
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            428.106,
+            339.911,
+            435.331
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            428.106,
+            400.511,
+            435.331
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            428.106,
+            446.351,
+            435.331
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            428.106,
+            507.341,
+            435.331
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2023-p174-424-loi_finances",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "LOI_FINANCES",
+      "table_title": "LOIS DE FINANCES RECTIFICATIVES",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 78026686800,
+          "raw_text": "780 266 868",
+          "bbox": [
+            367.63,
+            603.251,
+            408.445,
+            611.012
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 109232121700,
+          "raw_text": "1 092 321 217",
+          "bbox": [
+            469.06,
+            603.251,
+            515.755,
+            611.012
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            570.446,
+            126.861,
+            577.671
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            570.446,
+            187.461,
+            577.671
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            570.446,
+            233.331,
+            577.671
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            570.446,
+            293.931,
+            577.671
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            570.446,
+            339.911,
+            577.671
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            570.446,
+            400.511,
+            577.671
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            570.446,
+            446.351,
+            577.671
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            570.446,
+            507.341,
+            577.671
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2023-p174-424-total",
+      "year": 2023,
+      "page": 424,
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "kind": "TOTAL",
+      "table_title": "TOTAL DES OUVERTURES ET ANNULATIONS (Y.C. FDC ET ADP)",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 34684996800,
+          "raw_text": "346 849 968",
+          "bbox": [
+            154.58,
+            718.241,
+            195.395,
+            726.002
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 57102941000,
+          "raw_text": "571 029 410",
+          "bbox": [
+            261.05,
+            718.241,
+            301.865,
+            726.002
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 78789773200,
+          "raw_text": "787 897 732",
+          "bbox": [
+            367.63,
+            718.241,
+            408.445,
+            726.002
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 109987573600,
+          "raw_text": "1 099 875 736",
+          "bbox": [
+            469.06,
+            718.241,
+            515.755,
+            726.002
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            699.116,
+            126.861,
+            706.341
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            699.116,
+            187.461,
+            706.341
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            699.116,
+            233.331,
+            706.341
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            699.116,
+            293.931,
+            706.341
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            699.116,
+            339.911,
+            706.341
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            699.116,
+            400.511,
+            706.341
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            699.116,
+            446.351,
+            706.341
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            699.116,
+            507.341,
+            706.341
+          ]
+        }
+      ],
+      "is_grand_total": true,
+      "checked_against_dated_rows": false
+    },
+    {
+      "table_id": "rap-2024-p174-429-report_fdc",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "REPORT_FDC",
+      "table_title": "ARRETES DE REPORT DE FDC",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 34057800,
+          "raw_text": "340 578",
+          "bbox": [
+            185.06,
+            242.481,
+            212.345,
+            250.242
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 33996800,
+          "raw_text": "339 968",
+          "bbox": [
+            291.65,
+            242.481,
+            318.905,
+            250.242
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            123.5,
+            209.676,
+            143.781,
+            216.901
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            167.9,
+            209.676,
+            204.411,
+            216.901
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            230.09,
+            209.676,
+            250.371,
+            216.901
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            274.49,
+            209.676,
+            310.971,
+            216.901
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            336.55,
+            209.676,
+            356.831,
+            216.901
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            380.95,
+            209.676,
+            417.431,
+            216.901
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            443.11,
+            209.676,
+            463.391,
+            216.901
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            487.9,
+            209.676,
+            524.381,
+            216.901
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2024-p174-429-report_general",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "REPORT_GENERAL",
+      "table_title": "ARRETES DE REPORT GENERAL HORS FDC HORS AENE",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 4750000000,
+          "raw_text": "47 500 000",
+          "bbox": [
+            281.93,
+            371.151,
+            318.905,
+            378.912
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            123.5,
+            338.346,
+            143.781,
+            345.571
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            167.9,
+            338.346,
+            204.411,
+            345.571
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            230.09,
+            338.346,
+            250.371,
+            345.571
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            274.49,
+            338.346,
+            310.971,
+            345.571
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            336.55,
+            338.346,
+            356.831,
+            345.571
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            380.95,
+            338.346,
+            417.431,
+            345.571
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            443.11,
+            338.346,
+            463.391,
+            345.571
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            487.9,
+            338.346,
+            524.381,
+            345.571
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2024-p174-429-annulation",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "ANNULATION",
+      "table_title": "DECRETS D'ANNULATION",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 95000000000,
+          "raw_text": "950 000 000",
+          "bbox": [
+            384.55,
+            499.691,
+            425.365,
+            507.452
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 130000000000,
+          "raw_text": "1 300 000 000",
+          "bbox": [
+            486.1,
+            499.691,
+            532.795,
+            507.452
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            123.5,
+            466.886,
+            143.781,
+            474.111
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            167.9,
+            466.886,
+            204.411,
+            474.111
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            230.09,
+            466.886,
+            250.371,
+            474.111
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            274.49,
+            466.886,
+            310.971,
+            474.111
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            336.55,
+            466.886,
+            356.831,
+            474.111
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            380.95,
+            466.886,
+            417.431,
+            474.111
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            443.11,
+            466.886,
+            463.391,
+            474.111
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            487.9,
+            466.886,
+            524.381,
+            474.111
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2024-p174-429-transfert",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "TRANSFERT",
+      "table_title": "DECRETS DE TRANSFERT",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 1247688500,
+          "raw_text": "12 476 885",
+          "bbox": [
+            388.39,
+            642.011,
+            425.365,
+            649.772
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 1247688500,
+          "raw_text": "12 476 885",
+          "bbox": [
+            495.82,
+            642.011,
+            532.795,
+            649.772
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            123.5,
+            595.526,
+            143.781,
+            602.751
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            167.9,
+            595.526,
+            204.411,
+            602.751
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            230.09,
+            595.526,
+            250.371,
+            602.751
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            274.49,
+            595.526,
+            310.971,
+            602.751
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            336.55,
+            595.526,
+            356.831,
+            602.751
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            380.95,
+            595.526,
+            417.431,
+            602.751
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            443.11,
+            595.526,
+            463.391,
+            602.751
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            487.9,
+            595.526,
+            524.381,
+            602.751
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2024-p174-429-loi_finances",
+      "year": 2024,
+      "page": 429,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "LOI_FINANCES",
+      "table_title": "LOI DE FINANCES DE FIN DE GESTION",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 18200000000,
+          "raw_text": "182 000 000",
+          "bbox": [
+            491.98,
+            770.677,
+            532.795,
+            778.438
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            123.5,
+            737.872,
+            143.781,
+            745.097
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            167.9,
+            737.872,
+            204.411,
+            745.097
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            230.09,
+            737.872,
+            250.371,
+            745.097
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            274.49,
+            737.872,
+            310.971,
+            745.097
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            336.55,
+            737.872,
+            356.831,
+            745.097
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            380.95,
+            737.872,
+            417.431,
+            745.097
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            443.11,
+            737.872,
+            463.391,
+            745.097
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            487.9,
+            737.872,
+            524.381,
+            745.097
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2024-p174-430-total",
+      "year": 2024,
+      "page": 430,
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "kind": "TOTAL",
+      "table_title": "TOTAL DES OUVERTURES ET ANNULATIONS (Y.C. FDC ET ADP)",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 34057800,
+          "raw_text": "340 578",
+          "bbox": [
+            168.14,
+            190.041,
+            195.395,
+            197.802
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 4783996800,
+          "raw_text": "47 839 968",
+          "bbox": [
+            264.89,
+            190.041,
+            301.865,
+            197.802
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 96247688500,
+          "raw_text": "962 476 885",
+          "bbox": [
+            367.63,
+            190.041,
+            408.445,
+            197.802
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 149447688500,
+          "raw_text": "1 494 476 885",
+          "bbox": [
+            469.06,
+            190.041,
+            515.755,
+            197.802
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            170.916,
+            126.861,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            170.916,
+            187.461,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            170.916,
+            233.331,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            170.916,
+            293.931,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            170.916,
+            339.911,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            170.916,
+            400.511,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            170.916,
+            446.351,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            170.916,
+            507.341,
+            178.141
+          ]
+        }
+      ],
+      "is_grand_total": true,
+      "checked_against_dated_rows": false
+    },
+    {
+      "table_id": "rap-2025-p174-403-report_fdc",
+      "year": 2025,
+      "page": 403,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "REPORT_FDC",
+      "table_title": "ARRETES DE REPORT DE FDC",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 30257800,
+          "raw_text": "302 578",
+          "bbox": [
+            185.06,
+            701.801,
+            212.345,
+            709.562
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 30259500,
+          "raw_text": "302 595",
+          "bbox": [
+            291.65,
+            701.801,
+            318.905,
+            709.562
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            123.5,
+            668.996,
+            143.781,
+            676.221
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            167.9,
+            668.996,
+            204.411,
+            676.221
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            230.09,
+            668.996,
+            250.371,
+            676.221
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            274.49,
+            668.996,
+            310.971,
+            676.221
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            336.55,
+            668.996,
+            356.831,
+            676.221
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            380.95,
+            668.996,
+            417.431,
+            676.221
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            443.11,
+            668.996,
+            463.391,
+            676.221
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            487.9,
+            668.996,
+            524.381,
+            676.221
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2025-p174-404-report_general",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "REPORT_GENERAL",
+      "table_title": "ARRETES DE REPORT GENERAL HORS FDC HORS AENE",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 40000000000,
+          "raw_text": "400 000 000",
+          "bbox": [
+            154.58,
+            203.841,
+            195.395,
+            211.602
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 16160000000,
+          "raw_text": "161 600 000",
+          "bbox": [
+            261.05,
+            203.841,
+            301.865,
+            211.602
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            170.916,
+            126.861,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            170.916,
+            187.461,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            170.916,
+            233.331,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            170.916,
+            293.931,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            170.916,
+            339.911,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            170.916,
+            400.511,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            170.916,
+            446.351,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            170.916,
+            507.341,
+            178.141
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2025-p174-404-annulation",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "ANNULATION",
+      "table_title": "DECRETS D'ANNULATION",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 10500599000,
+          "raw_text": "105 005 990",
+          "bbox": [
+            367.63,
+            332.391,
+            408.445,
+            340.152
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 4052925200,
+          "raw_text": "40 529 252",
+          "bbox": [
+            478.78,
+            332.391,
+            515.755,
+            340.152
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            299.586,
+            126.861,
+            306.811
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            299.586,
+            187.461,
+            306.811
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            299.586,
+            233.331,
+            306.811
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            299.586,
+            293.931,
+            306.811
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            299.586,
+            339.911,
+            306.811
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            299.586,
+            400.511,
+            306.811
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            299.586,
+            446.351,
+            306.811
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            299.586,
+            507.341,
+            306.811
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2025-p174-404-transfert",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "TRANSFERT",
+      "table_title": "DECRETS DE TRANSFERT",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 1292455000,
+          "raw_text": "12 924 550",
+          "bbox": [
+            371.47,
+            474.731,
+            408.445,
+            482.492
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 1292455000,
+          "raw_text": "12 924 550",
+          "bbox": [
+            478.78,
+            474.731,
+            515.755,
+            482.492
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            428.106,
+            126.861,
+            435.331
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            428.106,
+            187.461,
+            435.331
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            428.106,
+            233.331,
+            435.331
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            428.106,
+            293.931,
+            435.331
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            428.106,
+            339.911,
+            435.331
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            428.106,
+            400.511,
+            435.331
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            428.106,
+            446.351,
+            435.331
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            428.106,
+            507.341,
+            435.331
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2025-p174-404-virement",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "VIREMENT",
+      "table_title": "DECRETS DE VIREMENT",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 30000000,
+          "raw_text": "300 000",
+          "bbox": [
+            381.19,
+            603.251,
+            408.445,
+            611.012
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 30000000,
+          "raw_text": "300 000",
+          "bbox": [
+            488.5,
+            603.251,
+            515.755,
+            611.012
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            570.446,
+            126.861,
+            577.671
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            570.446,
+            187.461,
+            577.671
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            570.446,
+            233.331,
+            577.671
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            570.446,
+            293.931,
+            577.671
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            570.446,
+            339.911,
+            577.671
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            570.446,
+            400.511,
+            577.671
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            570.446,
+            446.351,
+            577.671
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            570.446,
+            507.341,
+            577.671
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2025-p174-404-loi_finances",
+      "year": 2025,
+      "page": 404,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "LOI_FINANCES",
+      "table_title": "LOI DE FINANCES DE FIN DE GESTION",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 292000000,
+          "raw_text": "2 920 000",
+          "bbox": [
+            375.31,
+            731.921,
+            408.445,
+            739.682
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 2292000000,
+          "raw_text": "22 920 000",
+          "bbox": [
+            478.78,
+            731.921,
+            515.755,
+            739.682
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            106.58,
+            699.116,
+            126.861,
+            706.341
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            150.98,
+            699.116,
+            187.461,
+            706.341
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            213.05,
+            699.116,
+            233.331,
+            706.341
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            257.45,
+            699.116,
+            293.931,
+            706.341
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            319.61,
+            699.116,
+            339.911,
+            706.341
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            364.03,
+            699.116,
+            400.511,
+            706.341
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            426.07,
+            699.116,
+            446.351,
+            706.341
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            470.86,
+            699.116,
+            507.341,
+            706.341
+          ]
+        }
+      ],
+      "is_grand_total": false,
+      "checked_against_dated_rows": true
+    },
+    {
+      "table_id": "rap-2025-p174-405-total",
+      "year": 2025,
+      "page": 405,
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "kind": "TOTAL",
+      "table_title": "TOTAL DES OUVERTURES ET ANNULATIONS (Y.C. FDC ET ADP)",
+      "cells": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 40030257800,
+          "raw_text": "400 302 578",
+          "bbox": [
+            171.5,
+            190.041,
+            212.345,
+            197.802
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 16190259500,
+          "raw_text": "161 902 595",
+          "bbox": [
+            278.09,
+            190.041,
+            318.905,
+            197.802
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "amount_cents": 12115054000,
+          "raw_text": "121 150 540",
+          "bbox": [
+            384.55,
+            190.041,
+            425.365,
+            197.802
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "amount_cents": null,
+          "raw_text": null
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "amount_cents": 7667380200,
+          "raw_text": "76 673 802",
+          "bbox": [
+            495.82,
+            190.041,
+            532.795,
+            197.802
+          ]
+        }
+      ],
+      "headers": [
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            123.5,
+            170.916,
+            143.781,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            167.9,
+            170.916,
+            204.411,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            230.09,
+            170.916,
+            250.371,
+            178.141
+          ]
+        },
+        {
+          "direction": "opening",
+          "sign": 1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            274.49,
+            170.916,
+            310.971,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            336.55,
+            170.916,
+            356.831,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "AE",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            380.95,
+            170.916,
+            417.431,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "2",
+          "printed_label": "Titre 2",
+          "bbox": [
+            443.11,
+            170.916,
+            463.391,
+            178.141
+          ]
+        },
+        {
+          "direction": "cancellation",
+          "sign": -1,
+          "measure": "CP",
+          "title": "HT2",
+          "printed_label": "Autres titres",
+          "bbox": [
+            487.9,
+            170.916,
+            524.381,
+            178.141
+          ]
+        }
+      ],
+      "is_grand_total": true,
+      "checked_against_dated_rows": false
+    }
+  ],
+  "reconciliations": [
+    {
+      "year": 2023,
+      "measure": "AE",
+      "stage": "FDC",
+      "status": "published_rounding_difference",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reported_net_cents": 17733400,
+      "canonical_cents": 17733419,
+      "difference_cents": -19,
+      "item_ids": [
+        "rap-2023-p174-rattachement_fdc-2023-04/AE/opening",
+        "rap-2023-p174-rattachement_fdc-2023-05/AE/opening"
+      ],
+      "canonical_source": "6f9032fe6759bc16a73a",
+      "canonical_line": 61,
+      "canonical_field": "FDC_et_ADP"
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "stage": "REPORT_ENTRANT",
+      "status": "exact",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reported_net_cents": 33267263400,
+      "canonical_cents": 33267263400,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2023-p174-report_fdc-2023-02-16/AE/opening",
+        "rap-2023-p174-report_general-2023-03-02/AE/opening"
+      ],
+      "canonical_source": "6f9032fe6759bc16a73a",
+      "canonical_line": 61,
+      "canonical_field": "Report_N-1"
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "stage": "REGLEMENT",
+      "status": "exact",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reported_net_cents": 636913600,
+      "canonical_cents": 636913600,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2023-p174-transfert-2023-06-27/AE/cancellation",
+        "rap-2023-p174-transfert-2023-11-20/AE/opening"
+      ],
+      "canonical_source": "6f9032fe6759bc16a73a",
+      "canonical_line": 61,
+      "canonical_field": "Mvts_reglementaires"
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "stage": "LEGIS",
+      "status": "exact",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reported_net_cents": -78026686800,
+      "canonical_cents": -78026686800,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2023-p174-loi_finances-2023-11-30/AE/cancellation"
+      ],
+      "canonical_source": "6f9032fe6759bc16a73a",
+      "canonical_line": 61,
+      "canonical_field": "LFR"
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "stage": "OUVERT",
+      "status": "exact",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "lfi_cents": 579291410400,
+      "reported_net_cents": -44104776400,
+      "lfi_plus_reported_cents": 535186634000,
+      "canonical_cents": 535186634000,
+      "difference_cents": 0,
+      "canonical_source": "6f9032fe6759bc16a73a",
+      "canonical_line": 61,
+      "canonical_field": "Total_AE_Ouvertes"
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "stage": "FDC",
+      "status": "published_rounding_difference",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reported_net_cents": 17733400,
+      "canonical_cents": 17733419,
+      "difference_cents": -19,
+      "item_ids": [
+        "rap-2023-p174-rattachement_fdc-2023-04/CP/opening",
+        "rap-2023-p174-rattachement_fdc-2023-05/CP/opening"
+      ],
+      "canonical_source": "326d8f95ce70493cdbd4",
+      "canonical_line": 62,
+      "canonical_field": "FDC_et_ADP"
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "stage": "REPORT_ENTRANT",
+      "status": "exact",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reported_net_cents": 55685207600,
+      "canonical_cents": 55685207600,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2023-p174-report_fdc-2023-02-16/CP/opening",
+        "rap-2023-p174-report_general-2023-03-02/CP/opening"
+      ],
+      "canonical_source": "326d8f95ce70493cdbd4",
+      "canonical_line": 62,
+      "canonical_field": "Report_N-1"
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "stage": "REGLEMENT",
+      "status": "exact",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reported_net_cents": 644548100,
+      "canonical_cents": 644548100,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2023-p174-transfert-2023-06-27/CP/cancellation",
+        "rap-2023-p174-transfert-2023-11-20/CP/opening"
+      ],
+      "canonical_source": "326d8f95ce70493cdbd4",
+      "canonical_line": 62,
+      "canonical_field": "Mvts_reglementaires"
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "stage": "LEGIS",
+      "status": "exact",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reported_net_cents": -109232121700,
+      "canonical_cents": -109232121700,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2023-p174-loi_finances-2023-11-30/CP/cancellation"
+      ],
+      "canonical_source": "326d8f95ce70493cdbd4",
+      "canonical_line": 62,
+      "canonical_field": "LFR"
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "stage": "OUVERT",
+      "status": "exact",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "lfi_cents": 556376039000,
+      "reported_net_cents": -52884632600,
+      "lfi_plus_reported_cents": 503491406400,
+      "canonical_cents": 503491406400,
+      "difference_cents": 0,
+      "canonical_source": "326d8f95ce70493cdbd4",
+      "canonical_line": 62,
+      "canonical_field": "Total_CP_Ouverts"
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "stage": "FDC",
+      "status": "no_rows_in_rap_not_zero",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reported_net_cents": null,
+      "canonical_cents": 0,
+      "difference_cents": null,
+      "item_ids": [],
+      "canonical_source": "eb3a9ffc2f3add2ad6dc",
+      "canonical_line": 61,
+      "canonical_field": "FDC_et_ADP"
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "stage": "REPORT_ENTRANT",
+      "status": "exact",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reported_net_cents": 34057800,
+      "canonical_cents": 34057800,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2024-p174-report_fdc-2024-02-22/AE/opening"
+      ],
+      "canonical_source": "eb3a9ffc2f3add2ad6dc",
+      "canonical_line": 61,
+      "canonical_field": "Report_N-1"
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "stage": "REGLEMENT",
+      "status": "exact",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reported_net_cents": -1247688500,
+      "canonical_cents": -1247688500,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2024-p174-transfert-2024-06-26/AE/cancellation",
+        "rap-2024-p174-transfert-2024-11-28/AE/cancellation"
+      ],
+      "canonical_source": "eb3a9ffc2f3add2ad6dc",
+      "canonical_line": 61,
+      "canonical_field": "Mvts_reglementaires"
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "stage": "LEGIS",
+      "status": "exact",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reported_net_cents": -95000000000,
+      "canonical_cents": -95000000000,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2024-p174-annulation-2024-02-21/AE/cancellation"
+      ],
+      "canonical_source": "eb3a9ffc2f3add2ad6dc",
+      "canonical_line": 61,
+      "canonical_field": "LFR"
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "stage": "OUVERT",
+      "status": "exact",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "lfi_cents": 581717706200,
+      "reported_net_cents": -96213630700,
+      "lfi_plus_reported_cents": 485504075500,
+      "canonical_cents": 485504075500,
+      "difference_cents": 0,
+      "canonical_source": "eb3a9ffc2f3add2ad6dc",
+      "canonical_line": 61,
+      "canonical_field": "Total_AE_Ouvertes"
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "stage": "FDC",
+      "status": "no_rows_in_rap_not_zero",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reported_net_cents": null,
+      "canonical_cents": 0,
+      "difference_cents": null,
+      "item_ids": [],
+      "canonical_source": "d5dc9d71f6165da67f38",
+      "canonical_line": 61,
+      "canonical_field": "FDC_et_ADP"
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "stage": "REPORT_ENTRANT",
+      "status": "exact",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reported_net_cents": 4783996800,
+      "canonical_cents": 4783996800,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2024-p174-report_fdc-2024-02-22/CP/opening",
+        "rap-2024-p174-report_general-2024-03-13/CP/opening"
+      ],
+      "canonical_source": "d5dc9d71f6165da67f38",
+      "canonical_line": 61,
+      "canonical_field": "Report_N-1"
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "stage": "REGLEMENT",
+      "status": "exact",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reported_net_cents": -1247688500,
+      "canonical_cents": -1247688500,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2024-p174-transfert-2024-06-26/CP/cancellation",
+        "rap-2024-p174-transfert-2024-11-28/CP/cancellation"
+      ],
+      "canonical_source": "d5dc9d71f6165da67f38",
+      "canonical_line": 61,
+      "canonical_field": "Mvts_reglementaires"
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "stage": "LEGIS",
+      "status": "exact",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reported_net_cents": -148200000000,
+      "canonical_cents": -148200000000,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2024-p174-annulation-2024-02-21/CP/cancellation",
+        "rap-2024-p174-loi_finances-2024-12-07/CP/cancellation"
+      ],
+      "canonical_source": "d5dc9d71f6165da67f38",
+      "canonical_line": 61,
+      "canonical_field": "LFR"
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "stage": "OUVERT",
+      "status": "exact",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "lfi_cents": 543515492500,
+      "reported_net_cents": -144663691700,
+      "lfi_plus_reported_cents": 398851800800,
+      "canonical_cents": 398851800800,
+      "difference_cents": 0,
+      "canonical_source": "d5dc9d71f6165da67f38",
+      "canonical_line": 61,
+      "canonical_field": "Total_CP_Ouverts"
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "stage": "FDC",
+      "status": "no_rows_in_rap_not_zero",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "reported_net_cents": null,
+      "canonical_cents": 0,
+      "difference_cents": null,
+      "item_ids": [],
+      "canonical_source": "fdf68434f123c7f199cd",
+      "canonical_line": 59,
+      "canonical_field": "FDC_et_ADP"
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "stage": "REPORT_ENTRANT",
+      "status": "exact",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "reported_net_cents": 40030257800,
+      "canonical_cents": 40030257800,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2025-p174-report_fdc-2025-02-05/AE/opening",
+        "rap-2025-p174-report_general-2025-03-10/AE/opening"
+      ],
+      "canonical_source": "fdf68434f123c7f199cd",
+      "canonical_line": 59,
+      "canonical_field": "Report_N-1"
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "stage": "REGLEMENT",
+      "status": "exact",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "reported_net_cents": -1322455000,
+      "canonical_cents": -1322455000,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2025-p174-transfert-2025-07-09/AE/cancellation",
+        "rap-2025-p174-transfert-2025-12-03/AE/cancellation",
+        "rap-2025-p174-virement-2025-07-11/AE/cancellation"
+      ],
+      "canonical_source": "fdf68434f123c7f199cd",
+      "canonical_line": 59,
+      "canonical_field": "Mvts_reglementaires"
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "stage": "LEGIS",
+      "status": "exact",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "reported_net_cents": -10792599000,
+      "canonical_cents": -10792599000,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2025-p174-annulation-2025-04-25/AE/cancellation",
+        "rap-2025-p174-loi_finances-2025-12-08/AE/cancellation"
+      ],
+      "canonical_source": "fdf68434f123c7f199cd",
+      "canonical_line": 59,
+      "canonical_field": "LFR"
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "stage": "OUVERT",
+      "status": "exact",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "lfi_cents": 191913163100,
+      "reported_net_cents": 27915203800,
+      "lfi_plus_reported_cents": 219828366900,
+      "canonical_cents": 219828366900,
+      "difference_cents": 0,
+      "canonical_source": "fdf68434f123c7f199cd",
+      "canonical_line": 59,
+      "canonical_field": "Total_AE_Ouvertes"
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "stage": "FDC",
+      "status": "no_rows_in_rap_not_zero",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "reported_net_cents": null,
+      "canonical_cents": 0,
+      "difference_cents": null,
+      "item_ids": [],
+      "canonical_source": "7d2fec2d19e99802dfc2",
+      "canonical_line": 59,
+      "canonical_field": "FDC_et_ADP"
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "stage": "REPORT_ENTRANT",
+      "status": "exact",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "reported_net_cents": 16190259500,
+      "canonical_cents": 16190259500,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2025-p174-report_fdc-2025-02-05/CP/opening",
+        "rap-2025-p174-report_general-2025-03-10/CP/opening"
+      ],
+      "canonical_source": "7d2fec2d19e99802dfc2",
+      "canonical_line": 59,
+      "canonical_field": "Report_N-1"
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "stage": "REGLEMENT",
+      "status": "exact",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "reported_net_cents": -1322455000,
+      "canonical_cents": -1322455000,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2025-p174-transfert-2025-07-09/CP/cancellation",
+        "rap-2025-p174-transfert-2025-12-03/CP/cancellation",
+        "rap-2025-p174-virement-2025-07-11/CP/cancellation"
+      ],
+      "canonical_source": "7d2fec2d19e99802dfc2",
+      "canonical_line": 59,
+      "canonical_field": "Mvts_reglementaires"
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "stage": "LEGIS",
+      "status": "exact",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "reported_net_cents": -6344925200,
+      "canonical_cents": -6344925200,
+      "difference_cents": 0,
+      "item_ids": [
+        "rap-2025-p174-annulation-2025-04-25/CP/cancellation",
+        "rap-2025-p174-loi_finances-2025-12-08/CP/cancellation"
+      ],
+      "canonical_source": "7d2fec2d19e99802dfc2",
+      "canonical_line": 59,
+      "canonical_field": "LFR"
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "stage": "OUVERT",
+      "status": "exact",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "lfi_cents": 148372282500,
+      "reported_net_cents": 8522879300,
+      "lfi_plus_reported_cents": 156895161800,
+      "canonical_cents": 156895161800,
+      "difference_cents": 0,
+      "canonical_source": "7d2fec2d19e99802dfc2",
+      "canonical_line": 59,
+      "canonical_field": "Total_CP_Ouverts"
+    }
+  ]
+}

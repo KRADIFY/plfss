@@ -1,0 +1,1720 @@
+{
+  "updated_at": "2026-09-09",
+  "coverage": "Première série intégrée : programme 174 de la mission Écologie, de 2017 à 2025. Les autres programmes et la part MaPrimeRénov’ restent à extraire. Aucun total de mission n’est calculé.",
+  "field_labels": {
+    "initial": "Mise en réserve initiale",
+    "surgels": "Surgels",
+    "degels": "Dégels",
+    "cancellations": "Annulations / réserve en cours de gestion",
+    "remaining": "Réserve disponible avant mise en place"
+  },
+  "sources": [
+    {
+      "path": "manual/collecte/rap/2017/RAP2017_BG_Ecologie_developpement_mobilite_durables-d533cbdce912.pdf",
+      "title": "RAP2017 BG Ecologie developpement mobilite durables",
+      "years_title": [
+        "2017"
+      ],
+      "format": "pdf",
+      "role": "user_supplied",
+      "status": "downloaded",
+      "checked_at": "2026-09-08T19:30:47.874729+00:00",
+      "bytes": 4258257,
+      "sha256": "d533cbdce912a751e019927e99b56329b5b23edb256a3136dc2591fc151b4d2a",
+      "pages": 528,
+      "text_extractable": true,
+      "original_filename": "RAP2017_BG_Ecologie_developpement_mobilite_durables.pdf",
+      "provenance": "Collecte manuelle fournie par l’utilisateur le 8 septembre 2026",
+      "url": "https://www.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2017/rap/pdf/RAP2017_BG_Ecologie_developpement_mobilite_durables.pdf",
+      "url_match": "catalogue_filename",
+      "import_batch": "collecte-20260908",
+      "numeric_import": false,
+      "id": "db0adbb89b7cf5bd4af1",
+      "imported": false
+    },
+    {
+      "path": "manual/collecte/rap/2018/RAP2018_BG_Ecologie_developpement_mobilite_durables-e126ed877e40.pdf",
+      "title": "RAP2018 BG Ecologie developpement mobilite durables",
+      "years_title": [
+        "2018"
+      ],
+      "format": "pdf",
+      "role": "user_supplied",
+      "status": "downloaded",
+      "checked_at": "2026-09-08T19:30:47.874729+00:00",
+      "bytes": 3773465,
+      "sha256": "e126ed877e40cb85fafe6151e483cf4f95c3cb292f67ca02960487d3ac201725",
+      "pages": 503,
+      "text_extractable": true,
+      "original_filename": "RAP2018_BG_Ecologie_developpement_mobilite_durables.pdf",
+      "provenance": "Collecte manuelle fournie par l’utilisateur le 8 septembre 2026",
+      "url": "https://www.budget.gouv.fr/sites/performance_publique/files/farandole/ressources/2018/rap/pdf/RAP2018_BG_Ecologie_developpement_mobilite_durables.pdf",
+      "url_match": "catalogue_filename",
+      "import_batch": "collecte-20260908",
+      "numeric_import": false,
+      "id": "1561999caae7d0f8ffef",
+      "imported": false
+    },
+    {
+      "path": "manual/collecte/rap/2019/FR_2019_PLR_BG_MSN_TA-183b79b2b0ea.pdf",
+      "title": "FR 2019 PLR BG MSN TA",
+      "years_title": [
+        "2019"
+      ],
+      "format": "pdf",
+      "role": "user_supplied",
+      "status": "downloaded",
+      "checked_at": "2026-09-09T06:27:07.822769+00:00",
+      "bytes": 3377917,
+      "sha256": "183b79b2b0ea12f0fb30fd9f0965254465004f36e0365e0fac4dc858055b099a",
+      "pages": 542,
+      "text_extractable": true,
+      "original_filename": "FR_2019_PLR_BG_MSN_TA.pdf",
+      "provenance": "Collecte manuelle fournie par l’utilisateur le 9 septembre 2026",
+      "url": "",
+      "url_match": "unconfirmed",
+      "import_batch": "collecte2-20260909",
+      "numeric_import": false,
+      "collection_aliases": [
+        "FR_2019_PLR_BG_MSN_TA.pdf"
+      ],
+      "id": "0e36a5bbf303661f2f23",
+      "imported": false
+    },
+    {
+      "path": "public/selenium/rap/2020/FR_2020_PLR_BG_MSN_TA-d58d1cdcd0f5.pdf",
+      "title": "RAP 2020 — Écologie, développement et mobilité durables",
+      "years_title": [
+        "2020"
+      ],
+      "format": "pdf",
+      "role": "official_document",
+      "status": "downloaded",
+      "checked_at": "2026-09-09T11:22:31.746692+00:00",
+      "bytes": 3152030,
+      "sha256": "d58d1cdcd0f5bbb127e52e221351a2b1c53307466aa0ea346f6d727b96583fb9",
+      "pages": 541,
+      "text_extractable": true,
+      "original_filename": "FR_2020_PLR_BG_MSN_TA.pdf",
+      "provenance": "Catalogue budget.gouv.fr, téléchargement Selenium et validation locale",
+      "url": "https://www.budget.gouv.fr/documentation/file-download/10492",
+      "url_match": "official_download_link",
+      "source_pages": [
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2020/projet-loi-reglement/budget-general/ecologie-developpement-mobilite",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2020/projet-loi-reglement?page=19",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2020/projet-loi-reglement/budget-general?page=13",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2020/projet-loi-reglement?docuement_dossier%5B0%5D=typologie%3A115&page=19",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2020?page=39"
+      ],
+      "import_batch": "selenium-2019-2022-20260909",
+      "numeric_import": false,
+      "collection_urls": [
+        "https://www.budget.gouv.fr/documentation/file-download/10492"
+      ],
+      "collection_aliases": [
+        "FR_2020_PLR_BG_MSN_TA.pdf"
+      ],
+      "id": "df8d92ccd79f7b889547",
+      "imported": false
+    },
+    {
+      "path": "public/selenium/rap/2021/FR_2021_PLR_BG_MSN_TA-2d023e0f1e82.pdf",
+      "title": "RAP 2021 — Écologie, développement et mobilité durables",
+      "years_title": [
+        "2021"
+      ],
+      "format": "pdf",
+      "role": "official_document",
+      "status": "downloaded",
+      "checked_at": "2026-09-09T11:22:31.746692+00:00",
+      "bytes": 3559987,
+      "sha256": "2d023e0f1e822dfe0e1bdf09d12695872115cc00283ce42b74084954dcbaad69",
+      "pages": 563,
+      "text_extractable": true,
+      "original_filename": "FR_2021_PLR_BG_MSN_TA.pdf",
+      "provenance": "Catalogue budget.gouv.fr, téléchargement Selenium et validation locale",
+      "url": "https://www.budget.gouv.fr/documentation/file-download/15607",
+      "url_match": "official_download_link",
+      "source_pages": [
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2021/projet-loi-reglement/budget-general/ecologie-developpement-mobilite",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2021/projet-loi-reglement?page=20",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2021/projet-loi-reglement/budget-general?page=14",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2021?page=41"
+      ],
+      "import_batch": "selenium-2019-2022-20260909",
+      "numeric_import": false,
+      "collection_urls": [
+        "https://www.budget.gouv.fr/documentation/file-download/15607"
+      ],
+      "collection_aliases": [
+        "FR_2021_PLR_BG_MSN_TA.pdf"
+      ],
+      "id": "4599f31cb47c4f1d54b9",
+      "imported": false
+    },
+    {
+      "path": "public/selenium/rap/2022/RAP-2022-Ecologie-developpement-et-mobilite-durables-a36dfe32f160.pdf",
+      "title": "RAP 2022 — Écologie, développement et mobilité durables",
+      "years_title": [
+        "2022"
+      ],
+      "format": "pdf",
+      "role": "official_document",
+      "status": "downloaded",
+      "checked_at": "2026-09-09T11:22:31.746692+00:00",
+      "bytes": 3907879,
+      "sha256": "a36dfe32f160dd7c97956497407ec8c98b166c050060ee92dc68eee1a5764212",
+      "pages": 593,
+      "text_extractable": true,
+      "original_filename": "RAP 2022 Ecologie, developpement et mobilité durables.pdf",
+      "provenance": "Catalogue budget.gouv.fr, téléchargement Selenium et validation locale",
+      "url": "https://www.budget.gouv.fr/documentation/file-download/20274",
+      "url_match": "official_download_link",
+      "source_pages": [
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2022/projet-loi-reglement/budget-general/ecologie-developpement-mobilite",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2022/projet-loi-reglement?page=21",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2022/projet-loi-reglement/budget-general?page=11",
+        "https://www.budget.gouv.fr/documentation/documents-budgetaires/exercice-2022-anterieurs/exercice-2022?page=43"
+      ],
+      "import_batch": "selenium-2019-2022-20260909",
+      "numeric_import": false,
+      "collection_urls": [
+        "https://www.budget.gouv.fr/documentation/file-download/20274"
+      ],
+      "collection_aliases": [
+        "RAP 2022 Ecologie, developpement et mobilité durables.pdf"
+      ],
+      "id": "434cedcd728c414409dc",
+      "imported": false
+    },
+    {
+      "url": "https://www2.assemblee-nationale.fr/static/16/pdf/RAP2023_BG_Ecologie_developpement_mobilites_durables_TA.pdf",
+      "path": "raw/rap/2023/Ecologie_developpement_et_mobilite_durables-7c3e0561.pdf",
+      "kind": "pdf",
+      "title": "Écologie, développement et mobilité durables",
+      "role": "rap_mission",
+      "years_title": [
+        "2023"
+      ],
+      "source_page": "https://www.assemblee-nationale.fr/dyn/16/dossiers/resultats_gestion_approbation_comptes_2023",
+      "repair_revision": 1,
+      "checked_at": "2026-09-08T13:21:54.761382+00:00",
+      "http_status": 200,
+      "declared_bytes": 9804666,
+      "content_type": "application/pdf",
+      "final_url": "https://www2.assemblee-nationale.fr/static/16/pdf/RAP2023_BG_Ecologie_developpement_mobilites_durables_TA.pdf",
+      "format": "pdf",
+      "status": "downloaded",
+      "bytes": 9804666,
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "reused": true,
+      "id": "c793d7737895c135ad70",
+      "imported": false
+    },
+    {
+      "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PJL-1285/Ecologie_developpement_mobilites_durables.pdf",
+      "path": "raw/rap/2024/Ecologie_developpement_et_mobilite_durables-6bf5fe22.pdf",
+      "kind": "pdf",
+      "title": "Écologie, développement et mobilité durables",
+      "role": "rap_mission",
+      "years_title": [
+        "2024"
+      ],
+      "source_page": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51919",
+      "repair_revision": 1,
+      "checked_at": "2026-09-08T13:21:54.933871+00:00",
+      "http_status": 200,
+      "declared_bytes": 10095138,
+      "content_type": "application/pdf",
+      "final_url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PJL-1285/Ecologie_developpement_mobilites_durables.pdf",
+      "format": "pdf",
+      "status": "downloaded",
+      "bytes": 10095138,
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "reused": true,
+      "id": "113330a8d3bb90c96604",
+      "imported": false
+    },
+    {
+      "path": "public/manual/nouveau-dossier-20260909/rap/RAP2025_BG_Ecologie_developpement_mobilites_durables_TA-f51582832fff.pdf",
+      "title": "RAP2025 BG Ecologie developpement mobilites durables TA",
+      "years_title": [
+        "2025"
+      ],
+      "format": "pdf",
+      "role": "official_document",
+      "status": "downloaded",
+      "checked_at": "2026-09-09T15:45:29.729414+00:00",
+      "bytes": 10512796,
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "pages": 622,
+      "text_extractable": true,
+      "original_filename": "RAP2025_BG_Ecologie_developpement_mobilites_durables_TA.pdf",
+      "provenance": "Fichier fourni par l’utilisateur depuis Bureau/Nouveau dossier ; identité documentaire contrôlée dans le PDF, URL de téléchargement non certifiée",
+      "url": "",
+      "import_batch": "nouveau-dossier-20260909",
+      "numeric_import": false,
+      "document_stage": "rap",
+      "id": "06557292eccf98885e32",
+      "imported": false
+    }
+  ],
+  "records": [
+    {
+      "year": 2017,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "db0adbb89b7cf5bd4af1",
+      "page": 393,
+      "source_sha256": "d533cbdce912a751e019927e99b56329b5b23edb256a3136dc2591fc151b4d2a",
+      "cells": {
+        "initial": {
+          "title2_cents": null,
+          "other_titles_cents": 3552668100,
+          "total_cents": 3552668100
+        },
+        "surgels": {
+          "title2_cents": null,
+          "other_titles_cents": 200823400,
+          "total_cents": 200823400
+        },
+        "degels": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "cancellations": {
+          "title2_cents": null,
+          "other_titles_cents": -3753491500,
+          "total_cents": -3753491500
+        },
+        "remaining": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                                  35 526 681            35 526 681                           35 582 681          35 582 681",
+        "surgels": "Surgels                                                                   +2 008 234           +2 008 234                            +5 593 200          +5 593 200",
+        "degels": "Dégels                                                                                  0                 0                                        0                 0",
+        "cancellations": "Annulations / réserve en cours de gestion                                -37 534 915           -37 534 915                          -41 175 881          -41 175 881",
+        "remaining": "Réserve disponible avant mise en place du schéma                                        0                 0                                        0                 0"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2017,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "db0adbb89b7cf5bd4af1",
+      "page": 393,
+      "source_sha256": "d533cbdce912a751e019927e99b56329b5b23edb256a3136dc2591fc151b4d2a",
+      "cells": {
+        "initial": {
+          "title2_cents": null,
+          "other_titles_cents": 3558268100,
+          "total_cents": 3558268100
+        },
+        "surgels": {
+          "title2_cents": null,
+          "other_titles_cents": 559320000,
+          "total_cents": 559320000
+        },
+        "degels": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "cancellations": {
+          "title2_cents": null,
+          "other_titles_cents": -4117588100,
+          "total_cents": -4117588100
+        },
+        "remaining": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                                  35 526 681            35 526 681                           35 582 681          35 582 681",
+        "surgels": "Surgels                                                                   +2 008 234           +2 008 234                            +5 593 200          +5 593 200",
+        "degels": "Dégels                                                                                  0                 0                                        0                 0",
+        "cancellations": "Annulations / réserve en cours de gestion                                -37 534 915           -37 534 915                          -41 175 881          -41 175 881",
+        "remaining": "Réserve disponible avant mise en place du schéma                                        0                 0                                        0                 0"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2018,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "1561999caae7d0f8ffef",
+      "page": 385,
+      "source_sha256": "e126ed877e40cb85fafe6151e483cf4f95c3cb292f67ca02960487d3ac201725",
+      "cells": {
+        "initial": {
+          "title2_cents": null,
+          "other_titles_cents": 1249835500,
+          "total_cents": 1249835500
+        },
+        "surgels": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "degels": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "cancellations": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "remaining": {
+          "title2_cents": null,
+          "other_titles_cents": 1249835500,
+          "total_cents": 1249835500
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                                  12 498 355            12 498 355                           12 498 355          12 498 355",
+        "surgels": "Surgels                                                                                 0                 0                                        0                 0",
+        "degels": "Dégels                                                                                  0                 0                                        0                 0",
+        "cancellations": "Annulations / réserve en cours de gestion                                               0                 0                                        0                 0",
+        "remaining": "Réserve disponible avant mise en place du schéma                          12 498 355            12 498 355                           12 498 355          12 498 355"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Le texte suivant le tableau décrit un dégel de fin d’exercice. Les zéros du tableau ne prouvent donc pas l’absence de dégel sur toute l’année."
+    },
+    {
+      "year": 2018,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "1561999caae7d0f8ffef",
+      "page": 385,
+      "source_sha256": "e126ed877e40cb85fafe6151e483cf4f95c3cb292f67ca02960487d3ac201725",
+      "cells": {
+        "initial": {
+          "title2_cents": null,
+          "other_titles_cents": 1249835500,
+          "total_cents": 1249835500
+        },
+        "surgels": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "degels": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "cancellations": {
+          "title2_cents": null,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "remaining": {
+          "title2_cents": null,
+          "other_titles_cents": 1249835500,
+          "total_cents": 1249835500
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                                  12 498 355            12 498 355                           12 498 355          12 498 355",
+        "surgels": "Surgels                                                                                 0                 0                                        0                 0",
+        "degels": "Dégels                                                                                  0                 0                                        0                 0",
+        "cancellations": "Annulations / réserve en cours de gestion                                               0                 0                                        0                 0",
+        "remaining": "Réserve disponible avant mise en place du schéma                          12 498 355            12 498 355                           12 498 355          12 498 355"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Le texte suivant le tableau décrit un dégel de fin d’exercice. Les zéros du tableau ne prouvent donc pas l’absence de dégel sur toute l’année."
+    },
+    {
+      "year": 2019,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "0e36a5bbf303661f2f23",
+      "page": 417,
+      "source_sha256": "183b79b2b0ea12f0fb30fd9f0965254465004f36e0365e0fac4dc858055b099a",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 1946131200,
+          "total_cents": 1946131200
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": -1946131200,
+          "total_cents": -1946131200
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                       0       19 461 312          19 461 312                      0      19 461 312          19 461 312",
+        "surgels": "Surgels                                                        0                   0                  0                    0                   0                0",
+        "degels": "Dégels                                                         0       -19 461 312        -19 461 312                      0     -19 461 312         -19 461 312",
+        "remaining": "Réserve disponible avant mise en place                         0                   0                  0                    0                   0                0"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2019,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "0e36a5bbf303661f2f23",
+      "page": 417,
+      "source_sha256": "183b79b2b0ea12f0fb30fd9f0965254465004f36e0365e0fac4dc858055b099a",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 1946131200,
+          "total_cents": 1946131200
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": -1946131200,
+          "total_cents": -1946131200
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                       0       19 461 312          19 461 312                      0      19 461 312          19 461 312",
+        "surgels": "Surgels                                                        0                   0                  0                    0                   0                0",
+        "degels": "Dégels                                                         0       -19 461 312        -19 461 312                      0     -19 461 312         -19 461 312",
+        "remaining": "Réserve disponible avant mise en place                         0                   0                  0                    0                   0                0"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2020,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "df8d92ccd79f7b889547",
+      "page": 407,
+      "source_sha256": "d58d1cdcd0f5bbb127e52e221351a2b1c53307466aa0ea346f6d727b96583fb9",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 6732595000,
+          "total_cents": 6732595000
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 6732595000,
+          "total_cents": 6732595000
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                  0        67 325 950     67 325 950                  0       63 733 608         63 733 608",
+        "surgels": "Surgels                                                   0                   0           0                   0                   0                0",
+        "degels": "Dégels                                                    0                   0           0                   0                   0                0",
+        "remaining": "Réserve disponible avant mise en place                    0        67 325 950     67 325 950                  0       63 733 608         63 733 608"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2020,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "df8d92ccd79f7b889547",
+      "page": 407,
+      "source_sha256": "d58d1cdcd0f5bbb127e52e221351a2b1c53307466aa0ea346f6d727b96583fb9",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 6373360800,
+          "total_cents": 6373360800
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 6373360800,
+          "total_cents": 6373360800
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                  0        67 325 950     67 325 950                  0       63 733 608         63 733 608",
+        "surgels": "Surgels                                                   0                   0           0                   0                   0                0",
+        "degels": "Dégels                                                    0                   0           0                   0                   0                0",
+        "remaining": "Réserve disponible avant mise en place                    0        67 325 950     67 325 950                  0       63 733 608         63 733 608"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2021,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "4599f31cb47c4f1d54b9",
+      "page": 414,
+      "source_sha256": "2d023e0f1e822dfe0e1bdf09d12695872115cc00283ce42b74084954dcbaad69",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 9946052500,
+          "total_cents": 9946052500
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 9946052500,
+          "total_cents": 9946052500
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                             0      99 460 525          99 460 525                 0       95 961 083      95 961 083",
+        "surgels": "Surgels                                                              0                   0               0                 0                   0           0",
+        "degels": "Dégels                                                               0                   0               0                 0                   0           0",
+        "remaining": "Réserve disponible avant mise en place du                            0      99 460 525          99 460 525                 0       95 961 083      95 961 083"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2021,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "4599f31cb47c4f1d54b9",
+      "page": 414,
+      "source_sha256": "2d023e0f1e822dfe0e1bdf09d12695872115cc00283ce42b74084954dcbaad69",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 9596108300,
+          "total_cents": 9596108300
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 9596108300,
+          "total_cents": 9596108300
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                             0      99 460 525          99 460 525                 0       95 961 083      95 961 083",
+        "surgels": "Surgels                                                              0                   0               0                 0                   0           0",
+        "degels": "Dégels                                                               0                   0               0                 0                   0           0",
+        "remaining": "Réserve disponible avant mise en place du                            0      99 460 525          99 460 525                 0       95 961 083      95 961 083"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2022,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "434cedcd728c414409dc",
+      "page": 440,
+      "source_sha256": "a36dfe32f160dd7c97956497407ec8c98b166c050060ee92dc68eee1a5764212",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 14247798300,
+          "total_cents": 14247798300
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 5515514500,
+          "total_cents": 5515514500
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "cancellations": {
+          "title2_cents": 0,
+          "other_titles_cents": -5515514500,
+          "total_cents": -5515514500
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 14247798300,
+          "total_cents": 14247798300
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                             0     142 477 983          142 477 983                 0       125 564 264     125 564 264",
+        "surgels": "Surgels                                                              0      55 155 145           55 155 145                 0        55 155 145      55 155 145",
+        "degels": "Dégels                                                               0                   0               0                  0                   0            0",
+        "cancellations": "Annulations / réserve en cours de gestion                            0     -55 155 145          -55 155 145                 0       -55 155 145     -55 155 145",
+        "remaining": "Réserve disponible avant mise en place du                            0     142 477 983          142 477 983                 0       125 564 264     125 564 264"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2022,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "434cedcd728c414409dc",
+      "page": 440,
+      "source_sha256": "a36dfe32f160dd7c97956497407ec8c98b166c050060ee92dc68eee1a5764212",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 12556426400,
+          "total_cents": 12556426400
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 5515514500,
+          "total_cents": 5515514500
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "cancellations": {
+          "title2_cents": 0,
+          "other_titles_cents": -5515514500,
+          "total_cents": -5515514500
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 12556426400,
+          "total_cents": 12556426400
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                             0     142 477 983          142 477 983                 0       125 564 264     125 564 264",
+        "surgels": "Surgels                                                              0      55 155 145           55 155 145                 0        55 155 145      55 155 145",
+        "degels": "Dégels                                                               0                   0               0                  0                   0            0",
+        "cancellations": "Annulations / réserve en cours de gestion                            0     -55 155 145          -55 155 145                 0       -55 155 145     -55 155 145",
+        "remaining": "Réserve disponible avant mise en place du                            0     142 477 983          142 477 983                 0       125 564 264     125 564 264"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "c793d7737895c135ad70",
+      "page": 431,
+      "source_sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 28909544600,
+          "total_cents": 28909544600
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 23981908900,
+          "total_cents": 23981908900
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 52891453500,
+          "total_cents": 52891453500
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                      0     289 095 446       289 095 446                 0       277 637 761     277 637 761",
+        "surgels": "Surgels                                                       0     239 819 089       239 819 089                 0       237 527 552     237 527 552",
+        "degels": "Dégels                                                        0                   0            0                  0                   0              0",
+        "remaining": "Réserve disponible avant mise en place du                     0     528 914 535       528 914 535                 0       515 165 313     515 165 313"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "c793d7737895c135ad70",
+      "page": 431,
+      "source_sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 27763776100,
+          "total_cents": 27763776100
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 23752755200,
+          "total_cents": 23752755200
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": 0,
+          "total_cents": 0
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 51516531300,
+          "total_cents": 51516531300
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                      0     289 095 446       289 095 446                 0       277 637 761     277 637 761",
+        "surgels": "Surgels                                                       0     239 819 089       239 819 089                 0       237 527 552     237 527 552",
+        "degels": "Dégels                                                        0                   0            0                  0                   0              0",
+        "remaining": "Réserve disponible avant mise en place du                     0     528 914 535       528 914 535                 0       515 165 313     515 165 313"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "113330a8d3bb90c96604",
+      "page": 437,
+      "source_sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 31941761600,
+          "total_cents": 31941761600
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 96495778500,
+          "total_cents": 96495778500
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": -95072000000,
+          "total_cents": -95072000000
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 33365540100,
+          "total_cents": 33365540100
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                      0     319 417 616   319 417 616                  0       298 406 398     298 406 398",
+        "surgels": "Surgels                                                       0     964 957 785   964 957 785                  0   1 403 516 085     1 403 516 085",
+        "degels": "Dégels                                                        0    -950 720 000   -950 720 000                 0   -1 444 830 817    -1 444 830 817",
+        "remaining": "Réserve disponible avant mise en place du                     0     333 655 401   333 655 401                  0       257 091 666     257 091 666"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "113330a8d3bb90c96604",
+      "page": 437,
+      "source_sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 29840639800,
+          "total_cents": 29840639800
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 140351608500,
+          "total_cents": 140351608500
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": -144483081700,
+          "total_cents": -144483081700
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 25709166600,
+          "total_cents": 25709166600
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                      0     319 417 616   319 417 616                  0       298 406 398     298 406 398",
+        "surgels": "Surgels                                                       0     964 957 785   964 957 785                  0   1 403 516 085     1 403 516 085",
+        "degels": "Dégels                                                        0    -950 720 000   -950 720 000                 0   -1 444 830 817    -1 444 830 817",
+        "remaining": "Réserve disponible avant mise en place du                     0     333 655 401   333 655 401                  0       257 091 666     257 091 666"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "AE",
+      "source": "06557292eccf98885e32",
+      "page": 413,
+      "source_sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 10500599000,
+          "total_cents": 10500599000
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 48000000000,
+          "total_cents": 48000000000
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": -10792599000,
+          "total_cents": -10792599000
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 47708000000,
+          "total_cents": 47708000000
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                      0     105 005 990   105 005 990                  0        81 058 505    81 058 505",
+        "surgels": "Surgels                                                       0     480 000 000   480 000 000                  0       181 600 000   181 600 000",
+        "degels": "Dégels                                                        0    -107 925 990   -107 925 990                 0    -164 578 505     -164 578 505",
+        "remaining": "Réserve disponible avant mise en place du                     0     477 080 000   477 080 000                  0        98 080 000    98 080 000"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "measure": "CP",
+      "source": "06557292eccf98885e32",
+      "page": 413,
+      "source_sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "cells": {
+        "initial": {
+          "title2_cents": 0,
+          "other_titles_cents": 8105850500,
+          "total_cents": 8105850500
+        },
+        "surgels": {
+          "title2_cents": 0,
+          "other_titles_cents": 18160000000,
+          "total_cents": 18160000000
+        },
+        "degels": {
+          "title2_cents": 0,
+          "other_titles_cents": -16457850500,
+          "total_cents": -16457850500
+        },
+        "remaining": {
+          "title2_cents": 0,
+          "other_titles_cents": 9808000000,
+          "total_cents": 9808000000
+        }
+      },
+      "raw_lines": {
+        "initial": "Mise en réserve initiale                                      0     105 005 990   105 005 990                  0        81 058 505    81 058 505",
+        "surgels": "Surgels                                                       0     480 000 000   480 000 000                  0       181 600 000   181 600 000",
+        "degels": "Dégels                                                        0    -107 925 990   -107 925 990                 0    -164 578 505     -164 578 505",
+        "remaining": "Réserve disponible avant mise en place du                     0     477 080 000   477 080 000                  0        98 080 000    98 080 000"
+      },
+      "remaining_label": "Réserve disponible avant mise en place du schéma de fin de gestion",
+      "numeric_validation": "published_columns_and_balance_reconciled",
+      "note": "Les lignes décrivent le tableau publié dans ce RAP ; le solde ne constitue pas un stock au 31 décembre."
+    }
+  ],
+  "checks": [
+    {
+      "year": 2017,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "AE",
+      "field": "cancellations",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "CP",
+      "field": "cancellations",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2017,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "AE",
+      "field": "cancellations",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "CP",
+      "field": "cancellations",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2018,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2019,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2020,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2021,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "AE",
+      "field": "cancellations",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "CP",
+      "field": "cancellations",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "AE",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "field": "initial",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "field": "surgels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "field": "degels",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "field": "remaining",
+      "check": "printed_columns_reconcile",
+      "passed": true
+    },
+    {
+      "year": 2025,
+      "measure": "CP",
+      "check": "sum_of_published_reserve_rows",
+      "passed": true
+    }
+  ],
+  "notes": [
+    "Un dégel peut précéder une annulation : il ne correspond pas nécessairement à des crédits rendus disponibles pour dépenser.",
+    "Le solde est celui du tableau avant le schéma de fin de gestion, pas un stock certifié au 31 décembre.",
+    "Une ligne d’annulation absente du tableau reste non renseignée, jamais assimilée à zéro.",
+    "Les tableaux ne constituent pas une chronologie exhaustive des actes de gestion. Les paragraphes de justification doivent être rapprochés séparément.",
+    "Ces réserves ne sont ajoutées ni aux crédits ouverts, ni aux annulations du registre juridique, ni au consommé."
+  ],
+  "version": "9df672ecb42e7a1a6006fcd36a69b3f92879b6ec2cbd731828354ce15dc342e4"
+}

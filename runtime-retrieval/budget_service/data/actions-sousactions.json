@@ -1,0 +1,2779 @@
+{
+  "updated_at": "2026-09-10",
+  "coverage": "P345 : LFI/consommé AE/CP 2023–2025 ; 9 actions et 20 sous-actions par groupe.",
+  "method": "Totaux de programme SQL préservés ; actions et sous-actions Total RAP publiées à l’euro. Les niveaux sont imbriqués, jamais additionnés ensemble. Aucun écart d’arrondi réparti. Négatifs et zéros explicites conservés.",
+  "groups": [
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 480,
+      "total_page": 481,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 2100000000000,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 68,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 21000000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 0,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 0,
+              "page": 480
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 0,
+              "page": 480
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 0,
+              "page": 480
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 0,
+              "page": 480
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 0,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 34349736,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 34349736,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 2478057855,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 748150974,
+              "page": 480
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 1729906881,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 376749591,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 376749591,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 72000000,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 72000000,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 43928130,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 29199004,
+              "page": 480
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 7116500,
+              "page": 480
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 7612626,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 73274265,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 72364658,
+              "page": 480
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 909607,
+              "page": 480
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 17921640423,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 8879488915,
+              "page": 481
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 9042151508,
+              "page": 481
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 0,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 0,
+              "page": 481
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 480,
+      "total_page": 481,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 2016989112500,
+          "source": "6f9032fe6759bc16a73a",
+          "line": 68,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 20169891125,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 1375864886,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 373673748,
+              "page": 480
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 20284607,
+              "page": 480
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 794203045,
+              "page": 480
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 119571828,
+              "page": 480
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 68131658,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 43159130,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 43159130,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 3166061422,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 737028111,
+              "page": 480
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 2429033311,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 214110942,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 214110942,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 63048305,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 63048305,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 50967914,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 29198813,
+              "page": 480
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 14023878,
+              "page": 480
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 7745223,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 87719646,
+          "page": 480,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 86146510,
+              "page": 480
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 1573136,
+              "page": 480
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 480
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 15168958880,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 9901602216,
+              "page": 481
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 5369656664,
+              "page": 481
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": -102300000,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 0,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 0,
+              "page": 481
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 480,
+      "total_page": 482,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 2100000000000,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 69,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 21000000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 0,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 0,
+              "page": 481
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 0,
+              "page": 481
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 0,
+              "page": 481
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 0,
+              "page": 481
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 0,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 34349736,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 34349736,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 2478057855,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 748150974,
+              "page": 481
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 1729906881,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 376749591,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 376749591,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 72000000,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 72000000,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 43928130,
+          "page": 482,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 29199004,
+              "page": 482
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 7116500,
+              "page": 482
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 7612626,
+              "page": 482
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 73274265,
+          "page": 482,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 72364658,
+              "page": 482
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 909607,
+              "page": 482
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 482
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 17921640423,
+          "page": 482,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 8879488915,
+              "page": 482
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 9042151508,
+              "page": 482
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 482
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 0,
+          "page": 482,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 0,
+              "page": 482
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 480,
+      "total_page": 482,
+      "parents": [
+        {
+          "year": 2023,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 2017018419800,
+          "source": "326d8f95ce70493cdbd4",
+          "line": 69,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 20170184198,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 1375864886,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 373673748,
+              "page": 481
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 20284607,
+              "page": 481
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 794203045,
+              "page": 481
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 119571828,
+              "page": 481
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 68131658,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 43159130,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 43159130,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 3166061422,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 737028111,
+              "page": 481
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 2429033311,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 214110942,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 214110942,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 63048305,
+          "page": 481,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 63048305,
+              "page": 481
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 50967914,
+          "page": 482,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 29198813,
+              "page": 482
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 14023878,
+              "page": 482
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 7745223,
+              "page": 482
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 87883770,
+          "page": 482,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 86146510,
+              "page": 482
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 1737260,
+              "page": 482
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 482
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 15169087829,
+          "page": 482,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 9901602216,
+              "page": 482
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 5369785613,
+              "page": 482
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": -102300000,
+              "page": 482
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 0,
+          "page": 482,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 0,
+              "page": 482
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 490,
+      "total_page": 491,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 553900000000,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 68,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 5539000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 0,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 0,
+              "page": 490
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 0,
+              "page": 490
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 0,
+              "page": 490
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 0,
+              "page": 490
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 0,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 875509601,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 875509601,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 2236439679,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 1054139679,
+              "page": 490
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 1182300000,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 80463808,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 80463808,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 63000000,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 63000000,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 44923343,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 26723343,
+              "page": 490
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 11700000,
+              "page": 490
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 6500000,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 404922,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 0,
+              "page": 490
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 404922,
+              "page": 490
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 1558258647,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 1258258647,
+              "page": 491
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 300000000,
+              "page": 491
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 680000000,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 680000000,
+              "page": 491
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 490,
+      "total_page": 491,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 570212256500,
+          "source": "eb3a9ffc2f3add2ad6dc",
+          "line": 68,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 5702122565,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 1367812498,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 165139123,
+              "page": 490
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 259176558,
+              "page": 490
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 475814398,
+              "page": 490
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 436560589,
+              "page": 490
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 31121830,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 1037631701,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 1037631701,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 2135803903,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 1045375288,
+              "page": 490
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 1090428615,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 259963407,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 259963407,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 162333408,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 162333408,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 32949952,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 26893075,
+              "page": 490
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 2020166,
+              "page": 490
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 4036711,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 24101037,
+          "page": 490,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 22708800,
+              "page": 490
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 1392237,
+              "page": 490
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 490
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 681526659,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 198521262,
+              "page": 491
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 483005397,
+              "page": 491
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 0,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 0,
+              "page": 491
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 490,
+      "total_page": 492,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 488400000000,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 68,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 4884000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 0,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 0,
+              "page": 491
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 0,
+              "page": 491
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 0,
+              "page": 491
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 0,
+              "page": 491
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 0,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 875509601,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 875509601,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 2236439679,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 1054139679,
+              "page": 491
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 1182300000,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 80463808,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 80463808,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 63000000,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 63000000,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 44923343,
+          "page": 492,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 26723343,
+              "page": 492
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 11700000,
+              "page": 492
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 6500000,
+              "page": 492
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 404922,
+          "page": 492,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 0,
+              "page": 492
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 404922,
+              "page": 492
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 492
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 1558258647,
+          "page": 492,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 1258258647,
+              "page": 492
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 300000000,
+              "page": 492
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 492
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 25000000,
+          "page": 492,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 25000000,
+              "page": 492
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 490,
+      "total_page": 492,
+      "parents": [
+        {
+          "year": 2024,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 570190742341,
+          "source": "d5dc9d71f6165da67f38",
+          "line": 68,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 5701907423,
+      "action_sum_minus_parent_cents": 59,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 1367812498,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 165139123,
+              "page": 491
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 259176558,
+              "page": 491
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 475814398,
+              "page": 491
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 436560589,
+              "page": 491
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 31121830,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 1037631701,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 1037631701,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 2135803903,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 1045375288,
+              "page": 491
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 1090428615,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 259963407,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 259963407,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 162333408,
+          "page": 491,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 162333408,
+              "page": 491
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 32949952,
+          "page": 492,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 26893075,
+              "page": 492
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 2020166,
+              "page": 492
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 4036711,
+              "page": 492
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 24008438,
+          "page": 492,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 22708800,
+              "page": 492
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 1299638,
+              "page": 492
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 492
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 681404117,
+          "page": 492,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 198398720,
+              "page": 492
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 483005397,
+              "page": 492
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 492
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 0,
+          "page": 492,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 0,
+              "page": 492
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 465,
+      "total_page": 466,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 891385833300,
+          "source": "fdf68434f123c7f199cd",
+          "line": 65,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 8913858333,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 4398490756,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 247175877,
+              "page": 465
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 644902151,
+              "page": 465
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 2839126107,
+              "page": 465
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 620113983,
+              "page": 465
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 47172638,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 1181467408,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 1181467408,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 1839958333,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 889225000,
+              "page": 465
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 950733333,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 588097356,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 588097356,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 187000000,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 187000000,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 39762265,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 26453706,
+              "page": 465
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 6075530,
+              "page": 465
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 7233029,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 0,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 0,
+              "page": 465
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 0,
+              "page": 465
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 336582215,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 222315739,
+              "page": 466
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 114266476,
+              "page": 466
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 342500000,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 342500000,
+              "page": 466
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 465,
+      "total_page": 466,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "AE",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 972385906428,
+          "source": "fdf68434f123c7f199cd",
+          "line": 65,
+          "field": "AE_Consommees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 9723859064,
+      "action_sum_minus_parent_cents": -28,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 5606545760,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 948999925,
+              "page": 465
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 573278958,
+              "page": 465
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 3235403052,
+              "page": 465
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 767408627,
+              "page": 465
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 81455198,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 1116872914,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 1116872914,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 2115108902,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 980664679,
+              "page": 465
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 1134444223,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 769370194,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 769370194,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 180846509,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 180846509,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 31208002,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 24232459,
+              "page": 465
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 2665902,
+              "page": 465
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 4309641,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 892772,
+          "page": 465,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 0,
+              "page": 465
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 892772,
+              "page": 465
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 465
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": -105450989,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": -144084225,
+              "page": 466
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 38633236,
+              "page": 466
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 8465000,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 8465000,
+              "page": 466
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 465,
+      "total_page": 467,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "LFI",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 857135833300,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 65,
+          "field": "LFI",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 8571358333,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 4398490756,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 247175877,
+              "page": 466
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 644902151,
+              "page": 466
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 2839126107,
+              "page": 466
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 620113983,
+              "page": 466
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 47172638,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 1181467408,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 1181467408,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 1839958333,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 889225000,
+              "page": 466
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 950733333,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 588097356,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 588097356,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 187000000,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 187000000,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 39762265,
+          "page": 467,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 26453706,
+              "page": 467
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 6075530,
+              "page": 467
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 7233029,
+              "page": 467
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 0,
+          "page": 467,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 0,
+              "page": 467
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 0,
+              "page": 467
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 467
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": 336582215,
+          "page": 467,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": 222315739,
+              "page": 467
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 114266476,
+              "page": 467
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 467
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 0,
+          "page": 467,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 0,
+              "page": 467
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "345",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 465,
+      "total_page": 467,
+      "parents": [
+        {
+          "year": 2025,
+          "stage": "EXEC",
+          "measure": "CP",
+          "budget": "BG",
+          "mission": "TA",
+          "mission_label": "Écologie, développement et mobilité durables",
+          "program": "345",
+          "program_label": "Service public de l'énergie",
+          "action": "",
+          "action_label": "",
+          "subaction": "",
+          "subaction_label": "",
+          "category": "",
+          "title": "HT2",
+          "cents": 971509158434,
+          "source": "7d2fec2d19e99802dfc2",
+          "line": 65,
+          "field": "Depenses_constatees",
+          "approximate": 0
+        }
+      ],
+      "published_total_euros": 9715091584,
+      "action_sum_minus_parent_cents": -34,
+      "actions": [
+        {
+          "code": "09",
+          "label": "Soutien aux énergies renouvelables électriques en métropole continentale",
+          "euros": 5606545760,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Eolien terrestre",
+              "euros": 948999925,
+              "page": 466
+            },
+            {
+              "code": "02",
+              "label": "Eolien en mer",
+              "euros": 573278958,
+              "page": 466
+            },
+            {
+              "code": "03",
+              "label": "Solaire photovoltaïque",
+              "euros": 3235403052,
+              "page": 466
+            },
+            {
+              "code": "04",
+              "label": "Bio-énergies",
+              "euros": 767408627,
+              "page": 466
+            },
+            {
+              "code": "05",
+              "label": "Autres énergies",
+              "euros": 81455198,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "10",
+          "label": "Soutien à l'injection de biométhane",
+          "euros": 1116872914,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à l'injection de biométhane",
+              "euros": 1116872914,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "11",
+          "label": "Soutien dans les zones non interconnectées au réseau métropolitain",
+          "euros": 2115108902,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la transition énergétique dans les ZNI",
+              "euros": 980664679,
+              "page": 466
+            },
+            {
+              "code": "02",
+              "label": "Mécanismes de solidarité avec les ZNI",
+              "euros": 1134444223,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+          "euros": 769370194,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien à la cogénération au gaz naturel et autres moyens thermiques",
+              "euros": 769370194,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "label": "Soutien aux effacements de consommation",
+          "euros": 180846509,
+          "page": 466,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien aux effacements",
+              "euros": 180846509,
+              "page": 466
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "label": "Dispositions sociales pour les consommateurs en situation de précarité énergétique",
+          "euros": 31208002,
+          "page": 467,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Compensation des versements au fond de solidarité logement",
+              "euros": 24232459,
+              "page": 467
+            },
+            {
+              "code": "02",
+              "label": "Dispositif d'affichage déporté de la consommation d'énergie",
+              "euros": 2665902,
+              "page": 467
+            },
+            {
+              "code": "03",
+              "label": "Autres dispositifs de lutte contre la précarité énergétique",
+              "euros": 4309641,
+              "page": 467
+            }
+          ]
+        },
+        {
+          "code": "15",
+          "label": "Frais divers",
+          "euros": 826990,
+          "page": 467,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Frais financiers et de gestion des contrats",
+              "euros": 0,
+              "page": 467
+            },
+            {
+              "code": "02",
+              "label": "Frais d'intermédiation",
+              "euros": 826990,
+              "page": 467
+            },
+            {
+              "code": "03",
+              "label": "Compléments de prix liés à l'accès régulé à l'électricité nucléaire historique",
+              "euros": 0,
+              "page": 467
+            }
+          ]
+        },
+        {
+          "code": "17",
+          "label": "Mesures exceptionnelles de protection des consommateurs",
+          "euros": -105687687,
+          "page": 467,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Mesures à destination des consommateurs d'électricité",
+              "euros": -144320923,
+              "page": 467
+            },
+            {
+              "code": "02",
+              "label": "Mesures à destination des consommateurs de gaz",
+              "euros": 38633236,
+              "page": 467
+            },
+            {
+              "code": "03",
+              "label": "Mesures à destination des consommateurs de carburants",
+              "euros": 0,
+              "page": 467
+            }
+          ]
+        },
+        {
+          "code": "18",
+          "label": "Soutien hydrogène",
+          "euros": 0,
+          "page": 467,
+          "subactions": [
+            {
+              "code": "01",
+              "label": "Soutien hydrogène",
+              "euros": 0,
+              "page": 467
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

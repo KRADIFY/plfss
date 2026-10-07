@@ -1,4 +1,26 @@
-# PLFSS — version publiée le 4 octobre 2026
+# PLFSS — sauvegarde du site en ligne au 7 octobre 2026
+
+Branche privée `sauvegarde-en-ligne-20261007`, tag `en-ligne-20261007`.
+Cette capture provient des trois conteneurs actifs : site, moteur documentaire et démo.
+Le manifeste actuel est `proofs/VERSION-EN-LIGNE-20261007.json` : 185 fichiers
+contrôlés par SHA-256, images Docker et montages de production, métadonnées financières.
+
+La démo actuelle à trois parcours et ses voix sont dans `demo`. Les feuilles de
+présentation réellement injectées sont dans `presentations`, et la configuration
+d'entrée par la démo dans `proofs/nginx-plfss.conf`. Le bouton Stop ouvre le site
+avec `?demo=off` ; le bouton Démo relance la visite. Le code de recherche actif
+est aussi archivé dans `runtime-retrieval`.
+
+La base financière est inchangée : SHA-256
+`8c37953ef9c4bb222c132b8134bf652aebe86670818a4202f7c9dfc67083da24`.
+Les documents et index volumineux restent dans la publication du 4 octobre
+décrite ci-dessous ; cette nouvelle branche conserve les actualisations de code,
+de présentation et de démo. Les manifestes anciens restent des preuves historiques.
+Les configurations conservent les chemins VPS ; les styles du domaine Budget
+et le service externe de comptage ne sont pas déployés par ce dépôt.
+Aucun site, chiffre, conteneur ou réglage de production n'a été modifié par cette sauvegarde.
+
+## Sauvegarde de référence du 4 octobre 2026
 
 Site : https://plfss.lexmachine.net/ ; VPS : 5.189.145.254.
 Ce dépôt privé conserve le code, la base financière et les fichiers de preuve

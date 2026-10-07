@@ -1,0 +1,16 @@
+{
+  "release": "https://github.com/KRADIFY/plfss/releases/tag/en-ligne-20261004",
+  "existing_archives_preserved": true,
+  "assets": [
+    {
+      "name": "PLFSS-public-20261004-final-overlay.tar.gz",
+      "bytes": 143661,
+      "url": "https://github.com/KRADIFY/plfss/releases/download/en-ligne-20261004/PLFSS-public-20261004-final-overlay.tar.gz"
+    },
+    {
+      "name": "PLFSS-public-20261004.tar.gz",
+      "bytes": 1982867547,
+      "url": "https://github.com/KRADIFY/plfss/releases/download/en-ligne-20261004/PLFSS-public-20261004.tar.gz"
+    }
+  ]
+}

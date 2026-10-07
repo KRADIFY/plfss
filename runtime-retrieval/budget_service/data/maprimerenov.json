@@ -1,0 +1,3395 @@
+{
+  "id": "maprimerenov",
+  "title": "MaPrimeRénov’",
+  "updated_at": "2026-09-23T21:47:08.028186+00:00",
+  "perimeter": "Crédits de l’État identifiés pour MaPrimeRénov’, selon le périmètre publié chaque année par les sources citées. Les paiements de l’Anah aux bénéficiaires ne sont pas additionnés aux crédits de l’État.",
+  "limitations": [
+    "Les évolutions sont calculées à périmètre publié : les changements de définition des aides ne sont pas retraités.",
+    "Ce dossier ne mesure pas l’ensemble de la rénovation énergétique : CITE, TVA réduite, éco-PTZ, CEE et autres ressources de l’Anah restent distincts.",
+    "Restent à isoler : ouverts nationaux 2021, LFI/ouverts nationaux 2022–2023, PLF/LFI/ouverts/consommé nationaux complets 2024, LFI/ouverts/consommé complets 2025 et montants complets 2026. Les parts connues et enveloppes mixtes figurent dans les justificatifs. Les gels et mouvements des programmes ne sont pas ceux du dispositif ; aucun gel n’est déduit du non-consommé.",
+    "La précision varie selon les sources : euro pour la LFI et le consommé P174 2020 et le consommé 2023–2024, 0,1 M€ ou M€ pour les autres observations. Aucun pourcentage arbitraire du programme, de l’action ou du budget de l’Anah n’est utilisé.",
+    "Le rattachement à l’action 02 du P174 est documenté pour les PLF 2020–2024, les LFI 2020–2023, les ouverts CP 2022 et les consommés 2020, 2023 et 2024. Il ne permet pas d’estimer les autres ventilations, notamment les réserves.",
+    "En 2025, le tableau du jaune budgétaire publie pour le PLF 1 378 M€ de CP sur le P135 et 0 M€ sur les P174 et P362. Pour les AE, la LFI et le consommé, l’absence de retrait au P174 résulte du transfert et du rapprochement documentés ; elle ne donne pas le montant national de ces étapes et ne convertit aucun blanc en zéro.",
+    "2020 : les 85 M€ transférés du P135 sont comptés une seule fois au P174. En 2021, le périmètre publié du Plan de relance comprend des aides connexes et la communication : les comparaisons historiques ne sont pas à périmètre constant.",
+    "2024 : les six montants P135 LFI/ouverts/consommé en AE et CP auparavant issus du tableau 12 de la NEB sont reclassés comme enveloppes Anah mixtes, conformément au RAP. Ils ne sont plus retenus comme MaPrimeRénov’ soustractible. Les observations du P174 sont conservées.",
+    "2022, P362 : 818 M€ de CP pour la prime, 47,2 M€ pour la ligne copropriétés/intensification des plans Anah et 5 M€ de communication expliquent l’enveloppe large de 870 M€ arrondie dans la NEB. Les 1 092 M€ ouverts de l’enveloppe ne peuvent pas être ventilés en appliquant ces parts consommées."
+  ],
+  "carriers": [
+    {
+      "path": "TA/174",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "label": "Énergie, climat et après-mines"
+    },
+    {
+      "path": "PR/362",
+      "mission_label": "Plan de relance",
+      "label": "Écologie"
+    },
+    {
+      "path": "VA/135",
+      "mission_label": "Cohésion des territoires",
+      "label": "Urbanisme, territoires et amélioration de l’habitat"
+    }
+  ],
+  "sources": [
+    {
+      "id": "296835325a7d511d6a5a",
+      "title": "MaPrimeRénov’ — Cour des comptes, exécution 2024, Écologie",
+      "dataset_title": "Dossier MaPrimeRénov’ · crédits du budget général de l’État",
+      "path": "topics/maprimerenov/neb2024-ecologie.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "url": "https://www.ccomptes.fr/sites/default/files/2025-04/NEB-2024-Ecologie-developpement-mobilite-durables.pdf",
+      "sha256": "85a9a851131ec9564f5af7c77c64a895c2c3dcd6a5464a82313e41575cbb0795",
+      "bytes": 2289244,
+      "pages": 146,
+      "checked_at": "2026-09-08",
+      "imported": true,
+      "license": "Publication officielle de la Cour des comptes"
+    },
+    {
+      "id": "793f09813e0448b0055c",
+      "title": "MaPrimeRénov’ — Cour des comptes, exécution 2024, Cohésion des territoires",
+      "dataset_title": "Dossier MaPrimeRénov’ · crédits du budget général de l’État",
+      "path": "topics/maprimerenov/neb2024-cohesion.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "url": "https://www.ccomptes.fr/sites/default/files/2025-04/NEB-2024-Cohesion-territoires.pdf",
+      "sha256": "d94d42962715bc99eb16d53cfe8eac012e4bc4fadd692d7dcb772440316e30a5",
+      "bytes": 1786036,
+      "pages": 122,
+      "checked_at": "2026-09-08",
+      "imported": true,
+      "license": "Publication officielle de la Cour des comptes"
+    },
+    {
+      "id": "2f15709320cdd6cb8d0a",
+      "title": "Cour des comptes — NEB 2021 — NEB-2021-Ecologie-developpement-mobilite-durables",
+      "dataset_title": "Dossier MaPrimeRénov’ · documents de contrôle du périmètre",
+      "path": "topics/maprimerenov/neb2021-ecologie.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2021"
+      ],
+      "url": "https://www.ccomptes.fr/sites/default/files/2023-10/NEB-2021-Ecologie-developpement-mobilite-durables.pdf",
+      "sha256": "2f15709320cdd6cb8d0a9e98aec122fbd2016f964de7f9fcaa6027ae3ab51324",
+      "bytes": 1892483,
+      "pages": 125,
+      "checked_at": "2026-09-20",
+      "imported": true,
+      "license": "Publication officielle de la Cour des comptes"
+    },
+    {
+      "id": "a954f39135465e66a745",
+      "title": "Cour des comptes — NEB 2022 — NEB-2022-Ecologie-developpement-mobilite-durables",
+      "dataset_title": "Dossier MaPrimeRénov’ · documents de contrôle du périmètre",
+      "path": "topics/maprimerenov/neb2022-ecologie.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2022"
+      ],
+      "url": "https://www.ccomptes.fr/sites/default/files/2023-10/NEB-2022-Ecologie-developpement-mobilite-durables.pdf",
+      "sha256": "a954f39135465e66a7459af3bdf11d60de2dd3e76ee3c5f8343ad949640f0af4",
+      "bytes": 2032809,
+      "pages": 119,
+      "checked_at": "2026-09-20",
+      "imported": true,
+      "license": "Publication officielle de la Cour des comptes"
+    },
+    {
+      "id": "8a04f40171b880b41ba2",
+      "title": "Cour des comptes — 2023 — Écologie, développement et mobilité durables",
+      "dataset_title": "Dossier MaPrimeRénov’ · documents de contrôle du périmètre",
+      "path": "topics/maprimerenov/neb2023-ecologie.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2023"
+      ],
+      "url": "https://www.ccomptes.fr/sites/default/files/2024-04/NEB-2023-Ecologie-developpement-mobilite-durables.pdf",
+      "sha256": "8a04f40171b880b41ba252f6264d170217b50897483313c4d98bc5ae1746bc59",
+      "bytes": 2157222,
+      "pages": 147,
+      "checked_at": "2026-09-20",
+      "imported": true,
+      "license": "Publication officielle de la Cour des comptes"
+    },
+    {
+      "id": "270aaa96aa51346f908e",
+      "title": "Cour des comptes — 2025 — Cohésion des territoires",
+      "dataset_title": "Dossier MaPrimeRénov’ · documents de contrôle du périmètre",
+      "path": "topics/maprimerenov/neb2025-cohesion.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2025",
+        "2026"
+      ],
+      "url": "https://www.ccomptes.fr/sites/default/files/2026-04/NEB-2026-Cohesion-territoires.pdf",
+      "sha256": "270aaa96aa51346f908e6df1b603097e17d7dacbd22da80e4b09462abc411d80",
+      "bytes": 1487058,
+      "pages": 112,
+      "checked_at": "2026-09-20",
+      "imported": true,
+      "license": "Publication officielle de la Cour des comptes"
+    },
+    {
+      "id": "2ee68df9e243bf45b79d",
+      "title": "Assemblée nationale — PLF 2022, Plan de relance, tableau MaPrimeRénov’",
+      "dataset_title": "Dossier MaPrimeRénov’ · crédits de l’État",
+      "path": "topics/maprimerenov/an-plf2022-plan-relance.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "url": "https://www.assemblee-nationale.fr/dyn/15/rapports/cion_fin/l15b4524-tiii-a45_rapport-fond.pdf",
+      "sha256": "2ee68df9e243bf45b79dc1b0e4d0ef4064fc89265e3cf23f36a26e13e96b5e8a",
+      "bytes": 722066,
+      "pages": 91,
+      "checked_at": "2026-09-21",
+      "imported": true,
+      "license": "Publication officielle de l’État français"
+    },
+    {
+      "id": "9dc09610ac9ef29bff49",
+      "title": "Assemblée nationale — PLF 2021, Énergie, financement MaPrimeRénov’",
+      "dataset_title": "Dossier MaPrimeRénov’ · crédits de l’État",
+      "path": "topics/maprimerenov/an-plf2021-energie.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2020",
+        "2021"
+      ],
+      "url": "https://www.assemblee-nationale.fr/dyn/15/rapports/cion_fin/l15b3399-tiii-a18_rapport-fond.pdf",
+      "sha256": "9dc09610ac9ef29bff493cc1ea825c7f487902640f3a8379f195b7b36c95d3f3",
+      "bytes": 547922,
+      "pages": 67,
+      "checked_at": "2026-09-21",
+      "imported": true,
+      "license": "Publication officielle de l’État français"
+    },
+    {
+      "id": "7ee245620ec60452359e",
+      "title": "PAP 2021 — Plan de relance, financement des logements privés",
+      "dataset_title": "Dossier MaPrimeRénov’ · crédits de l’État",
+      "path": "topics/maprimerenov/pap2021-plan-relance.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2021"
+      ],
+      "url": "https://www.budget.gouv.fr/documentation/file-download/9586",
+      "sha256": "7ee245620ec60452359e605d5764b20d2dacdc59a9f3a48a04bfcf3627245a14",
+      "bytes": 703887,
+      "pages": 119,
+      "checked_at": "2026-09-21",
+      "imported": true,
+      "license": "Publication officielle de l’État français"
+    },
+    {
+      "id": "49e40a23762335975cf2",
+      "title": "Anah — orientations de programmation et répartition régionale des crédits 2026",
+      "dataset_title": "MaPrimeRénov’ — contexte du budget propre de l’Anah, distinct des crédits de l’État",
+      "path": "topics/maprimerenov/anah-programmation2026.pdf",
+      "format": "pdf",
+      "years_title": [
+        "2026"
+      ],
+      "url": "https://www.anah.gouv.fr/sites/default/files/2026-02/CA%20du%2016%20d%C3%A9cembre%202025_2.1.2_D%C3%A9lib%C3%A9ration%20n%C2%B02025-28%20programmation%202026.pdf",
+      "download_url": "https://www.anah.gouv.fr/sites/default/files/2026-02/CA%20du%2016%20d%C3%A9cembre%202025_2.1.2_D%C3%A9lib%C3%A9ration%20n%C2%B02025-28%20programmation%202026.pdf",
+      "sha256": "49e40a23762335975cf21b334f5b2dd71193322ba843dfd56e5cb0808c6ae648",
+      "bytes": 3392257,
+      "pages": 11,
+      "role": "documentary_evidence",
+      "status": "downloaded",
+      "imported": false,
+      "numeric_import": false,
+      "checked_at": "2026-09-23T21:47:08.028186+00:00"
+    }
+  ],
+  "references": [
+    {
+      "source": "8a1f8fa45b814b86fd29",
+      "page": 109,
+      "label": "PAP 2025 · subvention à l’Anah et transfert depuis le P174",
+      "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2025/Cohesion_territoires.pdf"
+    },
+    {
+      "source": "d2c406b7e2bc73904e50",
+      "page": 122,
+      "label": "RAP 2025 · subvention d’intervention de l’Anah regroupant plusieurs aides",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109813/file/Cohesion_territoires_VA.pdf"
+    },
+    {
+      "source": "c9bb891a0169f22103e4",
+      "page": 107,
+      "label": "PAP 2026 · subvention à l’Anah regroupant plusieurs aides",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1087954/file/PAP2026_BG_Cohesion_territoires_VA.pdf"
+    },
+    {
+      "source": "c793d7737895c135ad70",
+      "page": 439,
+      "label": "RAP Écologie 2023 · montant propre à MaPrimeRénov’",
+      "url": "https://www2.assemblee-nationale.fr/static/16/pdf/RAP2023_BG_Ecologie_developpement_mobilites_durables_TA.pdf"
+    },
+    {
+      "source": "113330a8d3bb90c96604",
+      "page": 446,
+      "label": "RAP Écologie 2024 · montant propre à MaPrimeRénov’",
+      "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PJL-1285/Ecologie_developpement_mobilites_durables.pdf"
+    },
+    {
+      "source": "df8d92ccd79f7b889547",
+      "page": 415,
+      "label": "RAP 2020 · LFI et consommé MaPrimeRénov’, contexte p. 414",
+      "url": "https://www.budget.gouv.fr/documentation/file-download/10492"
+    },
+    {
+      "source": "3bd8c08e6bb6eea75dcf",
+      "page": 328,
+      "label": "PAP 2025 · changement de programme porteur",
+      "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF-2025/Ecologie_developpement_mobilites_durables.pdf"
+    },
+    {
+      "source": "d2c406b7e2bc73904e50",
+      "page": 142,
+      "label": "RAP 2025 · transfert en LFI vers le P135",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109813/file/Cohesion_territoires_VA.pdf"
+    },
+    {
+      "source": "06557292eccf98885e32",
+      "page": 421,
+      "label": "RAP 2025 · action 02 et rapprochement, détail p. 422–423",
+      "url": "/api/download/06557292eccf98885e32"
+    },
+    {
+      "source": "0bda7f84a57258b9143c",
+      "page": 18,
+      "label": "Jaune budgétaire 2025 · CP MaPrimeRénov’ proposés au PLF par programme",
+      "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PLF2025-Jaunes/28%20-Jaune_renovation_energ%C3%A9tique_batiments.pdf"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2017,
+      "routes": [],
+      "stages": [],
+      "note": "Non applicable : dispositif créé en 2020. Le CITE antérieur reste distinct.",
+      "references": [
+        {
+          "source": "296835325a7d511d6a5a",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "routes": [],
+      "stages": [],
+      "note": "Non applicable : dispositif créé en 2020. Le CITE antérieur reste distinct.",
+      "references": [
+        {
+          "source": "296835325a7d511d6a5a",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "routes": [],
+      "stages": [],
+      "note": "Non applicable : dispositif créé en 2020. Le CITE antérieur reste distinct.",
+      "references": [
+        {
+          "source": "296835325a7d511d6a5a",
+          "page": 46
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "routes": [
+        {
+          "path": "TA/174",
+          "label": "Écologie, développement et mobilité durables · P174"
+        }
+      ],
+      "stages": [
+        "LFI",
+        "EXEC",
+        "PLF",
+        "OUVERT"
+      ],
+      "note": "Prime 2020 au programme destinataire P174 : PLF/LFI 390 M€ AE/CP ; ouverts 575 M€ AE/CP ; consommé 575 M€ AE et 455 M€ CP. Les 85 M€ transférés depuis le P135 sont déjà compris, sans double compte.",
+      "references": [
+        {
+          "source": "df8d92ccd79f7b889547",
+          "page": 414
+        },
+        {
+          "source": "df8d92ccd79f7b889547",
+          "page": 415
+        },
+        {
+          "source": "46eea38db98f94b6af13",
+          "page": 27
+        },
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 31
+        },
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "routes": [
+        {
+          "path": "TA/174",
+          "label": "Écologie, développement et mobilité durables · P174"
+        },
+        {
+          "path": "PR/362",
+          "label": "Plan de relance · P362"
+        }
+      ],
+      "stages": [
+        "EXEC",
+        "PLF",
+        "LFI"
+      ],
+      "note": "PLF et LFI : 2 740 M€ AE, 1 655 M€ CP, dont P174 740 M€ et P362 2 000 M€ AE / 915 M€ CP. Le périmètre de relance comprend des aides connexes. Consommé disponible ; ouverts annuels complets non établis.",
+      "references": [
+        {
+          "source": "296835325a7d511d6a5a",
+          "page": 48
+        },
+        {
+          "source": "9f56a4e8a7062f15663e",
+          "page": 367
+        },
+        {
+          "source": "2f15709320cdd6cb8d0a",
+          "page": 54
+        },
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 31
+        },
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "routes": [
+        {
+          "path": "TA/174",
+          "label": "Écologie, développement et mobilité durables · P174"
+        },
+        {
+          "path": "PR/362",
+          "label": "Plan de relance · P362"
+        }
+      ],
+      "stages": [
+        "EXEC",
+        "PLF",
+        "LFI",
+        "OUVERT"
+      ],
+      "note": "PLF : 1 700 M€ AE et 1 955,5 M€ CP. Consommé disponible. LFI et ouverts : part P174 identifiée ; les autres parts demandent un rapprochement de périmètre. La colonne PLF n’est pas recopiée dans la LFI.",
+      "references": [
+        {
+          "source": "296835325a7d511d6a5a",
+          "page": 48
+        },
+        {
+          "source": "adaf79e019ba52fac704",
+          "page": 379
+        },
+        {
+          "source": "a954f39135465e66a745",
+          "page": 42
+        },
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 31
+        },
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 32
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "routes": [
+        {
+          "path": "TA/174",
+          "label": "Écologie, développement et mobilité durables · P174"
+        },
+        {
+          "path": "PR/362",
+          "label": "Plan de relance · P362"
+        },
+        {
+          "path": "VA/135",
+          "label": "Cohésion des territoires · P135"
+        }
+      ],
+      "stages": [
+        "EXEC",
+        "PLF",
+        "LFI"
+      ],
+      "note": "Consommé disponible dans le périmètre publié, élargi au P135. P174 action 02 : PLF et LFI 2 450 M€ AE / 2 300 M€ CP, réserve initiale incluse. Le total national proposé et voté reste à ventiler.",
+      "references": [
+        {
+          "source": "296835325a7d511d6a5a",
+          "page": 48
+        },
+        {
+          "source": "c793d7737895c135ad70",
+          "page": 439
+        },
+        {
+          "source": "7ca128d2349a72abdec6",
+          "page": 374
+        },
+        {
+          "source": "8a04f40171b880b41ba2",
+          "page": 39
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "routes": [
+        {
+          "path": "TA/174",
+          "label": "Écologie, développement et mobilité durables · P174"
+        },
+        {
+          "path": "VA/135",
+          "label": "Cohésion des territoires · P135"
+        }
+      ],
+      "stages": [
+        "EXEC",
+        "LFI",
+        "OUVERT",
+        "PLF"
+      ],
+      "note": "LFI, ouverts et consommé disponibles dans le périmètre publié. PLF P174 action 02 : 2 697 M€ AE / 2 065 M€ CP. La subvention du P135 couvre un ensemble d’aides : PLF national MaPrimeRénov’ non établi.",
+      "references": [
+        {
+          "source": "296835325a7d511d6a5a",
+          "page": 48
+        },
+        {
+          "source": "793f09813e0448b0055c",
+          "page": 62
+        },
+        {
+          "source": "113330a8d3bb90c96604",
+          "page": 446
+        },
+        {
+          "source": "ad1d42da63958bf4a275",
+          "page": 400
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "routes": [
+        {
+          "path": "VA/135",
+          "label": "Cohésion des territoires · P135"
+        }
+      ],
+      "stages": [
+        "PLF"
+      ],
+      "note": "PLF CP : 1 378 M€ dans le périmètre de la prime de transition énergétique du jaune 2025. LFI : une brique de 779,9 M€ CP est identifiée, mais l’autre part de financement Anah n’est pas ventilée. Cette brique ne remplace pas le total national.",
+      "references": [
+        {
+          "source": "0bda7f84a57258b9143c",
+          "page": 18
+        },
+        {
+          "source": "3bd8c08e6bb6eea75dcf",
+          "page": 328
+        },
+        {
+          "source": "d2c406b7e2bc73904e50",
+          "page": 142
+        },
+        {
+          "source": "06557292eccf98885e32",
+          "page": 421
+        },
+        {
+          "source": "06557292eccf98885e32",
+          "page": 422
+        },
+        {
+          "source": "06557292eccf98885e32",
+          "page": 423
+        },
+        {
+          "source": "d2c406b7e2bc73904e50",
+          "page": 122
+        },
+        {
+          "source": "270aaa96aa51346f908e",
+          "page": 55
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "routes": [
+        {
+          "path": "VA/135",
+          "label": "Cohésion des territoires · P135"
+        }
+      ],
+      "stages": [],
+      "note": "P135 : brique MaPrimeRénov’ identifiée de 604,6 M€ CP en LFI ; complément Anah non ventilé. Le jaune présente une estimation des aides à la rénovation, pas un total certifié du dispositif. Exécution annuelle non achevée au 20 septembre 2026.",
+      "references": [
+        {
+          "source": "c9bb891a0169f22103e4",
+          "page": 107
+        },
+        {
+          "source": "270aaa96aa51346f908e",
+          "page": 55
+        }
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "year": 2021,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 70990000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2021 · EXEC · AE · part MaPrimeRénov’ du P174",
+      "published_value": "709.9",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2021,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 141000000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2021 · EXEC · AE · part MaPrimeRénov’ du P362",
+      "published_value": "1410.0",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2021,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2021 · EXEC · AE · part MaPrimeRénov’ du P135",
+      "published_value": "0.0",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2021,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 70990000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2021 · EXEC · CP · part MaPrimeRénov’ du P174",
+      "published_value": "709.9",
+      "published_unit": "M€",
+      "precision": "0,1 M€ (certaines lignes publiées au M€)",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2021,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 55000000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2021 · EXEC · CP · part MaPrimeRénov’ du P362",
+      "published_value": "550",
+      "published_unit": "M€",
+      "precision": "0,1 M€ (certaines lignes publiées au M€)",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2021,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2021 · EXEC · CP · part MaPrimeRénov’ du P135",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "0,1 M€ (certaines lignes publiées au M€)",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2022,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 203130000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2022 · EXEC · AE · part MaPrimeRénov’ du P174",
+      "published_value": "2031.3",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2022,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 24510000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2022 · EXEC · AE · part MaPrimeRénov’ du P362",
+      "published_value": "245.1",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2022,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2022 · EXEC · AE · part MaPrimeRénov’ du P135",
+      "published_value": "0.0",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2022,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 128370000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2022 · EXEC · CP · part MaPrimeRénov’ du P174",
+      "published_value": "1283.7",
+      "published_unit": "M€",
+      "precision": "0,1 M€ (certaines lignes publiées au M€)",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2022,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 81800000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2022 · EXEC · CP · part MaPrimeRénov’ du P362",
+      "published_value": "818",
+      "published_unit": "M€",
+      "precision": "0,1 M€ (certaines lignes publiées au M€)",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2022,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2022 · EXEC · CP · part MaPrimeRénov’ du P135",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "0,1 M€ (certaines lignes publiées au M€)",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 202795490600,
+      "source": "c793d7737895c135ad70",
+      "line": 439,
+      "page": 439,
+      "field": "Prime transition énergétique (MaPrimeRénov’) · consommé 2023 · AE · rubrique de l’action 02",
+      "published_value": "2027954906",
+      "published_unit": "€",
+      "precision": "1 € (RAP)",
+      "approximate": 1,
+      "basis": "Crédits de l’État consacrés à MaPrimeRénov’ dans le P174 ; montants versés aux bénéficiaires par l’Anah non additionnés.",
+      "previous_source": "296835325a7d511d6a5a",
+      "previous_page": 48,
+      "allocation_header_page": 439
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2023 · EXEC · AE · part MaPrimeRénov’ du P362",
+      "published_value": "0.0",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 38370000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2023 · EXEC · AE · part MaPrimeRénov’ du P135",
+      "published_value": "383.7",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 121657295100,
+      "source": "c793d7737895c135ad70",
+      "line": 439,
+      "page": 439,
+      "field": "Prime transition énergétique (MaPrimeRénov’) · consommé 2023 · CP · rubrique de l’action 02",
+      "published_value": "1216572951",
+      "published_unit": "€",
+      "precision": "1 € (RAP)",
+      "approximate": 1,
+      "basis": "Crédits de l’État consacrés à MaPrimeRénov’ dans le P174 ; montants versés aux bénéficiaires par l’Anah non additionnés.",
+      "previous_source": "296835325a7d511d6a5a",
+      "previous_page": 48,
+      "allocation_header_page": 439
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 28710000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2023 · EXEC · CP · part MaPrimeRénov’ du P362",
+      "published_value": "287.1",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 38370000000,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2023 · EXEC · CP · part MaPrimeRénov’ du P135",
+      "published_value": "383.7",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 116800000000,
+      "source": "113330a8d3bb90c96604",
+      "line": 446,
+      "page": 446,
+      "field": "Prime transition énergétique (MaPrimeRénov’) · consommé 2024 · AE · rubrique de l’action 02",
+      "published_value": "1168000000",
+      "published_unit": "€",
+      "precision": "1 € (RAP)",
+      "approximate": 1,
+      "basis": "Crédits de l’État consacrés à MaPrimeRénov’ dans le P174 ; montants versés aux bénéficiaires par l’Anah non additionnés.",
+      "previous_source": "296835325a7d511d6a5a",
+      "previous_page": 48,
+      "allocation_header_page": 445
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2024 · EXEC · AE · part MaPrimeRénov’ du P362",
+      "published_value": "0.0",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 69201772100,
+      "source": "113330a8d3bb90c96604",
+      "line": 446,
+      "page": 446,
+      "field": "Prime transition énergétique (MaPrimeRénov’) · consommé 2024 · CP · rubrique de l’action 02",
+      "published_value": "692017721",
+      "published_unit": "€",
+      "precision": "1 € (RAP)",
+      "approximate": 1,
+      "basis": "Crédits de l’État consacrés à MaPrimeRénov’ dans le P174 ; montants versés aux bénéficiaires par l’Anah non additionnés.",
+      "previous_source": "296835325a7d511d6a5a",
+      "previous_page": 48,
+      "allocation_header_page": 445
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "296835325a7d511d6a5a",
+      "line": 48,
+      "page": 48,
+      "field": "Tableau 18 · 2024 · EXEC · CP · part MaPrimeRénov’ du P362",
+      "published_value": "0.0",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 229600000000,
+      "source": "793f09813e0448b0055c",
+      "line": 62,
+      "page": 62,
+      "field": "Tableau 12 · 2024 · LFI · AE · part MaPrimeRénov’ du P174",
+      "published_value": "2296",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 202400000000,
+      "source": "793f09813e0448b0055c",
+      "line": 62,
+      "page": 62,
+      "field": "Tableau 12 · 2024 · LFI · CP · part MaPrimeRénov’ du P174",
+      "published_value": "2024",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2024,
+      "stage": "OUVERT",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 159600000000,
+      "source": "793f09813e0448b0055c",
+      "line": 62,
+      "page": 62,
+      "field": "Tableau 12 · 2024 · OUVERT · AE · part MaPrimeRénov’ du P174",
+      "published_value": "1596",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2024,
+      "stage": "OUVERT",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 114200000000,
+      "source": "793f09813e0448b0055c",
+      "line": 62,
+      "page": 62,
+      "field": "Tableau 12 · 2024 · OUVERT · CP · part MaPrimeRénov’ du P174",
+      "published_value": "1142",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+    },
+    {
+      "year": 2020,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "cents": 39000000000,
+      "source": "df8d92ccd79f7b889547",
+      "page": 415,
+      "field": "Contribution au grand plan d’investissement · Prévisions LFI · AE · Autres titres / Total",
+      "published_value": "390 000 000",
+      "published_unit": "€",
+      "precision": "1 € (RAP)",
+      "approximate": 0,
+      "basis": "Crédits du budget général de l’État attribués à MaPrimeRénov’ dans le RAP ; distincts des primes engagées ou payées par l’Anah aux bénéficiaires.",
+      "category": "",
+      "title": "",
+      "line": 415,
+      "references": [
+        {
+          "source": "df8d92ccd79f7b889547",
+          "page": 414
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "cents": 39000000000,
+      "source": "df8d92ccd79f7b889547",
+      "page": 415,
+      "field": "Contribution au grand plan d’investissement · Prévisions LFI · CP · Autres titres / Total",
+      "published_value": "390 000 000",
+      "published_unit": "€",
+      "precision": "1 € (RAP)",
+      "approximate": 0,
+      "basis": "Crédits du budget général de l’État attribués à MaPrimeRénov’ dans le RAP ; distincts des primes engagées ou payées par l’Anah aux bénéficiaires.",
+      "category": "",
+      "title": "",
+      "line": 415,
+      "references": [
+        {
+          "source": "df8d92ccd79f7b889547",
+          "page": 414
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "cents": 57500000000,
+      "source": "df8d92ccd79f7b889547",
+      "page": 415,
+      "field": "Contribution au grand plan d’investissement · Réalisation · AE · Autres titres / Total",
+      "published_value": "575 000 000",
+      "published_unit": "€",
+      "precision": "1 € (RAP)",
+      "approximate": 0,
+      "basis": "Crédits du budget général de l’État attribués à MaPrimeRénov’ dans le RAP ; distincts des primes engagées ou payées par l’Anah aux bénéficiaires.",
+      "category": "",
+      "title": "",
+      "line": 415,
+      "references": [
+        {
+          "source": "df8d92ccd79f7b889547",
+          "page": 414
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "cents": 45500000000,
+      "source": "df8d92ccd79f7b889547",
+      "page": 415,
+      "field": "Contribution au grand plan d’investissement · Réalisation · CP · Autres titres / Total",
+      "published_value": "455 000 000",
+      "published_unit": "€",
+      "precision": "1 € (RAP)",
+      "approximate": 0,
+      "basis": "Crédits du budget général de l’État attribués à MaPrimeRénov’ dans le RAP ; distincts des primes engagées ou payées par l’Anah aux bénéficiaires.",
+      "category": "",
+      "title": "",
+      "line": 415,
+      "references": [
+        {
+          "source": "df8d92ccd79f7b889547",
+          "page": 414
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "0bda7f84a57258b9143c",
+      "line": 18,
+      "page": 18,
+      "field": "Tableau page 18 · 2025 PLF · CP · P174",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Crédits de paiement proposés au PLF 2025 pour financer MaPrimeRénov’ (prime de transition énergétique), selon le tableau publié."
+    },
+    {
+      "year": 2025,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "0bda7f84a57258b9143c",
+      "line": 18,
+      "page": 18,
+      "field": "Tableau page 18 · 2025 PLF · CP · P362",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Crédits de paiement proposés au PLF 2025 pour financer MaPrimeRénov’ (prime de transition énergétique), selon le tableau publié."
+    },
+    {
+      "year": 2025,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 137800000000,
+      "source": "0bda7f84a57258b9143c",
+      "line": 18,
+      "page": 18,
+      "field": "Tableau page 18 · 2025 PLF · CP · P135",
+      "published_value": "1 378",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Crédits de paiement proposés au PLF 2025 pour financer MaPrimeRénov’ (prime de transition énergétique), selon le tableau publié."
+    },
+    {
+      "year": 2020,
+      "stage": "PLF",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 39000000000,
+      "source": "46eea38db98f94b6af13",
+      "page": 27,
+      "line": 27,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2020 · AE",
+      "published_value": "390000000",
+      "published_unit": "€",
+      "precision": "1 €",
+      "approximate": 0,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362.",
+      "references": [
+        {
+          "source": "46eea38db98f94b6af13",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 39000000000,
+      "source": "46eea38db98f94b6af13",
+      "page": 27,
+      "line": 27,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2020 · CP",
+      "published_value": "390000000",
+      "published_unit": "€",
+      "precision": "1 €",
+      "approximate": 0,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362.",
+      "references": [
+        {
+          "source": "46eea38db98f94b6af13",
+          "page": 26
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "stage": "PLF",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 74000000000,
+      "source": "9f56a4e8a7062f15663e",
+      "page": 367,
+      "line": 367,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2021 · AE",
+      "published_value": "740",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2021,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 74000000000,
+      "source": "9f56a4e8a7062f15663e",
+      "page": 367,
+      "line": 367,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2021 · CP",
+      "published_value": "740",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2022,
+      "stage": "PLF",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 170000000000,
+      "source": "adaf79e019ba52fac704",
+      "page": 379,
+      "line": 379,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2022 · AE",
+      "published_value": "1700",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2022,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 139000000000,
+      "source": "adaf79e019ba52fac704",
+      "page": 379,
+      "line": 379,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2022 · CP",
+      "published_value": "1390",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2023,
+      "stage": "PLF",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 245000000000,
+      "source": "7ca128d2349a72abdec6",
+      "page": 374,
+      "line": 374,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2023 · AE",
+      "published_value": "2450",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2023,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 230000000000,
+      "source": "7ca128d2349a72abdec6",
+      "page": 374,
+      "line": 374,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2023 · CP",
+      "published_value": "2300",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2024,
+      "stage": "PLF",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 269700000000,
+      "source": "ad1d42da63958bf4a275",
+      "page": 400,
+      "line": 400,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2024 · AE",
+      "published_value": "2697",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2024,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 206500000000,
+      "source": "ad1d42da63958bf4a275",
+      "page": 400,
+      "line": 400,
+      "field": "Part MaPrimeRénov’ du P174 · PLF 2024 · CP",
+      "published_value": "2065",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2021,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 74000000000,
+      "source": "2f15709320cdd6cb8d0a",
+      "page": 54,
+      "line": 54,
+      "field": "Part MaPrimeRénov’ du P174 · LFI 2021 · AE",
+      "published_value": "740",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362.",
+      "references": [
+        {
+          "source": "9f56a4e8a7062f15663e",
+          "page": 367
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 74000000000,
+      "source": "2f15709320cdd6cb8d0a",
+      "page": 54,
+      "line": 54,
+      "field": "Part MaPrimeRénov’ du P174 · LFI 2021 · CP",
+      "published_value": "740",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362.",
+      "references": [
+        {
+          "source": "9f56a4e8a7062f15663e",
+          "page": 367
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 170000000000,
+      "source": "a954f39135465e66a745",
+      "page": 42,
+      "line": 42,
+      "field": "Part MaPrimeRénov’ du P174 · LFI 2022 · AE",
+      "published_value": "1700",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362.",
+      "references": [
+        {
+          "source": "adaf79e019ba52fac704",
+          "page": 379
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 139000000000,
+      "source": "a954f39135465e66a745",
+      "page": 42,
+      "line": 42,
+      "field": "Part MaPrimeRénov’ du P174 · LFI 2022 · CP",
+      "published_value": "1390",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362.",
+      "references": [
+        {
+          "source": "adaf79e019ba52fac704",
+          "page": 379
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 245000000000,
+      "source": "8a04f40171b880b41ba2",
+      "page": 39,
+      "line": 39,
+      "field": "Part MaPrimeRénov’ du P174 · LFI 2023 · AE",
+      "published_value": "2450",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362. Note 29 : réserve de précaution de 5 % incluse dans la LFI.",
+      "references": [
+        {
+          "source": "7ca128d2349a72abdec6",
+          "page": 374
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 230000000000,
+      "source": "8a04f40171b880b41ba2",
+      "page": 39,
+      "line": 39,
+      "field": "Part MaPrimeRénov’ du P174 · LFI 2023 · CP",
+      "published_value": "2300",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362. Note 29 : réserve de précaution de 5 % incluse dans la LFI.",
+      "references": [
+        {
+          "source": "7ca128d2349a72abdec6",
+          "page": 374
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "stage": "OUVERT",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 141900000000,
+      "source": "a954f39135465e66a745",
+      "page": 42,
+      "line": 42,
+      "field": "Part MaPrimeRénov’ du P174 · OUVERT 2022 · CP",
+      "published_value": "1419",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362.",
+      "references": [
+        {
+          "source": "adaf79e019ba52fac704",
+          "page": 379
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "stage": "OUVERT",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement de la transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 57500000000,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 31,
+      "line": "MaPrimeRénov’ · TA/174",
+      "field": "OUVERT AE",
+      "published_value": "575",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": true,
+      "basis": "390 M€ initiaux + 100 M€ LFR + 85 M€ transférés du P135 : 575 M€ sur le programme destinataire. Le transfert n’est pas ajouté une seconde fois."
+    },
+    {
+      "year": 2020,
+      "stage": "OUVERT",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "02",
+      "action_label": "Accompagnement de la transition énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 57500000000,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 31,
+      "line": "MaPrimeRénov’ · TA/174",
+      "field": "OUVERT CP",
+      "published_value": "575",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": true,
+      "basis": "390 M€ initiaux + 100 M€ LFR + 85 M€ transférés du P135 : 575 M€ sur le programme destinataire. Le transfert n’est pas ajouté une seconde fois."
+    },
+    {
+      "year": 2021,
+      "stage": "PLF",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "01",
+      "action_label": "Rénovation énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 200000000000,
+      "source": "7ee245620ec60452359e",
+      "page": 30,
+      "line": "MaPrimeRénov’ · PR/362",
+      "field": "PLF AE",
+      "published_value": "2000",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": true,
+      "basis": "Périmètre publié de MaPrimeRénov’ dans le Plan de relance : copropriétés, accompagnements connexes et communication inclus selon le PAP ; pas une mesure de la seule prime par geste."
+    },
+    {
+      "year": 2021,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 200000000000,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 32,
+      "line": "MaPrimeRénov’ · PR/362",
+      "field": "LFI AE",
+      "published_value": "2000",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": true,
+      "basis": "Périmètre publié de MaPrimeRénov’ dans le Plan de relance : copropriétés, accompagnements connexes et communication inclus selon le PAP ; pas une mesure de la seule prime par geste."
+    },
+    {
+      "year": 2021,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 32,
+      "line": "MaPrimeRénov’ · VA/135",
+      "field": "LFI AE",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": false,
+      "basis": "Zéro explicitement imprimé dans la colonne LFI 2021 du tableau récapitulatif."
+    },
+    {
+      "year": 2021,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "01",
+      "action_label": "Rénovation énergétique",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 91500000000,
+      "source": "7ee245620ec60452359e",
+      "page": 30,
+      "line": "MaPrimeRénov’ · PR/362",
+      "field": "PLF CP",
+      "published_value": "915",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": true,
+      "basis": "Périmètre publié de MaPrimeRénov’ dans le Plan de relance : copropriétés, accompagnements connexes et communication inclus selon le PAP ; pas une mesure de la seule prime par geste."
+    },
+    {
+      "year": 2021,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 91500000000,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 32,
+      "line": "MaPrimeRénov’ · PR/362",
+      "field": "LFI CP",
+      "published_value": "915",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": true,
+      "basis": "Périmètre publié de MaPrimeRénov’ dans le Plan de relance : copropriétés, accompagnements connexes et communication inclus selon le PAP ; pas une mesure de la seule prime par geste."
+    },
+    {
+      "year": 2021,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 32,
+      "line": "MaPrimeRénov’ · VA/135",
+      "field": "LFI CP",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": false,
+      "basis": "Zéro explicitement imprimé dans la colonne LFI 2021 du tableau récapitulatif."
+    },
+    {
+      "year": 2022,
+      "stage": "PLF",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 32,
+      "line": "MaPrimeRénov’ · PR/362",
+      "field": "PLF AE",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": false,
+      "basis": "Montant de la colonne PLF 2022 ; distinct du collectif 2021 et des futurs reports."
+    },
+    {
+      "year": 2022,
+      "stage": "PLF",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 32,
+      "line": "MaPrimeRénov’ · VA/135",
+      "field": "PLF AE",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": false,
+      "basis": "Zéro explicitement imprimé dans la colonne PLF 2022."
+    },
+    {
+      "year": 2022,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 56550000000,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 32,
+      "line": "MaPrimeRénov’ · PR/362",
+      "field": "PLF CP",
+      "published_value": "565.5",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": true,
+      "basis": "Montant de la colonne PLF 2022 ; distinct du collectif 2021 et des futurs reports."
+    },
+    {
+      "year": 2022,
+      "stage": "PLF",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "VA",
+      "mission_label": "Cohésion des territoires",
+      "program": "135",
+      "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "2ee68df9e243bf45b79d",
+      "page": 32,
+      "line": "MaPrimeRénov’ · VA/135",
+      "field": "PLF CP",
+      "published_value": "0",
+      "published_unit": "M€",
+      "precision": "M€",
+      "approximate": false,
+      "basis": "Zéro explicitement imprimé dans la colonne PLF 2022."
+    },
+    {
+      "year": 2022,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 0,
+      "source": "2f15709320cdd6cb8d0a",
+      "page": 55,
+      "line": 55,
+      "field": "LFI 2022 · MaPrimeRénov’ · P362 · AE",
+      "published_value": "0",
+      "published_unit": "€",
+      "precision": "euro",
+      "approximate": false,
+      "basis": "Crédits LFI 2022 propres à MaPrimeRénov’ sur le P362, explicitement publiés par la Cour des comptes. Périmètre historique du plan de relance. La part éventuelle du P135 reste non établie : aucun total national complet déduit.",
+      "references": [
+        {
+          "source": "2f15709320cdd6cb8d0a",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "PR",
+      "mission_label": "Plan de relance",
+      "program": "362",
+      "program_label": "Écologie",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 56560000000,
+      "source": "2f15709320cdd6cb8d0a",
+      "page": 55,
+      "line": 55,
+      "field": "LFI 2022 · MaPrimeRénov’ · P362 · CP",
+      "published_value": "565.6",
+      "published_unit": "M€",
+      "precision": "0,1 M€",
+      "approximate": true,
+      "basis": "Crédits LFI 2022 propres à MaPrimeRénov’ sur le P362, explicitement publiés par la Cour des comptes. Périmètre historique du plan de relance. La part éventuelle du P135 reste non établie : aucun total national complet déduit.",
+      "references": [
+        {
+          "source": "2f15709320cdd6cb8d0a",
+          "page": 56
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "stage": "OUVERT",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "mission_label": "Écologie, développement et mobilité durables",
+      "program": "174",
+      "program_label": "Énergie, climat et après-mines",
+      "action": "",
+      "action_label": "",
+      "subaction": "",
+      "subaction_label": "",
+      "category": "",
+      "title": "",
+      "cents": 74000000000,
+      "source": "2f15709320cdd6cb8d0a",
+      "page": 54,
+      "line": 54,
+      "field": "CP ouverts 2021 pour MaPrimeRénov’ au P174 — prose explicite, NEB p54",
+      "published_value": "740",
+      "published_unit": "M€",
+      "precision": "1 M€",
+      "approximate": 1,
+      "basis": "La prose de la NEB distingue les CP ouverts en 2021 (740 M€ au P174). Le Sénat confirme expressément ce montant ouvert. Le titre LFI du tableau ne justifie aucune assimilation des crédits ouverts du P362 à une LFI.",
+      "corroboration_url": "https://www.senat.fr/rap/l21-792-211-1/l21-792-211-1_mono.html#toc33"
+    }
+  ],
+  "observation_history": [
+    {
+      "observation": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 202800000000,
+        "source": "296835325a7d511d6a5a",
+        "line": 48,
+        "page": 48,
+        "field": "Tableau 18 · 2023 · EXEC · AE · part MaPrimeRénov’ du P174",
+        "published_value": "2028.0",
+        "published_unit": "M€",
+        "precision": "0,1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "replaced_at": "2026-09-10",
+      "reason": "Montant du dispositif publié à l’euro dans le RAP du même exercice, compatible avec l’arrondi antérieur.",
+      "replacement_source": "c793d7737895c135ad70",
+      "replacement_page": 439
+    },
+    {
+      "observation": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 121660000000,
+        "source": "296835325a7d511d6a5a",
+        "line": 48,
+        "page": 48,
+        "field": "Tableau 18 · 2023 · EXEC · CP · part MaPrimeRénov’ du P174",
+        "published_value": "1216.6",
+        "published_unit": "M€",
+        "precision": "0,1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "replaced_at": "2026-09-10",
+      "reason": "Montant du dispositif publié à l’euro dans le RAP du même exercice, compatible avec l’arrondi antérieur.",
+      "replacement_source": "c793d7737895c135ad70",
+      "replacement_page": 439
+    },
+    {
+      "observation": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 116800000000,
+        "source": "296835325a7d511d6a5a",
+        "line": 48,
+        "page": 48,
+        "field": "Tableau 18 · 2024 · EXEC · AE · part MaPrimeRénov’ du P174",
+        "published_value": "1168.0",
+        "published_unit": "M€",
+        "precision": "0,1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "replaced_at": "2026-09-10",
+      "reason": "Montant du dispositif publié à l’euro dans le RAP du même exercice, compatible avec l’arrondi antérieur.",
+      "replacement_source": "113330a8d3bb90c96604",
+      "replacement_page": 446
+    },
+    {
+      "observation": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "174",
+        "program_label": "Énergie, climat et après-mines",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 69200000000,
+        "source": "296835325a7d511d6a5a",
+        "line": 48,
+        "page": 48,
+        "field": "Tableau 18 · 2024 · EXEC · CP · part MaPrimeRénov’ du P174",
+        "published_value": "692.0",
+        "published_unit": "M€",
+        "precision": "0,1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "replaced_at": "2026-09-10",
+      "reason": "Montant du dispositif publié à l’euro dans le RAP du même exercice, compatible avec l’arrondi antérieur.",
+      "replacement_source": "113330a8d3bb90c96604",
+      "replacement_page": 446
+    },
+    {
+      "observation": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "VA",
+        "mission_label": "Cohésion des territoires",
+        "program": "135",
+        "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 38020000000,
+        "source": "296835325a7d511d6a5a",
+        "line": 48,
+        "page": 48,
+        "field": "Tableau 18 · 2024 · EXEC · AE · part MaPrimeRénov’ du P135",
+        "published_value": "380.2",
+        "published_unit": "M€",
+        "precision": "0,1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "withdrawn_at": "2026-09-23T21:47:08.028186+00:00",
+      "status": "excluded_mixed_envelope",
+      "reason": "Le RAP 2024 décrit la subvention globale de l’Anah : fonctionnement, investissement, MaPrimeRénov’, habitat indigne et MaPrimeAdapt’. Le titre du tableau 12 de la NEB ne suffit pas à attribuer cette enveloppe au seul dispositif. Montant conservé comme contexte, non additionné ni soustrait.",
+      "references": [
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 126
+        },
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 144
+        },
+        {
+          "source": "b7dd7c6577809efa3c84",
+          "page": 116
+        },
+        {
+          "source": "793f09813e0448b0055c",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "observation": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "VA",
+        "mission_label": "Cohésion des territoires",
+        "program": "135",
+        "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 38020000000,
+        "source": "296835325a7d511d6a5a",
+        "line": 48,
+        "page": 48,
+        "field": "Tableau 18 · 2024 · EXEC · CP · part MaPrimeRénov’ du P135",
+        "published_value": "380.2",
+        "published_unit": "M€",
+        "precision": "0,1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "withdrawn_at": "2026-09-23T21:47:08.028186+00:00",
+      "status": "excluded_mixed_envelope",
+      "reason": "Le RAP 2024 décrit la subvention globale de l’Anah : fonctionnement, investissement, MaPrimeRénov’, habitat indigne et MaPrimeAdapt’. Le titre du tableau 12 de la NEB ne suffit pas à attribuer cette enveloppe au seul dispositif. Montant conservé comme contexte, non additionné ni soustrait.",
+      "references": [
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 126
+        },
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 144
+        },
+        {
+          "source": "b7dd7c6577809efa3c84",
+          "page": 116
+        },
+        {
+          "source": "793f09813e0448b0055c",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "observation": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "VA",
+        "mission_label": "Cohésion des territoires",
+        "program": "135",
+        "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 112400000000,
+        "source": "793f09813e0448b0055c",
+        "line": 62,
+        "page": 62,
+        "field": "Tableau 12 · 2024 · LFI · AE · part MaPrimeRénov’ du P135",
+        "published_value": "1124",
+        "published_unit": "M€",
+        "precision": "1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "withdrawn_at": "2026-09-23T21:47:08.028186+00:00",
+      "status": "excluded_mixed_envelope",
+      "reason": "Le RAP 2024 décrit la subvention globale de l’Anah : fonctionnement, investissement, MaPrimeRénov’, habitat indigne et MaPrimeAdapt’. Le titre du tableau 12 de la NEB ne suffit pas à attribuer cette enveloppe au seul dispositif. Montant conservé comme contexte, non additionné ni soustrait.",
+      "references": [
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 126
+        },
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 144
+        },
+        {
+          "source": "b7dd7c6577809efa3c84",
+          "page": 116
+        },
+        {
+          "source": "793f09813e0448b0055c",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "observation": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "VA",
+        "mission_label": "Cohésion des territoires",
+        "program": "135",
+        "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 112400000000,
+        "source": "793f09813e0448b0055c",
+        "line": 62,
+        "page": 62,
+        "field": "Tableau 12 · 2024 · LFI · CP · part MaPrimeRénov’ du P135",
+        "published_value": "1124",
+        "published_unit": "M€",
+        "precision": "1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "withdrawn_at": "2026-09-23T21:47:08.028186+00:00",
+      "status": "excluded_mixed_envelope",
+      "reason": "Le RAP 2024 décrit la subvention globale de l’Anah : fonctionnement, investissement, MaPrimeRénov’, habitat indigne et MaPrimeAdapt’. Le titre du tableau 12 de la NEB ne suffit pas à attribuer cette enveloppe au seul dispositif. Montant conservé comme contexte, non additionné ni soustrait.",
+      "references": [
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 126
+        },
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 144
+        },
+        {
+          "source": "b7dd7c6577809efa3c84",
+          "page": 116
+        },
+        {
+          "source": "793f09813e0448b0055c",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "observation": {
+        "year": 2024,
+        "stage": "OUVERT",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "VA",
+        "mission_label": "Cohésion des territoires",
+        "program": "135",
+        "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 38000000000,
+        "source": "793f09813e0448b0055c",
+        "line": 62,
+        "page": 62,
+        "field": "Tableau 12 · 2024 · OUVERT · AE · part MaPrimeRénov’ du P135",
+        "published_value": "380",
+        "published_unit": "M€",
+        "precision": "1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "withdrawn_at": "2026-09-23T21:47:08.028186+00:00",
+      "status": "excluded_mixed_envelope",
+      "reason": "Le RAP 2024 décrit la subvention globale de l’Anah : fonctionnement, investissement, MaPrimeRénov’, habitat indigne et MaPrimeAdapt’. Le titre du tableau 12 de la NEB ne suffit pas à attribuer cette enveloppe au seul dispositif. Montant conservé comme contexte, non additionné ni soustrait.",
+      "references": [
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 126
+        },
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 144
+        },
+        {
+          "source": "b7dd7c6577809efa3c84",
+          "page": 116
+        },
+        {
+          "source": "793f09813e0448b0055c",
+          "page": 61
+        }
+      ]
+    },
+    {
+      "observation": {
+        "year": 2024,
+        "stage": "OUVERT",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "VA",
+        "mission_label": "Cohésion des territoires",
+        "program": "135",
+        "program_label": "Urbanisme, territoires et amélioration de l’habitat",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "",
+        "cents": 38000000000,
+        "source": "793f09813e0448b0055c",
+        "line": 62,
+        "page": 62,
+        "field": "Tableau 12 · 2024 · OUVERT · CP · part MaPrimeRénov’ du P135",
+        "published_value": "380",
+        "published_unit": "M€",
+        "precision": "1 M€",
+        "approximate": 1,
+        "basis": "Crédits du budget général de l’État, périmètre du tableau cité"
+      },
+      "withdrawn_at": "2026-09-23T21:47:08.028186+00:00",
+      "status": "excluded_mixed_envelope",
+      "reason": "Le RAP 2024 décrit la subvention globale de l’Anah : fonctionnement, investissement, MaPrimeRénov’, habitat indigne et MaPrimeAdapt’. Le titre du tableau 12 de la NEB ne suffit pas à attribuer cette enveloppe au seul dispositif. Montant conservé comme contexte, non additionné ni soustrait.",
+      "references": [
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 126
+        },
+        {
+          "source": "dca85104653c2c5a3d17",
+          "page": 144
+        },
+        {
+          "source": "b7dd7c6577809efa3c84",
+          "page": 116
+        },
+        {
+          "source": "793f09813e0448b0055c",
+          "page": 61
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "year": 2021,
+      "stage": "EXEC",
+      "measure": "AE",
+      "paths": [
+        "TA/174",
+        "PR/362",
+        "VA/135"
+      ],
+      "basis": "Périmètre exhaustif des tableaux Cour des comptes déjà intégrés ; précisions RAP conservées."
+    },
+    {
+      "year": 2021,
+      "stage": "EXEC",
+      "measure": "CP",
+      "paths": [
+        "TA/174",
+        "PR/362",
+        "VA/135"
+      ],
+      "basis": "Périmètre exhaustif des tableaux Cour des comptes déjà intégrés ; précisions RAP conservées."
+    },
+    {
+      "year": 2022,
+      "stage": "EXEC",
+      "measure": "AE",
+      "paths": [
+        "TA/174",
+        "PR/362",
+        "VA/135"
+      ],
+      "basis": "Périmètre exhaustif des tableaux Cour des comptes déjà intégrés ; précisions RAP conservées."
+    },
+    {
+      "year": 2022,
+      "stage": "EXEC",
+      "measure": "CP",
+      "paths": [
+        "TA/174",
+        "PR/362",
+        "VA/135"
+      ],
+      "basis": "Périmètre exhaustif des tableaux Cour des comptes déjà intégrés ; précisions RAP conservées."
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "paths": [
+        "TA/174",
+        "PR/362",
+        "VA/135"
+      ],
+      "basis": "Périmètre exhaustif des tableaux Cour des comptes déjà intégrés ; précisions RAP conservées."
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "paths": [
+        "TA/174",
+        "PR/362",
+        "VA/135"
+      ],
+      "basis": "Périmètre exhaustif des tableaux Cour des comptes déjà intégrés ; précisions RAP conservées."
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "paths": [
+        "TA/174",
+        "PR/362"
+      ],
+      "basis": "Parts des P174 et P362 uniquement. La subvention globale du P135 est conservée comme contexte Anah et ne constitue pas une ventilation MaPrimeRénov’."
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "paths": [
+        "TA/174",
+        "PR/362"
+      ],
+      "basis": "Parts des P174 et P362 uniquement. La subvention globale du P135 est conservée comme contexte Anah et ne constitue pas une ventilation MaPrimeRénov’."
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "paths": [
+        "TA/174",
+        "PR/362"
+      ],
+      "basis": "Parts des P174 et P362 uniquement. La subvention globale du P135 est conservée comme contexte Anah et ne constitue pas une ventilation MaPrimeRénov’."
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "paths": [
+        "TA/174",
+        "PR/362"
+      ],
+      "basis": "Parts des P174 et P362 uniquement. La subvention globale du P135 est conservée comme contexte Anah et ne constitue pas une ventilation MaPrimeRénov’."
+    },
+    {
+      "year": 2024,
+      "stage": "OUVERT",
+      "measure": "AE",
+      "paths": [
+        "TA/174",
+        "PR/362"
+      ],
+      "basis": "Parts des P174 et P362 uniquement. La subvention globale du P135 est conservée comme contexte Anah et ne constitue pas une ventilation MaPrimeRénov’."
+    },
+    {
+      "year": 2024,
+      "stage": "OUVERT",
+      "measure": "CP",
+      "paths": [
+        "TA/174",
+        "PR/362"
+      ],
+      "basis": "Parts des P174 et P362 uniquement. La subvention globale du P135 est conservée comme contexte Anah et ne constitue pas une ventilation MaPrimeRénov’."
+    },
+    {
+      "year": 2020,
+      "stage": "LFI",
+      "measure": "AE",
+      "paths": [
+        "TA/174"
+      ],
+      "basis": "RAP 2020 p. 414–415 : seule la part du P174 est intégrée. Les autres porteurs ne sont pas réputés nuls."
+    },
+    {
+      "year": 2020,
+      "stage": "LFI",
+      "measure": "CP",
+      "paths": [
+        "TA/174"
+      ],
+      "basis": "RAP 2020 p. 414–415 : seule la part du P174 est intégrée. Les autres porteurs ne sont pas réputés nuls."
+    },
+    {
+      "year": 2020,
+      "stage": "EXEC",
+      "measure": "AE",
+      "paths": [
+        "TA/174"
+      ],
+      "basis": "RAP 2020 p. 414–415 : seule la part du P174 est intégrée. Les autres porteurs ne sont pas réputés nuls."
+    },
+    {
+      "year": 2020,
+      "stage": "EXEC",
+      "measure": "CP",
+      "paths": [
+        "TA/174"
+      ],
+      "basis": "RAP 2020 p. 414–415 : seule la part du P174 est intégrée. Les autres porteurs ne sont pas réputés nuls."
+    },
+    {
+      "year": 2025,
+      "stage": "PLF",
+      "measure": "CP",
+      "paths": [
+        "TA/174",
+        "PR/362",
+        "VA/135"
+      ],
+      "basis": "Jaune budgétaire Rénovation énergétique 2025, p. 18 : tableau national complet des CP MaPrimeRénov’ proposés au PLF 2025, P174 = 0 M€, P362 = 0 M€, P135 = 1 378 M€."
+    },
+    {
+      "year": 2020,
+      "stage": "PLF",
+      "measure": "AE",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2020,
+      "stage": "PLF",
+      "measure": "CP",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2021,
+      "stage": "PLF",
+      "measure": "AE",
+      "paths": [
+        "PR/362",
+        "TA/174",
+        "TA/174/02"
+      ],
+      "basis": "Périmètre publié de MaPrimeRénov’ dans le Plan de relance : copropriétés, accompagnements connexes et communication inclus selon le PAP ; pas une mesure de la seule prime par geste."
+    },
+    {
+      "year": 2021,
+      "stage": "PLF",
+      "measure": "CP",
+      "paths": [
+        "PR/362",
+        "TA/174",
+        "TA/174/02"
+      ],
+      "basis": "Périmètre publié de MaPrimeRénov’ dans le Plan de relance : copropriétés, accompagnements connexes et communication inclus selon le PAP ; pas une mesure de la seule prime par geste."
+    },
+    {
+      "year": 2022,
+      "stage": "PLF",
+      "measure": "AE",
+      "paths": [
+        "PR/362",
+        "TA/174",
+        "TA/174/02",
+        "VA/135"
+      ],
+      "basis": "Tableau AN PLF 2022 p.32 ; chaque colonne budgétaire reste séparée."
+    },
+    {
+      "year": 2022,
+      "stage": "PLF",
+      "measure": "CP",
+      "paths": [
+        "PR/362",
+        "TA/174",
+        "TA/174/02",
+        "VA/135"
+      ],
+      "basis": "Tableau AN PLF 2022 p.32 ; chaque colonne budgétaire reste séparée."
+    },
+    {
+      "year": 2023,
+      "stage": "PLF",
+      "measure": "AE",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2023,
+      "stage": "PLF",
+      "measure": "CP",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2024,
+      "stage": "PLF",
+      "measure": "AE",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2024,
+      "stage": "PLF",
+      "measure": "CP",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2021,
+      "stage": "LFI",
+      "measure": "AE",
+      "paths": [
+        "PR/362",
+        "TA/174",
+        "TA/174/02",
+        "VA/135"
+      ],
+      "basis": "Périmètre publié de MaPrimeRénov’ dans le Plan de relance : copropriétés, accompagnements connexes et communication inclus selon le PAP ; pas une mesure de la seule prime par geste."
+    },
+    {
+      "year": 2021,
+      "stage": "LFI",
+      "measure": "CP",
+      "paths": [
+        "PR/362",
+        "TA/174",
+        "TA/174/02",
+        "VA/135"
+      ],
+      "basis": "Périmètre publié de MaPrimeRénov’ dans le Plan de relance : copropriétés, accompagnements connexes et communication inclus selon le PAP ; pas une mesure de la seule prime par geste."
+    },
+    {
+      "year": 2022,
+      "stage": "LFI",
+      "measure": "AE",
+      "paths": [
+        "TA/174/02",
+        "PR/362"
+      ],
+      "basis": "P174 documenté séparément ; P362 LFI 2022, NEB Écologie 2021 p.55–56. Aucune extrapolation au P135."
+    },
+    {
+      "year": 2022,
+      "stage": "LFI",
+      "measure": "CP",
+      "paths": [
+        "TA/174/02",
+        "PR/362"
+      ],
+      "basis": "P174 documenté séparément ; P362 LFI 2022, NEB Écologie 2021 p.55–56. Aucune extrapolation au P135."
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362. Note 29 : réserve de précaution de 5 % incluse dans la LFI."
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362. Note 29 : réserve de précaution de 5 % incluse dans la LFI."
+    },
+    {
+      "year": 2022,
+      "stage": "OUVERT",
+      "measure": "CP",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "Part explicitement identifiée dans le P174, sans extrapolation aux P135 et P362."
+    },
+    {
+      "year": 2020,
+      "stage": "OUVERT",
+      "measure": "AE",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "AN PLF 2022 pp.31–32 : financement de la prime 2020, au programme destinataire."
+    },
+    {
+      "year": 2020,
+      "stage": "OUVERT",
+      "measure": "CP",
+      "paths": [
+        "TA/174/02"
+      ],
+      "basis": "AN PLF 2022 pp.31–32 : financement de la prime 2020, au programme destinataire."
+    },
+    {
+      "year": 2021,
+      "stage": "OUVERT",
+      "measure": "CP",
+      "paths": [
+        "TA/174"
+      ],
+      "basis": "740 M€ de CP ouverts au P174, NEB2021 p54 et Sénat exécution2021. Aucune extrapolation aux AE ni aux autres programmes."
+    }
+  ],
+  "perimeter_evidence": [
+    {
+      "kind": "outside_scope",
+      "year": 2025,
+      "path": "TA/174",
+      "stages": [
+        "PLF"
+      ],
+      "measures": [
+        "AE",
+        "CP"
+      ],
+      "label": "2025 · MaPrimeRénov’ transférée vers le programme 135",
+      "explanation": "Le PAP 2025 attribue le financement de MaPrimeRénov’ au P135, mission Cohésion des territoires. Aucun montant MaPrimeRénov’ n’est donc retranché au P174 dans le PLF 2025. Ce résultat de périmètre ne donne pas le budget national du dispositif.",
+      "references": [
+        {
+          "source": "3bd8c08e6bb6eea75dcf",
+          "page": 328
+        },
+        {
+          "source": "3bd8c08e6bb6eea75dcf",
+          "page": 341
+        }
+      ],
+      "is_published_zero": false
+    },
+    {
+      "kind": "outside_scope",
+      "year": 2025,
+      "path": "TA/174",
+      "stages": [
+        "LFI"
+      ],
+      "measures": [
+        "AE",
+        "CP"
+      ],
+      "label": "2025 · MaPrimeRénov’ transférée vers le programme 135",
+      "explanation": "Le RAP Cohésion confirme le transfert en LFI 2025 du financement de MaPrimeRénov’ du P174 vers le P135. Le budget voté du P174 reste donc inchangé après cette exclusion. Il s’agit d’une règle de périmètre documentée, pas d’un zéro MaPrimeRénov’ publié dans le RAP.",
+      "references": [
+        {
+          "source": "d2c406b7e2bc73904e50",
+          "page": 142
+        },
+        {
+          "source": "3bd8c08e6bb6eea75dcf",
+          "page": 328
+        }
+      ],
+      "is_published_zero": false
+    },
+    {
+      "kind": "outside_scope",
+      "year": 2025,
+      "path": "TA/174",
+      "stages": [
+        "EXEC"
+      ],
+      "measures": [
+        "AE",
+        "CP"
+      ],
+      "label": "2025 · MaPrimeRénov’ transférée vers le programme 135",
+      "explanation": "Le financement de MaPrimeRénov’ a été transféré au P135 en 2025. Le RAP P174 détaille entièrement son ancienne action porteuse : chèque énergie, frais de gestion et solde de l’aide carburant. Le rapprochement des montants AE et CP ne laisse aucun montant à retrancher pour MaPrimeRénov’. Ce résultat de périmètre est calculé ; les cellules vides du RAP ne sont pas converties en zéros publiés.",
+      "references": [
+        {
+          "source": "d2c406b7e2bc73904e50",
+          "page": 142
+        },
+        {
+          "source": "06557292eccf98885e32",
+          "page": 421
+        },
+        {
+          "source": "06557292eccf98885e32",
+          "page": 422
+        },
+        {
+          "source": "06557292eccf98885e32",
+          "page": 423
+        }
+      ],
+      "is_published_zero": false,
+      "reconciliation": {
+        "reported_total_cents": {
+          "AE": 67528869300,
+          "CP": 54241480900
+        },
+        "components": [
+          {
+            "page": 422,
+            "field": "Dépenses de fonctionnement autres que celles de personnel / réalisation nette de REJB",
+            "purpose": "Frais de gestion du chèque énergie",
+            "AE_cents": 2830010100,
+            "CP_cents": 3974594600
+          },
+          {
+            "page": 422,
+            "field": "Chèque énergie",
+            "AE_cents": 64698549200,
+            "CP_cents": 50266576300
+          },
+          {
+            "page": 423,
+            "field": "Mesure exceptionnelle d’aide à l’acquisition du carburant / solde 2023",
+            "AE_cents": 310000,
+            "CP_cents": 310000
+          }
+        ],
+        "sum_cents": {
+          "AE": 67528869300,
+          "CP": 54241480900
+        },
+        "arithmetic_residual_cents": {
+          "AE": 0,
+          "CP": 0
+        }
+      },
+      "limits": "Cette vérification ne ventile pas les restes à payer ni les mouvements du dispositif et ne permet aucune extrapolation à 2026."
+    },
+    {
+      "kind": "outside_scope",
+      "year": 2020,
+      "path": "PR/362",
+      "stages": [
+        "PLF",
+        "LFI",
+        "OUVERT",
+        "EXEC"
+      ],
+      "measures": [
+        "AE",
+        "CP"
+      ],
+      "label": "2020 · financement et périmètre documentés",
+      "explanation": "Le Plan de relance porte MaPrimeRénov’ à partir de 2021. Le tableau rétrospectif publie zéro sur le P362 en 2020 ; aucun financement supplémentaire n’est ajouté.",
+      "references": [
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 31
+        },
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 32
+        }
+      ],
+      "is_published_zero": false
+    },
+    {
+      "kind": "outside_scope",
+      "year": 2020,
+      "path": "VA/135",
+      "stages": [
+        "PLF",
+        "LFI",
+        "OUVERT",
+        "EXEC"
+      ],
+      "measures": [
+        "AE",
+        "CP"
+      ],
+      "label": "2020 · financement et périmètre documentés",
+      "explanation": "Périmètre de la prime 2020, distinct d’Habiter Mieux : 390 M€ initiaux au P174. En gestion, les 85 M€ venus du P135 sont transférés au P174 et compris dans les 575 M€ disponibles. Ils ne constituent pas une seconde dépense à additionner. Les autres aides Anah ne sont pas assimilées à la prime.",
+      "references": [
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 31
+        },
+        {
+          "source": "2ee68df9e243bf45b79d",
+          "page": 32
+        },
+        {
+          "source": "46eea38db98f94b6af13",
+          "page": 27
+        },
+        {
+          "source": "df8d92ccd79f7b889547",
+          "page": 415
+        }
+      ],
+      "is_published_zero": false
+    },
+    {
+      "kind": "outside_scope",
+      "year": 2021,
+      "path": "VA/135",
+      "stages": [
+        "PLF"
+      ],
+      "measures": [
+        "AE",
+        "CP"
+      ],
+      "label": "2021 · financement et périmètre documentés",
+      "explanation": "Le financement proposé pour MaPrimeRénov’ est identifié au P174 et complété au P362. Les autres interventions de l’Anah ne sont pas ajoutées à cette enveloppe publiée.",
+      "references": [
+        {
+          "source": "9dc09610ac9ef29bff49",
+          "page": 33
+        },
+        {
+          "source": "9dc09610ac9ef29bff49",
+          "page": 52
+        },
+        {
+          "source": "7ee245620ec60452359e",
+          "page": 30
+        }
+      ],
+      "is_published_zero": false
+    }
+  ],
+  "availability_note": "Disponible dans le périmètre publié : PLF/LFI/ouverts/consommé 2020 ; PLF/LFI/consommé 2021 ; PLF/consommé 2022 ; consommé 2023 ; PLF CP 2025. En 2024, les montants du P174 sont disponibles, mais le total national reste partiel : le P135 regroupe plusieurs aides. Les autres étapes comportent des parts documentées, dont 740 M€ ouverts en CP au P174 en 2021. Cliquez sur chaque montant ou case indisponible pour vérifier sa définition et ses sources.",
+  "last_funding_review": "20260923-mysteries-perimeter-crosscheck"
+}

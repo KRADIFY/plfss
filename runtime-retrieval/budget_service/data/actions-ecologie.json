@@ -1,0 +1,4205 @@
+{
+  "updated_at": "2026-09-10",
+  "coverage": "P113, P159, P205 et P380 : LFI/consommé, AE/CP, 2023–2025 ; P203 : mêmes séries sauf consommé AE 2023 (divergence RAP/CSV de 6 €) ; aucune sous-action.",
+  "groups": [
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 171,
+      "total_page": 171,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 27449170000,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 65,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 274491700,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 5723384,
+          "page": 171
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 11181600,
+          "page": 171
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 257586716,
+          "page": 171
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 171,
+      "total_page": 171,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 32624099090,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 65,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 326240991,
+      "action_sum_minus_parent_cents": 10,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 5304530,
+          "page": 171
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 6505613,
+          "page": 171
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 314430848,
+          "page": 171
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 171,
+      "total_page": 171,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 27450946800,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 66,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 274509468,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 5900309,
+          "page": 171
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 9905435,
+          "page": 171
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 258703724,
+          "page": 171
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 171,
+      "total_page": 171,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 33934663650,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 66,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 339346637,
+      "action_sum_minus_parent_cents": -50,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 6191854,
+          "page": 171
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 5571224,
+          "page": 171
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 327583558,
+          "page": 171
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 184,
+      "total_page": 184,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 57795484700,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 65,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 577954847,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 10135017,
+          "page": 184
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 9586933,
+          "page": 184
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 558232897,
+          "page": 184
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 184,
+      "total_page": 184,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 45412352850,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 65,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 454123529,
+      "action_sum_minus_parent_cents": -50,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 8163850,
+          "page": 184
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 6707116,
+          "page": 184
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 439252562,
+          "page": 184
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 184,
+      "total_page": 184,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 51197261500,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 65,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 511972615,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 9344928,
+          "page": 184
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 9585853,
+          "page": 184
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 493041834,
+          "page": 184
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 184,
+      "total_page": 184,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 37915940921,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 65,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 379159409,
+      "action_sum_minus_parent_cents": 79,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 8006427,
+          "page": 184
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 7338215,
+          "page": 184
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 363814768,
+          "page": 184
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 180,
+      "total_page": 180,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 41145704900,
+        "source": "fdf68434f123c7f199cd",
+        "line": 63,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 411457049,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 11013098,
+          "page": 180
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 11869263,
+          "page": 180
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 388574688,
+          "page": 180
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 180,
+      "total_page": 180,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 38125270157,
+        "source": "fdf68434f123c7f199cd",
+        "line": 63,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 381252702,
+      "action_sum_minus_parent_cents": 43,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 7548382,
+          "page": 180
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 7614792,
+          "page": 180
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 366089528,
+          "page": 180
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 180,
+      "total_page": 180,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 41578050400,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 63,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 415780504,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 12247819,
+          "page": 180
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 12772851,
+          "page": 180
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 390759834,
+          "page": 180
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "113",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 180,
+      "total_page": 180,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "113",
+        "program_label": "Paysages, eau et biodiversité",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 35810277871,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 63,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 358102779,
+      "action_sum_minus_parent_cents": -71,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Sites, paysages, publicité",
+          "euros": 7080635,
+          "page": 180
+        },
+        {
+          "code": "02",
+          "label": "Innovation, territorialisation et contentieux",
+          "euros": 7195160,
+          "page": 180
+        },
+        {
+          "code": "07",
+          "label": "Gestion des milieux et biodiversité",
+          "euros": 343826983,
+          "page": 180
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 282,
+      "total_page": 282,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 49975472000,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 62,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 499754720,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 17703180,
+          "page": 282
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 194065764,
+          "page": 282
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 88914556,
+          "page": 282
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 199071220,
+          "page": 282
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 282,
+      "total_page": 282,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 49759351330,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 62,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 497593513,
+      "action_sum_minus_parent_cents": -30,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 17441276,
+          "page": 282
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 190814191,
+          "page": 282
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 93758670,
+          "page": 282
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 195579376,
+          "page": 282
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 282,
+      "total_page": 282,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 49975472000,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 63,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 499754720,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 17703180,
+          "page": 282
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 194065764,
+          "page": 282
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 88914556,
+          "page": 282
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 199071220,
+          "page": 282
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 282,
+      "total_page": 282,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 49717740890,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 63,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 497177409,
+      "action_sum_minus_parent_cents": 10,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 16984176,
+          "page": 282
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 190814191,
+          "page": 282
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 93799666,
+          "page": 282
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 195579376,
+          "page": 282
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 281,
+      "total_page": 281,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 51554888900,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 62,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 515548889,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 18958266,
+          "page": 281
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 197038548,
+          "page": 281
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 92292685,
+          "page": 281
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 207259390,
+          "page": 281
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 281,
+      "total_page": 281,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 50471387101,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 62,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 504713871,
+      "action_sum_minus_parent_cents": -1,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 18003808,
+          "page": 281
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 193238605,
+          "page": 281
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 90730060,
+          "page": 281
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 202741398,
+          "page": 281
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 281,
+      "total_page": 281,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 51554888900,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 62,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 515548889,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 18958266,
+          "page": 281
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 197038548,
+          "page": 281
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 92292685,
+          "page": 281
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 207259390,
+          "page": 281
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 281,
+      "total_page": 281,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 50362661165,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 62,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 503626612,
+      "action_sum_minus_parent_cents": 35,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 16916549,
+          "page": 281
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 193238605,
+          "page": 281
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 90730060,
+          "page": 281
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 202741398,
+          "page": 281
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 269,
+      "total_page": 269,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 51888825100,
+        "source": "fdf68434f123c7f199cd",
+        "line": 60,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 518888251,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 18648098,
+          "page": 269
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 191611240,
+          "page": 269
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 100749353,
+          "page": 269
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 207879560,
+          "page": 269
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 269,
+      "total_page": 269,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 51262937316,
+        "source": "fdf68434f123c7f199cd",
+        "line": 60,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 512629373,
+      "action_sum_minus_parent_cents": 84,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 19228546,
+          "page": 269
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 192438324,
+          "page": 269
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 100571617,
+          "page": 269
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 200390887,
+          "page": 269
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 269,
+      "total_page": 269,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 51888825100,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 60,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 518888251,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 18648098,
+          "page": 269
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 191611240,
+          "page": 269
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 100749353,
+          "page": 269
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 207879560,
+          "page": 269
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "159",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 269,
+      "total_page": 269,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "159",
+        "program_label": "Expertise, information géographique et météorologie",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 51268459593,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 60,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 512684596,
+      "action_sum_minus_parent_cents": 7,
+      "actions": [
+        {
+          "code": "10",
+          "label": "Gouvernance, évaluation, études et prospective en matière de développement durable",
+          "euros": 19283768,
+          "page": 269
+        },
+        {
+          "code": "11",
+          "label": "Etudes et expertise en matière de développement durable",
+          "euros": 192438324,
+          "page": 269
+        },
+        {
+          "code": "12",
+          "label": "Information géographique et cartographique",
+          "euros": 100571617,
+          "page": 269
+        },
+        {
+          "code": "13",
+          "label": "Météorologie",
+          "euros": 200390887,
+          "page": 269
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 127,
+      "total_page": 127,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 24686810400,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 57,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 246868104,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 32409645,
+          "page": 127
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 38460041,
+          "page": 127
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 86423496,
+          "page": 127
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 12586933,
+          "page": 127
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 8829292,
+          "page": 127
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 50297188,
+          "page": 127
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 17861509,
+          "page": 127
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 127,
+      "total_page": 127,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 36792839320,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 57,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 367928393,
+      "action_sum_minus_parent_cents": -20,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 45024641,
+          "page": 127
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 35962358,
+          "page": 127
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 104741319,
+          "page": 127
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 9980063,
+          "page": 127
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 15041277,
+          "page": 127
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 144188429,
+          "page": 127
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 12990306,
+          "page": 127
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 127,
+      "total_page": 127,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 24087020300,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 58,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 240870203,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 30278849,
+          "page": 127
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 34658259,
+          "page": 127
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 86423496,
+          "page": 127
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 11918409,
+          "page": 127
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 9422924,
+          "page": 127
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 50306757,
+          "page": 127
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 17861509,
+          "page": 127
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 127,
+      "total_page": 128,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 35658478140,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 58,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 356584781,
+      "action_sum_minus_parent_cents": 160,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 41466212,
+          "page": 127
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 32781522,
+          "page": 127
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 105341202,
+          "page": 127
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 10081878,
+          "page": 127
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 13586388,
+          "page": 127
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 144628224,
+          "page": 127
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 8699357,
+          "page": 127
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 135,
+      "total_page": 135,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 34988300400,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 58,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 349883004,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 40814365,
+          "page": 135
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 34760041,
+          "page": 135
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 105283676,
+          "page": 135
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 38936933,
+          "page": 135
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 11019292,
+          "page": 135
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 87907188,
+          "page": 135
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 31161509,
+          "page": 135
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 135,
+      "total_page": 135,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 33876605714,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 58,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 338766057,
+      "action_sum_minus_parent_cents": 86,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 41931524,
+          "page": 135
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 34388181,
+          "page": 135
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 108319012,
+          "page": 135
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 36945209,
+          "page": 135
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 13680560,
+          "page": 135
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 84859330,
+          "page": 135
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 18642242,
+          "page": 135
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 135,
+      "total_page": 135,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 31208510300,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 58,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 312085103,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 36183569,
+          "page": 135
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 36458259,
+          "page": 135
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 105283676,
+          "page": 135
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 18268409,
+          "page": 135
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 11612924,
+          "page": 135
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 84616757,
+          "page": 135
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 19661509,
+          "page": 135
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 135,
+      "total_page": 136,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 31319180378,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 58,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 313191804,
+      "action_sum_minus_parent_cents": 22,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 40665206,
+          "page": 135
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 36190445,
+          "page": 135
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 108288991,
+          "page": 135
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 12378900,
+          "page": 135
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 13667349,
+          "page": 135
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 88886900,
+          "page": 135
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 13114013,
+          "page": 135
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 129,
+      "total_page": 129,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 25305666600,
+        "source": "fdf68434f123c7f199cd",
+        "line": 56,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 253056666,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 32879824,
+          "page": 129
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 35402424,
+          "page": 129
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 80534496,
+          "page": 129
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 13756933,
+          "page": 129
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 13119292,
+          "page": 129
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 74539188,
+          "page": 129
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 2824509,
+          "page": 129
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 129,
+      "total_page": 129,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 26439870750,
+        "source": "fdf68434f123c7f199cd",
+        "line": 56,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 264398708,
+      "action_sum_minus_parent_cents": 50,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 38208146,
+          "page": 129
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 31962607,
+          "page": 129
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 90602529,
+          "page": 129
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 13343169,
+          "page": 129
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 18750360,
+          "page": 129
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 70006680,
+          "page": 129
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 1525217,
+          "page": 129
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 129,
+      "total_page": 129,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 26860272200,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 56,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 268602722,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 32748348,
+          "page": 129
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 36900642,
+          "page": 129
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 80534496,
+          "page": 129
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 23088409,
+          "page": 129
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 13712924,
+          "page": 129
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 68148757,
+          "page": 129
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 13469146,
+          "page": 129
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "205",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 129,
+      "total_page": 130,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "205",
+        "program_label": "Affaires maritimes, pêche et aquaculture",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 28098199285,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 56,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 280981993,
+      "action_sum_minus_parent_cents": -85,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Surveillance et sûreté maritimes",
+          "euros": 40768836,
+          "page": 129
+        },
+        {
+          "code": "02",
+          "label": "Emplois et formations maritimes",
+          "euros": 33404409,
+          "page": 129
+        },
+        {
+          "code": "03",
+          "label": "Innovation et flotte de commerce",
+          "euros": 90397163,
+          "page": 129
+        },
+        {
+          "code": "04",
+          "label": "Action interministérielle de la mer",
+          "euros": 24939197,
+          "page": 129
+        },
+        {
+          "code": "05",
+          "label": "Soutien et systèmes d'information",
+          "euros": 15253695,
+          "page": 129
+        },
+        {
+          "code": "07",
+          "label": "Pêche et aquaculture",
+          "euros": 64642393,
+          "page": 129
+        },
+        {
+          "code": "08",
+          "label": "Planification et économie bleue",
+          "euros": 11576299,
+          "page": 129
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 590,
+      "total_page": 590,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 200000000000,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 63,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 2000000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 681666667,
+          "page": 590
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 611666667,
+          "page": 590
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 706666666,
+          "page": 590
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 590,
+      "total_page": 590,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 199943312300,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 63,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 1999433123,
+      "action_sum_minus_parent_cents": 100,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 1027237797,
+          "page": 590
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 276657405,
+          "page": 590
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 695537922,
+          "page": 590
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 590,
+      "total_page": 590,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 50000000000,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 64,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 500000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 170416667,
+          "page": 590
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 152916667,
+          "page": 590
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 176666666,
+          "page": 590
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 590,
+      "total_page": 590,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 30166957210,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 64,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 301669572,
+      "action_sum_minus_parent_cents": -10,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 126618744,
+          "page": 590
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 55979708,
+          "page": 590
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 119071120,
+          "page": 590
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 600,
+      "total_page": 600,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 249900000000,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 63,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 2499000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 1209000000,
+          "page": 600
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 425000000,
+          "page": 600
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 865000000,
+          "page": 600
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 600,
+      "total_page": 600,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 159061076075,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 63,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 1590610761,
+      "action_sum_minus_parent_cents": 25,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 817822267,
+          "page": 600
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 258463266,
+          "page": 600
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 514325228,
+          "page": 600
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 600,
+      "total_page": 600,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 112400000000,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 63,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 1124000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 488526749,
+          "page": 600
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 199032922,
+          "page": 600
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 436440329,
+          "page": 600
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 600,
+      "total_page": 600,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 56994652946,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 63,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 569946529,
+      "action_sum_minus_parent_cents": 54,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 273073492,
+          "page": 600
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 105909841,
+          "page": 600
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 190963197,
+          "page": 600
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 580,
+      "total_page": 580,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 115000000000,
+        "source": "fdf68434f123c7f199cd",
+        "line": 61,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 1150000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 257500000,
+          "page": 580
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 249000000,
+          "page": 580
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 643500000,
+          "page": 580
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 580,
+      "total_page": 580,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 87139355937,
+        "source": "fdf68434f123c7f199cd",
+        "line": 61,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 871393559,
+      "action_sum_minus_parent_cents": -137,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 242416455,
+          "page": 580
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 146240138,
+          "page": 580
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 482736965,
+          "page": 580
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 580,
+      "total_page": 580,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 112400000000,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 61,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 1124000000,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 562176808,
+          "page": 580
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 221237640,
+          "page": 580
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 340585552,
+          "page": 580
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "380",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 580,
+      "total_page": 580,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "380",
+        "program_label": "Fonds d'accélération de la transition écologique dans les territoires",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 80918984700,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 61,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 809189847,
+      "action_sum_minus_parent_cents": -100,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Performance environnementale",
+          "euros": 403355798,
+          "page": 580
+        },
+        {
+          "code": "02",
+          "label": "Adaptation des territoires au changement climatique",
+          "euros": 102974211,
+          "page": 580
+        },
+        {
+          "code": "03",
+          "label": "Amélioration du cadre de vie",
+          "euros": 302859837,
+          "page": 580
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 45,
+      "total_page": 45,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 414084504600,
+        "source": "6f9032fe6759bc16a73a",
+        "line": 64,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 4140845046,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 0,
+          "page": 45
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 310387544,
+          "page": 45
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 2708374508,
+          "page": 45
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 253673883,
+          "page": 45
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 94376798,
+          "page": 45
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 372700000,
+          "page": 45
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 132109111,
+          "page": 45
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 46929076,
+          "page": 45
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 158185730,
+          "page": 45
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 0,
+          "page": 45
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 64108396,
+          "page": 45
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 45
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 45,
+      "total_page": 46,
+      "parent": {
+        "year": 2023,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 437262628200,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 65,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 4372626282,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 0,
+          "page": 45
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 299587544,
+          "page": 45
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 2704924508,
+          "page": 45
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 253673883,
+          "page": 45
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 94376798,
+          "page": 46
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 606524236,
+          "page": 46
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 136109111,
+          "page": 46
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 46929076,
+          "page": 46
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 158185730,
+          "page": 46
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 0,
+          "page": 46
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 72315396,
+          "page": 46
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 46
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 45,
+      "total_page": 46,
+      "parent": {
+        "year": 2023,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 862402106300,
+        "source": "326d8f95ce70493cdbd4",
+        "line": 65,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 8624021063,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 699764853,
+          "page": 45
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 979671535,
+          "page": 45
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 4796313576,
+          "page": 45
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 251239609,
+          "page": 45
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 153736782,
+          "page": 46
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 1276569030,
+          "page": 46
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 184067368,
+          "page": 46
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 70703795,
+          "page": 46
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 129627045,
+          "page": 46
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 40801850,
+          "page": 46
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 41525620,
+          "page": 46
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 46
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 44,
+      "total_page": 44,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 434408563500,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 64,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 4344085635,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 0,
+          "page": 44
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 283066400,
+          "page": 44
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 2965235840,
+          "page": 44
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 255173879,
+          "page": 44
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 92494963,
+          "page": 44
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 336155345,
+          "page": 44
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 135905743,
+          "page": 44
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 57420592,
+          "page": 44
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 167252783,
+          "page": 44
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 0,
+          "page": 44
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 51380090,
+          "page": 44
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 44
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 44,
+      "total_page": 44,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 865028559850,
+        "source": "eb3a9ffc2f3add2ad6dc",
+        "line": 64,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 8650285599,
+      "action_sum_minus_parent_cents": 50,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 318641575,
+          "page": 44
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 1035233696,
+          "page": 44
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 5239979666,
+          "page": 44
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 260443888,
+          "page": 44
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 282563078,
+          "page": 44
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 903415863,
+          "page": 44
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 270796860,
+          "page": 44
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 125543322,
+          "page": 44
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 167510861,
+          "page": 44
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 16268773,
+          "page": 44
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 29888017,
+          "page": 44
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 44
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 44,
+      "total_page": 45,
+      "parent": {
+        "year": 2024,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 438104891300,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 64,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 4381048913,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 0,
+          "page": 44
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 293716400,
+          "page": 44
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 2966385840,
+          "page": 44
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 255173879,
+          "page": 44
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 92494963,
+          "page": 45
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 365979581,
+          "page": 45
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 135905743,
+          "page": 45
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 57420592,
+          "page": 45
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 167252783,
+          "page": 45
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 0,
+          "page": 45
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 46719132,
+          "page": 45
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 45
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "113330a8d3bb90c96604",
+      "sha256": "cd23f746dc1dbc4a98c288642686e55102561f341be34348c4822b0a5463e017",
+      "page": 44,
+      "total_page": 45,
+      "parent": {
+        "year": 2024,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 859890759568,
+        "source": "d5dc9d71f6165da67f38",
+        "line": 64,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 8598907596,
+      "action_sum_minus_parent_cents": -68,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 605879635,
+          "page": 44
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 969045647,
+          "page": 44
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 5066411898,
+          "page": 44
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 257426329,
+          "page": 44
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 162388148,
+          "page": 45
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 1007634251,
+          "page": 45
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 188816100,
+          "page": 45
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 120330586,
+          "page": 45
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 167295652,
+          "page": 45
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 23786260,
+          "page": 45
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 29893089,
+          "page": 45
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 45
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 45,
+      "total_page": 45,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 480674847700,
+        "source": "fdf68434f123c7f199cd",
+        "line": 62,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 4806748477,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 0,
+          "page": 45
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 299858660,
+          "page": 45
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 3068490744,
+          "page": 45
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 254624718,
+          "page": 45
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 82494963,
+          "page": 45
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 677027436,
+          "page": 45
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 150405743,
+          "page": 45
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 54148533,
+          "page": 45
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 167494137,
+          "page": 45
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 0,
+          "page": 45
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 52203543,
+          "page": 45
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 45
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "AE",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 45,
+      "total_page": 45,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "AE",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 840988029131,
+        "source": "fdf68434f123c7f199cd",
+        "line": 62,
+        "field": "AE_Consommees",
+        "approximate": 0
+      },
+      "published_total_euros": 8409880291,
+      "action_sum_minus_parent_cents": -31,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 440430576,
+          "page": 45
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 1091354713,
+          "page": 45
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 5047499301,
+          "page": 45
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 253521837,
+          "page": 45
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 145498606,
+          "page": 45
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 929112413,
+          "page": 45
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 250490232,
+          "page": 45
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 45784172,
+          "page": 45
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 167562939,
+          "page": 45
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": -9431376,
+          "page": 45
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 48056878,
+          "page": 45
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 45
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "LFI",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 45,
+      "total_page": 46,
+      "parent": {
+        "year": 2025,
+        "stage": "LFI",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 442624440200,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 62,
+        "field": "LFI",
+        "approximate": 0
+      },
+      "published_total_euros": 4426244402,
+      "action_sum_minus_parent_cents": 0,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 0,
+          "page": 45
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 299858660,
+          "page": 45
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 3068490744,
+          "page": 45
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 254624718,
+          "page": 45
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 82494963,
+          "page": 46
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 312191345,
+          "page": 46
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 150405743,
+          "page": 46
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 54144458,
+          "page": 46
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 167494137,
+          "page": 46
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 0,
+          "page": 46
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 36539634,
+          "page": 46
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 46
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "stage": "EXEC",
+      "measure": "CP",
+      "budget": "BG",
+      "mission": "TA",
+      "program": "203",
+      "source": "06557292eccf98885e32",
+      "sha256": "f51582832fff930d5dd1c40925a28ab253b91ec6a1c3cc8934ecfa4cdaf71b55",
+      "page": 45,
+      "total_page": 46,
+      "parent": {
+        "year": 2025,
+        "stage": "EXEC",
+        "measure": "CP",
+        "budget": "BG",
+        "mission": "TA",
+        "mission_label": "Écologie, développement et mobilité durables",
+        "program": "203",
+        "program_label": "Infrastructures et services de transports",
+        "action": "",
+        "action_label": "",
+        "subaction": "",
+        "subaction_label": "",
+        "category": "",
+        "title": "HT2",
+        "cents": 828470652441,
+        "source": "7d2fec2d19e99802dfc2",
+        "line": 62,
+        "field": "Depenses_constatees",
+        "approximate": 0
+      },
+      "published_total_euros": 8284706524,
+      "action_sum_minus_parent_cents": 59,
+      "actions": [
+        {
+          "code": "01",
+          "label": "Routes - Développement",
+          "euros": 551654070,
+          "page": 45
+        },
+        {
+          "code": "04",
+          "label": "Routes - Entretien",
+          "euros": 1063791678,
+          "page": 45
+        },
+        {
+          "code": "41",
+          "label": "Ferroviaire",
+          "euros": 5034917673,
+          "page": 45
+        },
+        {
+          "code": "42",
+          "label": "Voies navigables",
+          "euros": 251043395,
+          "page": 45
+        },
+        {
+          "code": "43",
+          "label": "Ports",
+          "euros": 163504339,
+          "page": 46
+        },
+        {
+          "code": "44",
+          "label": "Transports collectifs",
+          "euros": 732475245,
+          "page": 46
+        },
+        {
+          "code": "45",
+          "label": "Transports combinés",
+          "euros": 209953440,
+          "page": 46
+        },
+        {
+          "code": "47",
+          "label": "Fonctions support",
+          "euros": 47362863,
+          "page": 46
+        },
+        {
+          "code": "50",
+          "label": "Transport routier",
+          "euros": 167728709,
+          "page": 46
+        },
+        {
+          "code": "51",
+          "label": "Sécurité ferroviaire",
+          "euros": 10894431,
+          "page": 46
+        },
+        {
+          "code": "52",
+          "label": "Transport aérien",
+          "euros": 51380682,
+          "page": 46
+        },
+        {
+          "code": "53",
+          "label": "Dotation exceptionnelle à l'AFITF",
+          "euros": 0,
+          "page": 46
+        }
+      ]
+    }
+  ]
+}

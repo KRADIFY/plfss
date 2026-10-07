@@ -1,0 +1,1103 @@
+{
+  "checked_at": "2026-09-20",
+  "scope": "Budget général, RAP 2023–2025 ; absence de tableau ne signifie pas montant nul.",
+  "audited_programme_years": 379,
+  "sources": [
+    {
+      "id": "7b1cfdc62975e54febab",
+      "title": "Agriculture, alimentation, forêt et affaires rurales",
+      "sha256": "2a8bb4eadfef026dd5e83cfd5794673e47139de1f7783550e37fb8f5c02f3643",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826920/file/RAP2023_BG_Agriculture_alimentation_foret_affaires_rurales_AC.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "9099e2f12825d8806e5c",
+      "title": "FR 2023 PLR BG MSN AD",
+      "sha256": "b3db7786fba4269d51dcdddc0436299f82248a32473f737cbae543e012514d09",
+      "url": "",
+      "format": "pdf"
+    },
+    {
+      "id": "2311fc5a937f256c46ff",
+      "title": "Investir pour la France de 2030",
+      "sha256": "c9d765ea303c2799a6990714f1a29cf82f1be09f590bc0495fd18f11a2b38472",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826965/file/RAP2023_BG_Investir_France_2030_AV.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "68b6ec8a91ce781a3000",
+      "title": "Économie",
+      "sha256": "932aa4ff83e6842d21f9d074c403a059d92ecc80071464413c921870b10f849e",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826953/file/RAP2023_BG_Economie_DB.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "a2737b76140f095811d5",
+      "title": "Engagements financiers de l'État",
+      "sha256": "c39a6df3a684a6fb8e4cfd0640b0a3b34ad9e2b167c9f9f6d1f7a7696628a1bd",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826956/file/RAP2023_BG_Engagements_financiers_Etat_EB.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "3d7662d96c14eddeeccb",
+      "title": "Crédits non répartis",
+      "sha256": "431a3eb7cc53a8d28fdfab4f0f165223f8ef9bf839173c8b3476e3592945bbf3",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826938/file/RAP2023_BG_Credits_non_repartis_PC.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "d1caf868169e5cd23042",
+      "title": "Plan de relance",
+      "sha256": "65e7c80fda77422520b3b754dafb41cfe4c3927df88afb8400a5e1a68464c615",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826980/file/RAP2023_BG_Plan_relance_PR.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "438378fd8c8f66b18bfd",
+      "title": "Recherche et enseignement supérieur",
+      "sha256": "152a42828bc5cb720c14efc4c002bda8b28fcbad0b9e98626aeea2d5c671b351",
+      "url": "https://www2.assemblee-nationale.fr/static/16/pdf/RAP2023_BG_Recherche_enseignement_superieur_RA.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "219fbfcb2323d448fbb3",
+      "title": "Régimes sociaux et de retraite",
+      "sha256": "e4dfed12de182270c2871878d0e8ba59293654869ffe2146bf03ed154851e82a",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826986/file/RAP2023_BG_Regimes_sociaux_retraite_RB.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "5798fd78b8191c9a463d",
+      "title": "Remboursements et dégrèvements",
+      "sha256": "37e04fe6be4666b9cacfb2d6374964f18f4435a3b8c69d8ae1ee9e6c4e9432b8",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826992/file/RAP2023_BG_Remboursements_degrevements_RD.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "223035e3115d06fbf704",
+      "title": "Santé",
+      "sha256": "08f3acf076f3f65ae034ab98c8205750d8562ff4c4424afb8d35f3187e5e659d",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/826995/file/RAP2023_BG_Sante_SA.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "c793d7737895c135ad70",
+      "title": "Écologie, développement et mobilité durables",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "url": "https://www2.assemblee-nationale.fr/static/16/pdf/RAP2023_BG_Ecologie_developpement_mobilites_durables_TA.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "502bf45e700ab64feada",
+      "title": "Aide publique au développement",
+      "sha256": "89d47c1ed61784bce558ca5fa7354a984d05362e34c4675dc496e669038823a0",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/906901/file/Aide_publique_developpement.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "5e4f9c2d55d0a31e3fe6",
+      "title": "Engagements financiers de l'État",
+      "sha256": "820b72e87ab8cf1a306db6eaa23e412ad7d9b49952daaf2e5de5af15f345b305",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/906946/file/Engagements_financiers_%C3%89tat.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "df9e8a6d272387cfe858",
+      "title": "Crédits non répartis",
+      "sha256": "ef212e5b5bb73702b8d7161accf4a107b608ce06f3954c992e94952f2ba13c26",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/906934/file/Credits_non_repartis.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "09f15712511a993f710c",
+      "title": "Recherche et enseignement supérieur",
+      "sha256": "9787761fc9ab72dc876b8fab3972c36a320e0af3fabcc67eafe502f2328fcbf2",
+      "url": "https://www2.assemblee-nationale.fr/static/17/Annexes-DL/PJL-1285/Recherche_enseignement_superieur.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "b1d91ad007dba2909dc7",
+      "title": "Remboursements et dégrèvements",
+      "sha256": "96df6d281b039629b5f8fa9dba681515225f8da90ab16decf468b35ebf3bb55f",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/907003/file/Remboursements_degrevements.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "2ca4a3b3a77d286fc889",
+      "title": "Santé",
+      "sha256": "ebe8226da601ed156a2096a48e1909a464430befa8c8729f93553233726d7f6f",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/907006/file/Sante.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "18a66d93f7cacc822267",
+      "title": "Aide publique au développement",
+      "sha256": "c8bbab047e7780293040ef246520be70c1750c753b59715bd07e6c48642340df",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109801/file/Aide_publique_developpement_AD.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "2f5a29e92ece045e25a2",
+      "title": "Engagements financiers de l'État",
+      "sha256": "7bfa117564b91574c2ed6f0a6b8faeda196c9ef1cea94baf5cfd72d49427ed7b",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109846/file/Engagements_financiers_Etat_EB.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "6a8bab104d6a44619cac",
+      "title": "Crédits non répartis",
+      "sha256": "1186a1f62368b7168247bcd8ec57f846257d056add87ba466fa5626852eb3d27",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109838/file/Credits_non_repartis_PC.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "54b16abaa62ea5fed2ba",
+      "title": "RAP2025 BG Plan relance PR",
+      "sha256": "1f585fea3162fab823b409f52194ad036ee71b756fdb4dcc8f2284601bcf0e0d",
+      "url": "",
+      "format": "pdf"
+    },
+    {
+      "id": "ff75bd181bbba4a181d3",
+      "title": "Remboursements et dégrèvements",
+      "sha256": "26eb1d1969ab8d2a0cc1a38989c9b02ece0ef6fdda9993e15c545b9c1612530f",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109931/file/Remboursements_degrevements_RD.pdf",
+      "format": "pdf"
+    },
+    {
+      "id": "153250b105d90edbdab5",
+      "title": "Santé",
+      "sha256": "48eef12be866d22debbbb8676003abc213d92fa61b25599173026e86d1050e2a",
+      "url": "https://www.assemblee-nationale.fr/dyn/contenu/visualisation/1109934/file/Sante_SA.pdf",
+      "format": "pdf"
+    }
+  ],
+  "gaps": [
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "AC",
+      "program": "382",
+      "program_label": "Soutien aux associations de protection animale et aux refuges",
+      "source": "7b1cfdc62975e54febab",
+      "sha256": "2a8bb4eadfef026dd5e83cfd5794673e47139de1f7783550e37fb8f5c02f3643",
+      "page": 241,
+      "page_end": 249,
+      "context_pages": [
+        241
+      ],
+      "missing": [
+        "movements"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "AD",
+      "program": "365",
+      "program_label": "Renforcement des fonds propres de l'Agence française de développement",
+      "source": "9099e2f12825d8806e5c",
+      "sha256": "b3db7786fba4269d51dcdddc0436299f82248a32473f737cbae543e012514d09",
+      "page": 59,
+      "page_end": 66,
+      "context_pages": [
+        59
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "AD",
+      "program": "370",
+      "program_label": ": Restitution des \"biens mal acquis\"",
+      "source": "9099e2f12825d8806e5c",
+      "sha256": "b3db7786fba4269d51dcdddc0436299f82248a32473f737cbae543e012514d09",
+      "page": 159,
+      "page_end": 159,
+      "context_pages": [
+        153,
+        159
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ],
+      "movement_note": "Le RAP indique qu’aucune ouverture de crédit n’a eu lieu sur ce programme en 2023. Ce constat est conservé comme explication documentaire ; il ne crée pas une fausse opération datée à zéro."
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "AV",
+      "program": "421",
+      "program_label": "Soutien des progrès de l'enseignement et de la recherche",
+      "source": "2311fc5a937f256c46ff",
+      "sha256": "c9d765ea303c2799a6990714f1a29cf82f1be09f590bc0495fd18f11a2b38472",
+      "page": 15,
+      "page_end": 40,
+      "context_pages": [
+        15
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "AV",
+      "program": "422",
+      "program_label": "Valorisation de la recherche",
+      "source": "2311fc5a937f256c46ff",
+      "sha256": "c9d765ea303c2799a6990714f1a29cf82f1be09f590bc0495fd18f11a2b38472",
+      "page": 41,
+      "page_end": 60,
+      "context_pages": [
+        41
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "AV",
+      "program": "423",
+      "program_label": "Accélération de la modernisation des entreprises",
+      "source": "2311fc5a937f256c46ff",
+      "sha256": "c9d765ea303c2799a6990714f1a29cf82f1be09f590bc0495fd18f11a2b38472",
+      "page": 61,
+      "page_end": 80,
+      "context_pages": [
+        61
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "AV",
+      "program": "424",
+      "program_label": "Financement des investissements stratégiques",
+      "source": "2311fc5a937f256c46ff",
+      "sha256": "c9d765ea303c2799a6990714f1a29cf82f1be09f590bc0495fd18f11a2b38472",
+      "page": 81,
+      "page_end": 106,
+      "context_pages": [
+        81
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "AV",
+      "program": "425",
+      "program_label": "Financement structurel des écosystèmes d'innovation",
+      "source": "2311fc5a937f256c46ff",
+      "sha256": "c9d765ea303c2799a6990714f1a29cf82f1be09f590bc0495fd18f11a2b38472",
+      "page": 107,
+      "page_end": 124,
+      "context_pages": [
+        107
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "DB",
+      "program": "367",
+      "program_label": "Financement des opérations patrimoniales envisagées en 2023 sur le compte d'affectation spéciale \"Participations financières de l'État\"",
+      "source": "68b6ec8a91ce781a3000",
+      "sha256": "932aa4ff83e6842d21f9d074c403a059d92ecc80071464413c921870b10f849e",
+      "page": 185,
+      "page_end": 193,
+      "context_pages": [
+        185
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "114",
+      "program_label": "Appels en garantie de l'État (crédits évaluatifs)",
+      "source": "a2737b76140f095811d5",
+      "sha256": "c39a6df3a684a6fb8e4cfd0640b0a3b34ad9e2b167c9f9f6d1f7a7696628a1bd",
+      "page": 39,
+      "page_end": 66,
+      "context_pages": [
+        39
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "117",
+      "program_label": "Charge de la dette et trésorerie de l'État (crédits évaluatifs)",
+      "source": "a2737b76140f095811d5",
+      "sha256": "c39a6df3a684a6fb8e4cfd0640b0a3b34ad9e2b167c9f9f6d1f7a7696628a1bd",
+      "page": 15,
+      "page_end": 38,
+      "context_pages": [
+        15
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "338",
+      "program_label": ": Augmentation de capital de la Banque européenne d'investissement",
+      "source": "a2737b76140f095811d5",
+      "sha256": "c39a6df3a684a6fb8e4cfd0640b0a3b34ad9e2b167c9f9f6d1f7a7696628a1bd",
+      "page": 99,
+      "page_end": 106,
+      "context_pages": [
+        99
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "369",
+      "program_label": "Amortissement de la dette de l'État liée à la covid-19",
+      "source": "a2737b76140f095811d5",
+      "sha256": "c39a6df3a684a6fb8e4cfd0640b0a3b34ad9e2b167c9f9f6d1f7a7696628a1bd",
+      "page": 123,
+      "page_end": 131,
+      "context_pages": [
+        123
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "PC",
+      "program": "551",
+      "program_label": "Provision relative aux rémunérations publiques",
+      "source": "3d7662d96c14eddeeccb",
+      "sha256": "431a3eb7cc53a8d28fdfab4f0f165223f8ef9bf839173c8b3476e3592945bbf3",
+      "page": 11,
+      "page_end": 18,
+      "context_pages": [
+        11
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "PC",
+      "program": "552",
+      "program_label": "Dépenses accidentelles et imprévisibles",
+      "source": "3d7662d96c14eddeeccb",
+      "sha256": "431a3eb7cc53a8d28fdfab4f0f165223f8ef9bf839173c8b3476e3592945bbf3",
+      "page": 19,
+      "page_end": 25,
+      "context_pages": [
+        19
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "PR",
+      "program": "362",
+      "program_label": "Écologie",
+      "source": "d1caf868169e5cd23042",
+      "sha256": "65e7c80fda77422520b3b754dafb41cfe4c3927df88afb8400a5e1a68464c615",
+      "page": 17,
+      "page_end": 58,
+      "context_pages": [
+        17
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "PR",
+      "program": "363",
+      "program_label": "Compétitivité",
+      "source": "d1caf868169e5cd23042",
+      "sha256": "65e7c80fda77422520b3b754dafb41cfe4c3927df88afb8400a5e1a68464c615",
+      "page": 59,
+      "page_end": 88,
+      "context_pages": [
+        59
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "PR",
+      "program": "364",
+      "program_label": "Cohésion",
+      "source": "d1caf868169e5cd23042",
+      "sha256": "65e7c80fda77422520b3b754dafb41cfe4c3927df88afb8400a5e1a68464c615",
+      "page": 89,
+      "page_end": 112,
+      "context_pages": [
+        89
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "RA",
+      "program": "191",
+      "program_label": "Recherche duale (civile et militaire)",
+      "source": "438378fd8c8f66b18bfd",
+      "sha256": "152a42828bc5cb720c14efc4c002bda8b28fcbad0b9e98626aeea2d5c671b351",
+      "page": 531,
+      "page_end": 548,
+      "context_pages": [
+        531
+      ],
+      "missing": [
+        "movements"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "RB",
+      "program": "197",
+      "program_label": "Régimes de retraite et de sécurité sociale des marins",
+      "source": "219fbfcb2323d448fbb3",
+      "sha256": "e4dfed12de182270c2871878d0e8ba59293654869ffe2146bf03ed154851e82a",
+      "page": 33,
+      "page_end": 50,
+      "context_pages": [
+        33
+      ],
+      "missing": [
+        "movements"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "RD",
+      "program": "200",
+      "program_label": "Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs)",
+      "source": "5798fd78b8191c9a463d",
+      "sha256": "37e04fe6be4666b9cacfb2d6374964f18f4435a3b8c69d8ae1ee9e6c4e9432b8",
+      "page": 13,
+      "page_end": 40,
+      "context_pages": [
+        13
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "RD",
+      "program": "201",
+      "program_label": "Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs)",
+      "source": "5798fd78b8191c9a463d",
+      "sha256": "37e04fe6be4666b9cacfb2d6374964f18f4435a3b8c69d8ae1ee9e6c4e9432b8",
+      "page": 41,
+      "page_end": 54,
+      "context_pages": [
+        41
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "SA",
+      "program": "379",
+      "program_label": "Compensation à la Sécurité sociale du coût des dons de vaccins à des pays tiers et reversement des recettes de la Facilité pour la Relance et la Résilience (FRR) européenne au titre du volet « Ségur investissement » du plan national de relance et de résilience (PNRR)",
+      "source": "223035e3115d06fbf704",
+      "sha256": "08f3acf076f3f65ae034ab98c8205750d8562ff4c4424afb8d35f3187e5e659d",
+      "page": 93,
+      "page_end": 104,
+      "context_pages": [
+        93
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2023,
+      "budget": "BG",
+      "mission": "TA",
+      "program": "355",
+      "program_label": "Charge de la dette de SNCF Réseau reprise par l'État (crédits évaluatifs)",
+      "source": "c793d7737895c135ad70",
+      "sha256": "cd259bd6ab925e434f1848db6267770b84b715bd78ce2ba1c71d3d41c4e12116",
+      "page": 575,
+      "page_end": 584,
+      "context_pages": [
+        575
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "AD",
+      "program": "365",
+      "program_label": "Renforcement des fonds propres de l'Agence française de développement",
+      "source": "502bf45e700ab64feada",
+      "sha256": "89d47c1ed61784bce558ca5fa7354a984d05362e34c4675dc496e669038823a0",
+      "page": 63,
+      "page_end": 70,
+      "context_pages": [
+        63
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "AD",
+      "program": "370",
+      "program_label": "Restitution des \"biens mal acquis\"",
+      "source": "502bf45e700ab64feada",
+      "sha256": "89d47c1ed61784bce558ca5fa7354a984d05362e34c4675dc496e669038823a0",
+      "page": 168,
+      "page_end": 169,
+      "context_pages": [
+        161,
+        168
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ],
+      "movement_note": "Le RAP décrit les crédits ouverts en LFI 2024 puis intégralement reportés par arrêté du 13 mars 2025. Ce report relève de 2025 ; il n’est pas transformé en mouvement daté de 2024."
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "114",
+      "program_label": "Appels en garantie de l'État (crédits évaluatifs)",
+      "source": "5e4f9c2d55d0a31e3fe6",
+      "sha256": "820b72e87ab8cf1a306db6eaa23e412ad7d9b49952daaf2e5de5af15f345b305",
+      "page": 41,
+      "page_end": 66,
+      "context_pages": [
+        41
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "336",
+      "program_label": ": Dotation du Mécanisme européen de stabilité",
+      "source": "5e4f9c2d55d0a31e3fe6",
+      "sha256": "820b72e87ab8cf1a306db6eaa23e412ad7d9b49952daaf2e5de5af15f345b305",
+      "page": 99,
+      "page_end": 108,
+      "context_pages": [
+        99
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "338",
+      "program_label": ": Augmentation de capital de la Banque européenne d'investissement",
+      "source": "5e4f9c2d55d0a31e3fe6",
+      "sha256": "820b72e87ab8cf1a306db6eaa23e412ad7d9b49952daaf2e5de5af15f345b305",
+      "page": 109,
+      "page_end": 116,
+      "context_pages": [
+        109
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "355",
+      "program_label": "Charge de la dette de SNCF Réseau reprise par l'État (crédits évaluatifs)",
+      "source": "5e4f9c2d55d0a31e3fe6",
+      "sha256": "820b72e87ab8cf1a306db6eaa23e412ad7d9b49952daaf2e5de5af15f345b305",
+      "page": 89,
+      "page_end": 98,
+      "context_pages": [
+        89
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "369",
+      "program_label": "Amortissement de la dette de l'État liée à la covid-19",
+      "source": "5e4f9c2d55d0a31e3fe6",
+      "sha256": "820b72e87ab8cf1a306db6eaa23e412ad7d9b49952daaf2e5de5af15f345b305",
+      "page": 133,
+      "page_end": 141,
+      "context_pages": [
+        133
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "PC",
+      "program": "551",
+      "program_label": "Provision relative aux rémunérations publiques",
+      "source": "df9e8a6d272387cfe858",
+      "sha256": "ef212e5b5bb73702b8d7161accf4a107b608ce06f3954c992e94952f2ba13c26",
+      "page": 11,
+      "page_end": 18,
+      "context_pages": [
+        11
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "RA",
+      "program": "191",
+      "program_label": "Recherche duale (civile et militaire)",
+      "source": "09f15712511a993f710c",
+      "sha256": "9787761fc9ab72dc876b8fab3972c36a320e0af3fabcc67eafe502f2328fcbf2",
+      "page": 543,
+      "page_end": 560,
+      "context_pages": [
+        543
+      ],
+      "missing": [
+        "movements"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "RD",
+      "program": "200",
+      "program_label": "Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs)",
+      "source": "b1d91ad007dba2909dc7",
+      "sha256": "96df6d281b039629b5f8fa9dba681515225f8da90ab16decf468b35ebf3bb55f",
+      "page": 13,
+      "page_end": 40,
+      "context_pages": [
+        13
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "RD",
+      "program": "201",
+      "program_label": "Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs)",
+      "source": "b1d91ad007dba2909dc7",
+      "sha256": "96df6d281b039629b5f8fa9dba681515225f8da90ab16decf468b35ebf3bb55f",
+      "page": 41,
+      "page_end": 55,
+      "context_pages": [
+        41
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2024,
+      "budget": "BG",
+      "mission": "SA",
+      "program": "379",
+      "program_label": "Compensation à la Sécurité sociale du coût des dons de vaccins à des pays tiers et reversement des recettes de la Facilité pour la relance et la résilience (FRR) européenne au titre du volet «Ségur investissement» du plan national de relance et de résili",
+      "source": "2ca4a3b3a77d286fc889",
+      "sha256": "ebe8226da601ed156a2096a48e1909a464430befa8c8729f93553233726d7f6f",
+      "page": 91,
+      "page_end": 102,
+      "context_pages": [
+        91
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "AD",
+      "program": "365",
+      "program_label": "Renforcement des fonds propres de l'Agence française de développement",
+      "source": "18a66d93f7cacc822267",
+      "sha256": "c8bbab047e7780293040ef246520be70c1750c753b59715bd07e6c48642340df",
+      "page": 63,
+      "page_end": 70,
+      "context_pages": [
+        63
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "AD",
+      "program": "370",
+      "program_label": "Restitution des « biens mal acquis »",
+      "source": "18a66d93f7cacc822267",
+      "sha256": "c8bbab047e7780293040ef246520be70c1750c753b59715bd07e6c48642340df",
+      "page": 135,
+      "page_end": 144,
+      "context_pages": [
+        135
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "AD",
+      "program": "384",
+      "program_label": "Fonds de solidarité pour le développement",
+      "source": "18a66d93f7cacc822267",
+      "sha256": "c8bbab047e7780293040ef246520be70c1750c753b59715bd07e6c48642340df",
+      "page": 146,
+      "page_end": 155,
+      "context_pages": [
+        145,
+        146
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ],
+      "reserve_status": "not_applicable",
+      "reserve_note": "Le RAP indique explicitement que le P384 n’est soumis à aucune mesure de mise en réserve ni à aucune régulation budgétaire. Cette exemption ne signifie pas absence de reports ou de tout autre mouvement.",
+      "movement_note": "Le RAP indique une exemption de régulation budgétaire et des reports automatiques. Il ne fournit pas ici une récapitulation datée des mouvements à intégrer."
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "114",
+      "program_label": "Appels en garantie de l'État (crédits évaluatifs)",
+      "source": "2f5a29e92ece045e25a2",
+      "sha256": "7bfa117564b91574c2ed6f0a6b8faeda196c9ef1cea94baf5cfd72d49427ed7b",
+      "page": 41,
+      "page_end": 66,
+      "context_pages": [
+        41
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "117",
+      "program_label": "Charge de la dette et trésorerie de l'État (crédits évaluatifs)",
+      "source": "2f5a29e92ece045e25a2",
+      "sha256": "7bfa117564b91574c2ed6f0a6b8faeda196c9ef1cea94baf5cfd72d49427ed7b",
+      "page": 17,
+      "page_end": 40,
+      "context_pages": [
+        17
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "336",
+      "program_label": ": Dotation du Mécanisme européen de stabilité",
+      "source": "2f5a29e92ece045e25a2",
+      "sha256": "7bfa117564b91574c2ed6f0a6b8faeda196c9ef1cea94baf5cfd72d49427ed7b",
+      "page": 99,
+      "page_end": 108,
+      "context_pages": [
+        99
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "338",
+      "program_label": ": Augmentation de capital de la Banque européenne d'investissement",
+      "source": "2f5a29e92ece045e25a2",
+      "sha256": "7bfa117564b91574c2ed6f0a6b8faeda196c9ef1cea94baf5cfd72d49427ed7b",
+      "page": 109,
+      "page_end": 116,
+      "context_pages": [
+        109
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "355",
+      "program_label": "Charge de la dette de SNCF Réseau reprise par l'État (crédits évaluatifs)",
+      "source": "2f5a29e92ece045e25a2",
+      "sha256": "7bfa117564b91574c2ed6f0a6b8faeda196c9ef1cea94baf5cfd72d49427ed7b",
+      "page": 89,
+      "page_end": 98,
+      "context_pages": [
+        89
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "EB",
+      "program": "369",
+      "program_label": "Amortissement de la dette de l'État liée à la covid-19",
+      "source": "2f5a29e92ece045e25a2",
+      "sha256": "7bfa117564b91574c2ed6f0a6b8faeda196c9ef1cea94baf5cfd72d49427ed7b",
+      "page": 133,
+      "page_end": 140,
+      "context_pages": [
+        133
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "PC",
+      "program": "551",
+      "program_label": "Provision relative aux rémunérations publiques",
+      "source": "6a8bab104d6a44619cac",
+      "sha256": "1186a1f62368b7168247bcd8ec57f846257d056add87ba466fa5626852eb3d27",
+      "page": 11,
+      "page_end": 18,
+      "context_pages": [
+        11
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "PC",
+      "program": "552",
+      "program_label": "Dépenses accidentelles et imprévisibles",
+      "source": "6a8bab104d6a44619cac",
+      "sha256": "1186a1f62368b7168247bcd8ec57f846257d056add87ba466fa5626852eb3d27",
+      "page": 19,
+      "page_end": 25,
+      "context_pages": [
+        19
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "PR",
+      "program": "362",
+      "program_label": "Écologie",
+      "source": "54b16abaa62ea5fed2ba",
+      "sha256": "1f585fea3162fab823b409f52194ad036ee71b756fdb4dcc8f2284601bcf0e0d",
+      "page": 15,
+      "page_end": 58,
+      "context_pages": [
+        15
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "PR",
+      "program": "363",
+      "program_label": "Compétitivité",
+      "source": "54b16abaa62ea5fed2ba",
+      "sha256": "1f585fea3162fab823b409f52194ad036ee71b756fdb4dcc8f2284601bcf0e0d",
+      "page": 59,
+      "page_end": 90,
+      "context_pages": [
+        59
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "RD",
+      "program": "200",
+      "program_label": "Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs)",
+      "source": "ff75bd181bbba4a181d3",
+      "sha256": "26eb1d1969ab8d2a0cc1a38989c9b02ece0ef6fdda9993e15c545b9c1612530f",
+      "page": 13,
+      "page_end": 42,
+      "context_pages": [
+        13
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "RD",
+      "program": "201",
+      "program_label": "Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs)",
+      "source": "ff75bd181bbba4a181d3",
+      "sha256": "26eb1d1969ab8d2a0cc1a38989c9b02ece0ef6fdda9993e15c545b9c1612530f",
+      "page": 43,
+      "page_end": 60,
+      "context_pages": [
+        43
+      ],
+      "missing": [
+        "reserves"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "SA",
+      "program": "183",
+      "program_label": "Protection maladie",
+      "source": "153250b105d90edbdab5",
+      "sha256": "48eef12be866d22debbbb8676003abc213d92fa61b25599173026e86d1050e2a",
+      "page": 67,
+      "page_end": 86,
+      "context_pages": [
+        67
+      ],
+      "missing": [
+        "movements"
+      ]
+    },
+    {
+      "year": 2025,
+      "budget": "BG",
+      "mission": "SA",
+      "program": "379",
+      "program_label": "Reversement à la sécurité sociale des recettes de la Facilité pour la Relance et la Résilience (FRR) européenne au titre du volet « Ségur investissement » du plan national de relance et de résilience (PNRR)",
+      "source": "153250b105d90edbdab5",
+      "sha256": "48eef12be866d22debbbb8676003abc213d92fa61b25599173026e86d1050e2a",
+      "page": 87,
+      "page_end": 96,
+      "context_pages": [
+        87
+      ],
+      "missing": [
+        "reserves",
+        "movements"
+      ]
+    }
+  ]
+}

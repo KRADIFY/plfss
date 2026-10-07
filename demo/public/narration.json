@@ -1,0 +1,383 @@
+{
+  "source_files": [
+    {
+      "file": "Analyser les comptes de la.wav",
+      "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+      "duration": 262.0
+    },
+    {
+      "file": "Plfss (1).wav",
+      "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
+      "duration": 128.0
+    }
+  ],
+  "source_duration": 390.0,
+  "steps": {
+    "question": {
+      "src": "assets/narration/question.mp3",
+      "duration": 18.3,
+      "source_start": 0,
+      "source_end": 18.3,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 0,
+          "end": 18.3
+        }
+      ],
+      "sha256": "6dc997977a59c75126c6fac20d0e4a8ffb78d09df9cbc63ee003b4458f0b88e1",
+      "text": "Pour préparer une note ou une intervention, partons d’une question : quelles dépenses sont proposées pour la Sécurité sociale en 2027 ? Nous allons retrouver les branches, comparer les étapes et conserver une source. Cette visite utilise une copie datée de PLFSS."
+    },
+    "periode": {
+      "src": "assets/narration/periode.mp3",
+      "duration": 17.1,
+      "source_start": 18.3,
+      "source_end": 35.4,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 18.3,
+          "end": 35.4
+        }
+      ],
+      "sha256": "31dcf8fa346d244f28762832a4a0ec04e8c69e89755e875bd6d460650fd9f1ab",
+      "text": "Le parcours sélectionne 2026 et 2027. L’année du montant et le millésime du document peuvent être différents : une publication 2027 peut aussi présenter des résultats antérieurs. Gardez l’exercice concerné avec chaque chiffre que vous citez."
+    },
+    "perimetre": {
+      "src": "assets/narration/perimetre.mp3",
+      "duration": 15.65,
+      "source_start": 35.4,
+      "source_end": 51.05,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 35.4,
+          "end": 51.05
+        }
+      ],
+      "sha256": "c5cc70d200e3a4a5f44b4f39c95ec09b76cd2d02ac0c7c4385c803e1b83f9730",
+      "text": "Nous regardons tous les régimes obligatoires de base. Le régime général et les périmètres incluant le Fonds de solidarité vieillesse sont proposés séparément. Ils ne décrivent pas la même enveloppe. Conservez ce choix lorsque vous comparez les montants."
+    },
+    "branche": {
+      "src": "assets/narration/branche.mp3",
+      "duration": 15.03,
+      "source_start": 51.05,
+      "source_end": 66.08,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 51.05,
+          "end": 66.08
+        }
+      ],
+      "sha256": "5b957c72524d9d8f2571e91b9c08541627cf0cd2e543dd4fd7a14aa0f739c4c5",
+      "text": "Les comptes sont organisés par branches : Maladie, accidents du travail, Vieillesse, Famille et Autonomie. Nous isolons ici la branche Maladie. Le PLFSS ne reprend pas la hiérarchie missions, programmes et actions du budget de l’État."
+    },
+    "etapes": {
+      "src": "assets/narration/etapes.mp3",
+      "duration": 18.95,
+      "source_start": 66.08,
+      "source_end": 85.03,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 66.08,
+          "end": 85.03
+        }
+      ],
+      "sha256": "4ec0a698e0c682247b60194638401cd63e4d778009beeeef9271b61fef4f8de1",
+      "text": "La colonne PLFSS présente une proposition. La LFSS correspond à la loi votée. Les comptes constatés décrivent les résultats publiés. Une case encore non renseignée en 2027 ne signifie pas zéro. Comparez la même étape et le même périmètre avant de parler d’évolution."
+    },
+    "recettes": {
+      "src": "assets/narration/recettes.mp3",
+      "duration": 14.14,
+      "source_start": 85.03,
+      "source_end": 99.17,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 85.03,
+          "end": 99.17
+        }
+      ],
+      "sha256": "4c5359b15110182631a5904923d44f1feffd982312b0489dd7dc4d28c76fa606",
+      "text": "Le parcours affiche les recettes de la branche Maladie. Les recettes et les dépenses répondent à des questions différentes. Une augmentation des dépenses ne suffit pas à expliquer le solde : il faut également examiner les ressources et leurs évolutions."
+    },
+    "solde": {
+      "src": "assets/narration/solde.mp3",
+      "duration": 15.65,
+      "source_start": 99.17,
+      "source_end": 114.82,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 99.17,
+          "end": 114.82
+        }
+      ],
+      "sha256": "4577cc503fbdeb0e70cc663a52e1f5e2584a9a892c7ea3406208a4c65f6eb2e6",
+      "text": "Nous affichons maintenant le solde publié. Son signe indique un excédent ou un déficit selon la source. Ces comptes sont des prévisions de recettes et des objectifs de dépenses, puis des résultats. Ce ne sont pas des crédits de paiement ou des autorisations d’engagement."
+    },
+    "origine": {
+      "src": "assets/narration/origine.mp3",
+      "duration": 13.86,
+      "source_start": 114.82,
+      "source_end": 128.68,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 114.82,
+          "end": 128.68
+        }
+      ],
+      "sha256": "c05ca88ed9d115124b01ea37f7c2ed5c0a6559ba5ffc2cd23d13b5ab219ed24d",
+      "text": "Revenons aux dépenses proposées pour la branche Maladie en 2027. Sur le site, chaque montant peut ouvrir sa preuve. Vérifiez l’exercice, l’étape, la branche et le périmètre avant de reprendre le chiffre dans votre note."
+    },
+    "preuve": {
+      "src": "assets/narration/preuve.mp3",
+      "duration": 15.81,
+      "source_start": 128.68,
+      "source_end": 144.49,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 128.68,
+          "end": 144.49
+        }
+      ],
+      "sha256": "47f03cc01af9867e5c20b42f986086dc722342b823be5cdc3c2fd50a3d023620",
+      "text": "La preuve de l’exemple est ouverte. Elle donne le montant, le document source et la position du chiffre dans le tableau. Conservez aussi les unités, la ligne et la colonne. Une éventuelle notice de divergence doit accompagner l’interprétation du montant."
+    },
+    "precision": {
+      "src": "assets/narration/precision.mp3",
+      "duration": 18.46,
+      "source_start": 144.49,
+      "source_end": 162.95,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 144.49,
+          "end": 162.95
+        }
+      ],
+      "sha256": "d94e1e3cc06b0ed077f114e1858b01fe54883d94d6fbf4ad4ab221c547c32c6b",
+      "text": "Le parcours passe des milliards aux euros. Les montants restent ceux de la source ; seule leur présentation change. L’affichage en milliards peut être arrondi. Pour une citation précise, utilisez la preuve et gardez la précision réellement publiée, sans inventer de décimales supplémentaires."
+    },
+    "absence": {
+      "src": "assets/narration/absence.mp3",
+      "duration": 18.18,
+      "source_start": 162.95,
+      "source_end": 181.13,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 162.95,
+          "end": 181.13
+        }
+      ],
+      "sha256": "f553217945d62cb7a7caea1c575ab0583a1d1b6850d2edd79f426a1c37f3c42c",
+      "text": "Un zéro établi par la source reste un zéro. Une valeur absente garde son explication. Les publications futures, les changements de périmètre et les détails non qualifiés sont distingués. La présence d’un document dans la recherche ne signifie pas que tous ses tableaux ont été intégrés."
+    },
+    "documents": {
+      "src": "assets/narration/documents.mp3",
+      "duration": 18.3,
+      "source_start": 181.13,
+      "source_end": 199.43,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 181.13,
+          "end": 199.43
+        }
+      ],
+      "sha256": "3452e002f46bd4c33e758099e0eb6075442cf15a5134cc1c7af2b17624031a9b",
+      "text": "La bibliothèque permet de retrouver les textes et leurs annexes. Dans cette copie, nous présentons quelques documents 2027. Sur le vrai site, vous pouvez rechercher dans le contenu et filtrer les sources. Vérifiez toujours le passage dans son contexte avant de le citer."
+    },
+    "export": {
+      "src": "assets/narration/export.mp3",
+      "duration": 19.79,
+      "source_start": 199.43,
+      "source_end": 219.22,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 199.43,
+          "end": 219.22
+        }
+      ],
+      "sha256": "d762a933e878566281197caf6f6fc39736af714f9dab1a6f0e07d614491b8c58",
+      "text": "Sur PLFSS, l’export Excel ou CSV conserve le périmètre affiché et les références utiles. Pour votre note, gardez l’année, la branche ou le sous-objectif, l’indicateur, l’étape, l’unité et la source. La démo propose seulement un petit CSV de son exemple daté."
+    },
+    "fin": {
+      "src": "assets/narration/fin.mp3",
+      "duration": 17.1,
+      "source_start": 219.22,
+      "source_end": 236.32,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 219.22,
+          "end": 236.32
+        }
+      ],
+      "sha256": "2f63b5eeeb8cdd545dbf26e9cf618d62d2efba5d3c7879423d79ca2bbc5f70dd",
+      "text": "Vous pouvez maintenant retrouver un montant, comparer les bonnes colonnes et conserver une preuve. Le bouton Stop démo ouvre le véritable site PLFSS. Vous pourrez explorer votre propre sujet avec les données publiées, puis revenir à cette visite pour choisir un autre parcours."
+    },
+    "ondam-question": {
+      "src": "assets/narration/ondam-question.mp3",
+      "duration": 17.455011,
+      "source_start": 236.32,
+      "source_end": 253.775,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 236.32,
+          "end": 253.775
+        }
+      ],
+      "sha256": "e2349e3c40b13eac85c3c21e50fa2961b46d3d833b4d3cae7264fcaef1fe713e",
+      "text": "Quel objectif de dépenses de santé est proposé pour 2027, et comment se répartit-il ? Nous allons examiner l’ONDAM et ses sous-objectifs. Cette lecture complète les comptes des branches ; elle ne doit pas être additionnée à la branche Maladie."
+    },
+    "ondam-definition": {
+      "src": "assets/narration/ondam-definition.mp3",
+      "duration": 20.655011,
+      "source_start": 253.775,
+      "source_end": 274.43,
+      "source_ranges": [
+        {
+          "file": "Analyser les comptes de la.wav",
+          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
+          "start": 253.775,
+          "end": 262.0
+        },
+        {
+          "file": "Plfss (1).wav",
+          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
+          "start": 0,
+          "end": 12.430000000000007
+        }
+      ],
+      "sha256": "7fbca34021ad3ac99f5be5cd80af63184c0b0353da831289baabce324da610d2",
+      "text": "L’objectif national de dépenses d’assurance maladie est présenté dans sa propre rubrique. Son périmètre diffère des comptes de la branche Maladie. Les mêmes précautions s’appliquent : exercice, étape, périmètre, unité et source doivent rester identifiés."
+    },
+    "ondam-periode": {
+      "src": "assets/narration/ondam-periode.mp3",
+      "duration": 20.99,
+      "source_start": 274.43,
+      "source_end": 295.42,
+      "source_ranges": [
+        {
+          "file": "Plfss (1).wav",
+          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
+          "start": 12.430000000000007,
+          "end": 33.420000000000016
+        }
+      ],
+      "sha256": "f475a62717c27da041538a5ac3cd2c06fd385a5ffa1b381f42d4e2195eea8a12",
+      "text": "Le parcours retient 2026 et 2027. Pour préparer un débat, distinguez la proposition initiale, la loi votée et les dépenses constatées. Un objectif proposé ne constitue pas encore un résultat annuel. Les projections et les rectifications se consultent séparément sur PLFSS."
+    },
+    "ondam-postes": {
+      "src": "assets/narration/ondam-postes.mp3",
+      "duration": 16.86,
+      "source_start": 295.42,
+      "source_end": 312.28,
+      "source_ranges": [
+        {
+          "file": "Plfss (1).wav",
+          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
+          "start": 33.420000000000016,
+          "end": 50.27999999999997
+        }
+      ],
+      "sha256": "79b9d28c793ffc1d061814d744fb97895e1d7b4dbf439d3b9120d7d5ed81dda1",
+      "text": "Le tableau distingue notamment les soins de ville, les établissements de santé et les établissements et services médico-sociaux. Ces lignes permettent de préciser la question. Le détail effectivement publié peut varier selon les exercices et les sources."
+    },
+    "ondam-ville": {
+      "src": "assets/narration/ondam-ville.mp3",
+      "duration": 16.22,
+      "source_start": 312.28,
+      "source_end": 328.5,
+      "source_ranges": [
+        {
+          "file": "Plfss (1).wav",
+          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
+          "start": 50.27999999999997,
+          "end": 66.5
+        }
+      ],
+      "sha256": "69a5732e57e5b360b7262e8ffbba4e787aeda68df79b04ffb83ce700916e5d28",
+      "text": "Nous isolons les soins de ville dans l’exemple. Vous voyez les colonnes correspondant aux étapes de chaque année. Le site aide à retrouver les montants et les pièces ; leurs évolutions doivent être expliquées à partir des documents, pas seulement d’une différence entre deux cases."
+    },
+    "ondam-origine": {
+      "src": "assets/narration/ondam-origine.mp3",
+      "duration": 17.3,
+      "source_start": 328.5,
+      "source_end": 345.8,
+      "source_ranges": [
+        {
+          "file": "Plfss (1).wav",
+          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
+          "start": 66.5,
+          "end": 83.80000000000001
+        }
+      ],
+      "sha256": "3005fe7abce8d9617789a75017d110ff280ba2766f8b6494ab24b4010db01102",
+      "text": "Le parcours retient la proposition 2027 pour les soins de ville. Avant une citation ou une question parlementaire, ouvrez le tableau source et vérifiez le libellé exact du sous-objectif. Ne confondez pas le total ONDAM et une seule de ses composantes."
+    },
+    "ondam-preuve": {
+      "src": "assets/narration/ondam-preuve.mp3",
+      "duration": 18.38,
+      "source_start": 345.8,
+      "source_end": 364.18,
+      "source_ranges": [
+        {
+          "file": "Plfss (1).wav",
+          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
+          "start": 83.80000000000001,
+          "end": 102.18
+        }
+      ],
+      "sha256": "26964f5f5c68108b0416fcef0171a33c0a5482002c24192500ad4ef33d919bbd",
+      "text": "Voici la preuve conservée pour ce sous-objectif. Elle indique le montant publié, l’unité et les repères de tableau. Conservez cette référence avec le chiffre dans une note ou une question. Si plusieurs publications diffèrent, consultez leur explication avant de conclure."
+    },
+    "ondam-limites": {
+      "src": "assets/narration/ondam-limites.mp3",
+      "duration": 25.82,
+      "source_start": 364.18,
+      "source_end": 390.0,
+      "source_ranges": [
+        {
+          "file": "Plfss (1).wav",
+          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
+          "start": 102.18,
+          "end": 128.0
+        }
+      ],
+      "sha256": "c8fb85ebc8f0ab08be9d048a8dcea083bc80467c48df8f2ad3b745cd4ff45d96",
+      "text": "Le bilan distingue les documents récupérés, les montants qualifiés et les détails restant à traiter. Les zéros, les absences et les écarts entre publications ne sont pas interchangeables. Une recherche sans résultat ne démontre pas, à elle seule, que l’information n’existe pas."
+    }
+  },
+  "missing": [],
+  "join": {
+    "at_seconds": 262.0,
+    "fade_out": 0.8,
+    "fade_in": 0.8,
+    "fades_outside_spoken_words": true
+  },
+  "integrated_at": "2026-10-06T12:10:53.056258+00:00"
+}

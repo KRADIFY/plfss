@@ -1,6 +1,6 @@
 services:
   web:
-    image: nos-deniers-plfss:20261004-public
+    image: nos-deniers-plfss:20261004-phrase-entete
     environment:
       PLFSS_RETRIEVAL_URL: http://retrieval:8090
     depends_on:
