@@ -1,0 +1,8 @@
+{
+  "archive": "/opt/plfss/git-backup-20261008/snapshot.tar.gz",
+  "sha256": "e3d4faab5867c58599347926170b194ca7b495fb197b698d4a297bde3c811dfb",
+  "bytes": 29395751,
+  "files": 215,
+  "database_sha256": "8c37953ef9c4bb222c132b8134bf652aebe86670818a4202f7c9dfc67083da24",
+  "production_modified": false
+}

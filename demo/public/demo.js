@@ -91,23 +91,15 @@
     $('automatic-panel').hidden=!state.panel;
     if(state.panel){$('automatic-title').textContent=state.panel==='proof'?'La preuve du montant':'Préparer un export';$('automatic-content').innerHTML=state.panel==='proof'?proofHtml(currentProof()):exportHtml();}
   }
+  const captionLayout = placeTourPopover.createController();
   function fitPopover() {
     const popover=document.querySelector('.driver-popover');
-    if (!popover||!lastTarget?.isConnected) return;
-    const playerTop=$('demo-player').getBoundingClientRect().top;
-    const height=window.visualViewport?.height||window.innerHeight,width=document.documentElement.clientWidth;
-    const anchor=lastTarget.getBoundingClientRect(),description=popover.querySelector('.driver-popover-description');
-    const minimumTop=width<=650&&!$('exit-demo').hidden?$('exit-demo').getBoundingClientRect().bottom+14:14;
-    const available=Math.max(1,Math.min(playerTop,height)-minimumTop-14);
-    popover.style.removeProperty('--tour-description-max-height');
-    const fitted=placeTourPopover.fitWidth({viewportWidth:width,maxHeight:available,measure:w=>{popover.style.setProperty('--tour-caption-width',w+'px');return popover.getBoundingClientRect().height;}});
-    if(description){if(fitted.height>available){popover.style.setProperty('--tour-description-max-height',Math.max(1,description.getBoundingClientRect().height-(fitted.height-available))+'px');description.tabIndex=0;}else description.removeAttribute('tabindex');}
-    const left=Math.max(14,Math.min(anchor.left,width-fitted.width-14));
-    const pos=placeTourPopover({anchorTop:anchor.top,anchorBottom:anchor.bottom,height:popover.getBoundingClientRect().height,playerTop,viewportHeight:height,side:state.panel?'left':'bottom'});
-    popover.style.setProperty('--tour-caption-left',left+'px');popover.style.setProperty('--tour-caption-top',Math.max(minimumTop,pos.top)+'px');
+    if(!popover || !lastTarget?.isConnected) return;
+    captionLayout.fit({target:lastTarget,popover,player:$('demo-player'),exit:$('exit-demo'),refresh:()=>driver.refresh()});
   }
   function scheduleFit(){if(frame!=null)return;frame=requestAnimationFrame(()=>{frame=null;fitPopover();});}
   function showStep(step,index,total){
+    captionLayout.reset();
     if($('proof').open)$('proof').close();
     $('welcome').hidden=true;
     state={...baseline,...step.state};
@@ -158,7 +150,7 @@
     const journey=config.journeys.find(j=>j.id===id);if(!journey)return;
     visible(true);activeJourney=journey;player.setSteps(journey.steps.map(id=>config.steps.find(s=>s.id===id)));player.seek(index,true);
   }
-  function stopForInteraction(){player.pause();driver.destroy();state.panel=null;}
+  function stopForInteraction(){player.pause();captionLayout.reset(); driver.destroy();state.panel=null;}
   function dialog(title,content){stopForInteraction();$('automatic-panel').hidden=true;$('proof-title').textContent=title;$('proof-content').innerHTML=content;$('proof').showModal();}
   function csvDownload(){
     const quote=v=>'"'+String(v??'').replace(/^[=+@]/,"'$&").replace(/"/g,'""')+'"';
@@ -183,7 +175,7 @@
     $('snapshot-date').textContent='Exemple capturé le '+new Date(snapshot.captured_at).toLocaleDateString('fr-FR')+'. Les données actualisées se consultent sur PLFSS.';
     driver=window.driver.js.driver({animate:!matchMedia('(prefers-reduced-motion:reduce)').matches,smoothScroll:false,allowClose:false,allowKeyboardControl:false,disableActiveInteraction:true,overlayColor:'#08183f',overlayOpacity:.28,popoverClass:'demo-popover',stagePadding:7,stageRadius:8,showButtons:[],overlayClickBehavior:'none',onPopoverRender:p=>{observed.disconnect();observed.observe(p.wrapper);observed.observe($('demo-player'));scheduleFit();}});
     activeJourney=config.journeys[0];
-    player=new DemoPlayer({steps:activeJourney.steps.map(id=>config.steps.find(s=>s.id===id)),voice:voiceAdapter,onStep:showStep,onState:updateControls,onVoiceError:()=>{$('player-status').textContent+=' · lecture du texte';},onExit:reason=>{driver.destroy();observed.disconnect();state={...baseline};if($('proof').open)$('proof').close();render();$('welcome').hidden=!demoEnabled;document.documentElement.dataset.currentStep=reason;}});
+    player=new DemoPlayer({steps:activeJourney.steps.map(id=>config.steps.find(s=>s.id===id)),voice:voiceAdapter,onStep:showStep,onState:updateControls,onVoiceError:()=>{$('player-status').textContent+=' · lecture du texte';},onExit:reason=>{captionLayout.reset(); driver.destroy();observed.disconnect();state={...baseline};if($('proof').open)$('proof').close();render();$('welcome').hidden=!demoEnabled;document.documentElement.dataset.currentStep=reason;}});
     const icons=['<path d="m12 3 2.6 6.4L21 12l-6.4 2.6L12 21l-2.6-6.4L3 12l6.4-2.6Z"/>','<circle cx="10" cy="10" r="6"/><path d="m15 15 6 6m-14-11 2 2 4-4"/>','<path d="M12 3v18M3 12h18"/><path d="M7 5h10v14H7Z"/>'];
     $('journeys').innerHTML=config.journeys.map((j,i)=>`<button class="demo-journey" data-journey="${esc(j.id)}"><span class="journey-top"><span class="journey-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[i]}</svg></span><span class="journey-number">0${i+1}</span></span><strong>${esc(j.title)}</strong><span class="journey-summary">${esc(j.summary)}</span><span class="journey-bottom"><small>${j.steps.length} étapes</small><b aria-hidden="true">▶</b></span></button>`).join('');
     for(const id of ['start','end','unit','perimeter','metric','branch'])$(id).addEventListener('change',()=>{stopForInteraction();const key=id==='branch'?'entity':id;state[key]=['start','end','unit'].includes(key)?Number($(id).value):$(id).value;if(state.start>state.end)state[id==='start'?'end':'start']=state[id];if(id==='perimeter')state.entity='';render();});

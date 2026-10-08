@@ -1,383 +1,487 @@
 {
   "source_files": [
     {
-      "file": "Analyser les comptes de la.wav",
-      "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-      "duration": 262.0
+      "file": "PLFSS 01.wav",
+      "sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "duration": 228.67283333333333,
+      "sample_rate": 48000,
+      "channels": 2,
+      "frames": 10976296,
+      "journey": "essentiel"
     },
     {
-      "file": "Plfss (1).wav",
-      "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
-      "duration": 128.0
+      "file": "PLFSS 02.wav",
+      "sha256": "2107a98ed9f3125da67f566aad071a17160d60e2a4f8aa2bef9c939a17986c96",
+      "duration": 136.2663125,
+      "sample_rate": 48000,
+      "channels": 2,
+      "frames": 6540783,
+      "journey": "source"
+    },
+    {
+      "file": "PLFSS 03.wav",
+      "sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "duration": 149.22304166666666,
+      "sample_rate": 48000,
+      "channels": 2,
+      "frames": 7162706,
+      "journey": "ondam"
     }
   ],
-  "source_duration": 390.0,
+  "source_duration": 514.1621875,
   "steps": {
     "question": {
-      "src": "assets/narration/question.mp3",
-      "duration": 18.3,
-      "source_start": 0,
-      "source_end": 18.3,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 0,
-          "end": 18.3
-        }
-      ],
-      "sha256": "6dc997977a59c75126c6fac20d0e4a8ffb78d09df9cbc63ee003b4458f0b88e1",
-      "text": "Pour préparer une note ou une intervention, partons d’une question : quelles dépenses sont proposées pour la Sécurité sociale en 2027 ? Nous allons retrouver les branches, comparer les étapes et conserver une source. Cette visite utilise une copie datée de PLFSS."
+      "src": "/assets/narration/20261007/question.mp3",
+      "duration": 14.93,
+      "source_start": 0.0,
+      "source_end": 14.93,
+      "source_start_frame": 0,
+      "source_end_frame": 716640,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "6d23f715058d12f921b317fc95e3cb0ea4385eaf2f2ade0051192de9ae5675fa",
+      "text": "Pour préparer une note ou une intervention, partons d’une question : quelles dépenses sont proposées pour la Sécurité sociale en 2027 ? Nous allons retrouver les branches, comparer les étapes et conserver une source.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 716640
     },
     "periode": {
-      "src": "assets/narration/periode.mp3",
-      "duration": 17.1,
-      "source_start": 18.3,
-      "source_end": 35.4,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 18.3,
-          "end": 35.4
-        }
-      ],
-      "sha256": "31dcf8fa346d244f28762832a4a0ec04e8c69e89755e875bd6d460650fd9f1ab",
-      "text": "Le parcours sélectionne 2026 et 2027. L’année du montant et le millésime du document peuvent être différents : une publication 2027 peut aussi présenter des résultats antérieurs. Gardez l’exercice concerné avec chaque chiffre que vous citez."
+      "src": "/assets/narration/20261007/periode.mp3",
+      "duration": 16.85,
+      "source_start": 14.93,
+      "source_end": 31.78,
+      "source_start_frame": 716640,
+      "source_end_frame": 1525440,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "e26f24593072f3280aff9d4c6691fbb5915c0e267ae14176c9462293743004cf",
+      "text": "Le parcours sélectionne 2026 et 2027. L’année du montant et le millésime du document peuvent être différents : une publication 2027 peut aussi présenter des résultats antérieurs. Gardez l’exercice concerné avec chaque chiffre que vous citez.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 808800
     },
     "perimetre": {
-      "src": "assets/narration/perimetre.mp3",
-      "duration": 15.65,
-      "source_start": 35.4,
-      "source_end": 51.05,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 35.4,
-          "end": 51.05
-        }
-      ],
-      "sha256": "c5cc70d200e3a4a5f44b4f39c95ec09b76cd2d02ac0c7c4385c803e1b83f9730",
-      "text": "Nous regardons tous les régimes obligatoires de base. Le régime général et les périmètres incluant le Fonds de solidarité vieillesse sont proposés séparément. Ils ne décrivent pas la même enveloppe. Conservez ce choix lorsque vous comparez les montants."
+      "src": "/assets/narration/20261007/perimetre.mp3",
+      "duration": 16.21,
+      "source_start": 31.78,
+      "source_end": 47.99,
+      "source_start_frame": 1525440,
+      "source_end_frame": 2303520,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "f0ea9fa2e0e4dcf2b27270ac58568b328b6cf72d861a2f6a07d24fc67cab7e76",
+      "text": "Nous regardons tous les régimes obligatoires de base. Le régime général et les périmètres incluant le Fonds de solidarité vieillesse sont proposés séparément. Ils ne décrivent pas la même enveloppe. Conservez ce choix lorsque vous comparez les montants.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 778080
     },
     "branche": {
-      "src": "assets/narration/branche.mp3",
-      "duration": 15.03,
-      "source_start": 51.05,
-      "source_end": 66.08,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 51.05,
-          "end": 66.08
-        }
-      ],
-      "sha256": "5b957c72524d9d8f2571e91b9c08541627cf0cd2e543dd4fd7a14aa0f739c4c5",
-      "text": "Les comptes sont organisés par branches : Maladie, accidents du travail, Vieillesse, Famille et Autonomie. Nous isolons ici la branche Maladie. Le PLFSS ne reprend pas la hiérarchie missions, programmes et actions du budget de l’État."
+      "src": "/assets/narration/20261007/branche.mp3",
+      "duration": 16.020000000000003,
+      "source_start": 47.99,
+      "source_end": 64.01,
+      "source_start_frame": 2303520,
+      "source_end_frame": 3072480,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "3727249a8653c613c2542de41476c164177304985933dec9a355cb672a262a17",
+      "text": "Les comptes sont organisés par branches : Maladie, accidents du travail, Vieillesse, Famille et Autonomie. Nous isolons ici la branche Maladie. Le P.L.F.S.S. ne reprend pas la hiérarchie missions, programmes et actions du budget de l’État.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 768960
     },
     "etapes": {
-      "src": "assets/narration/etapes.mp3",
-      "duration": 18.95,
-      "source_start": 66.08,
-      "source_end": 85.03,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 66.08,
-          "end": 85.03
-        }
-      ],
-      "sha256": "4ec0a698e0c682247b60194638401cd63e4d778009beeeef9271b61fef4f8de1",
-      "text": "La colonne PLFSS présente une proposition. La LFSS correspond à la loi votée. Les comptes constatés décrivent les résultats publiés. Une case encore non renseignée en 2027 ne signifie pas zéro. Comparez la même étape et le même périmètre avant de parler d’évolution."
+      "src": "/assets/narration/20261007/etapes.mp3",
+      "duration": 19.809999999999988,
+      "source_start": 64.01,
+      "source_end": 83.82,
+      "source_start_frame": 3072480,
+      "source_end_frame": 4023360,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "a24fa11fa69164d7b805214cfc3b12ac4ea8f28cc2bd3c0af4c95cc77e403b77",
+      "text": "La colonne P.L.F.S.S. présente une proposition. La L.F.S.S. correspond à la loi votée. Les comptes constatés décrivent les résultats publiés. Une case encore non renseignée en 2027 ne signifie pas zéro. Comparez la même étape et le même périmètre avant de parler d’évolution.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 950880
     },
     "recettes": {
-      "src": "assets/narration/recettes.mp3",
-      "duration": 14.14,
-      "source_start": 85.03,
-      "source_end": 99.17,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 85.03,
-          "end": 99.17
-        }
-      ],
-      "sha256": "4c5359b15110182631a5904923d44f1feffd982312b0489dd7dc4d28c76fa606",
-      "text": "Le parcours affiche les recettes de la branche Maladie. Les recettes et les dépenses répondent à des questions différentes. Une augmentation des dépenses ne suffit pas à expliquer le solde : il faut également examiner les ressources et leurs évolutions."
+      "src": "/assets/narration/20261007/recettes.mp3",
+      "duration": 15.310000000000002,
+      "source_start": 83.82,
+      "source_end": 99.13,
+      "source_start_frame": 4023360,
+      "source_end_frame": 4758240,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "35dc1ced941f43534b36357021d1e4e84d7dcfd282b69f9819ca69a43d77aef5",
+      "text": "Le parcours affiche les recettes de la branche Maladie. Les recettes et les dépenses répondent à des questions différentes. Une augmentation des dépenses ne suffit pas à expliquer le solde : il faut également examiner les ressources et leurs évolutions.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 734880
     },
     "solde": {
-      "src": "assets/narration/solde.mp3",
-      "duration": 15.65,
-      "source_start": 99.17,
-      "source_end": 114.82,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 99.17,
-          "end": 114.82
-        }
-      ],
-      "sha256": "4577cc503fbdeb0e70cc663a52e1f5e2584a9a892c7ea3406208a4c65f6eb2e6",
-      "text": "Nous affichons maintenant le solde publié. Son signe indique un excédent ou un déficit selon la source. Ces comptes sont des prévisions de recettes et des objectifs de dépenses, puis des résultats. Ce ne sont pas des crédits de paiement ou des autorisations d’engagement."
+      "src": "/assets/narration/20261007/solde.mp3",
+      "duration": 17.310000000000002,
+      "source_start": 99.13,
+      "source_end": 116.44,
+      "source_start_frame": 4758240,
+      "source_end_frame": 5589120,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "9f83a912e420b499d8426d6f84a0b58a95e6439c59d0d5e84c4c3f24f59e5d2a",
+      "text": "Nous affichons maintenant le solde publié. Son signe indique un excédent ou un déficit selon la source. Ces comptes sont des prévisions de recettes et des objectifs de dépenses, puis des résultats. Ce ne sont pas des crédits de paiement ou des autorisations d’engagement.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 830880
     },
     "origine": {
-      "src": "assets/narration/origine.mp3",
-      "duration": 13.86,
-      "source_start": 114.82,
-      "source_end": 128.68,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 114.82,
-          "end": 128.68
-        }
-      ],
-      "sha256": "c05ca88ed9d115124b01ea37f7c2ed5c0a6559ba5ffc2cd23d13b5ab219ed24d",
-      "text": "Revenons aux dépenses proposées pour la branche Maladie en 2027. Sur le site, chaque montant peut ouvrir sa preuve. Vérifiez l’exercice, l’étape, la branche et le périmètre avant de reprendre le chiffre dans votre note."
+      "src": "/assets/narration/20261007/origine.mp3",
+      "duration": 14.599999999999994,
+      "source_start": 116.44,
+      "source_end": 131.04,
+      "source_start_frame": 5589120,
+      "source_end_frame": 6289920,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "cf949d9497cea3139971dbbca0013323d9915f0777010887acf910850f8212aa",
+      "text": "Revenons aux dépenses proposées pour la branche Maladie en 2027. Sur le site, chaque montant peut ouvrir sa preuve. Vérifiez l’exercice, l’étape, la branche et le périmètre avant de reprendre le chiffre dans votre note.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 700800
     },
     "preuve": {
-      "src": "assets/narration/preuve.mp3",
-      "duration": 15.81,
-      "source_start": 128.68,
-      "source_end": 144.49,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 128.68,
-          "end": 144.49
-        }
-      ],
-      "sha256": "47f03cc01af9867e5c20b42f986086dc722342b823be5cdc3c2fd50a3d023620",
-      "text": "La preuve de l’exemple est ouverte. Elle donne le montant, le document source et la position du chiffre dans le tableau. Conservez aussi les unités, la ligne et la colonne. Une éventuelle notice de divergence doit accompagner l’interprétation du montant."
+      "src": "/assets/narration/20261007/preuve.mp3",
+      "duration": 16.52000000000001,
+      "source_start": 131.04,
+      "source_end": 147.56,
+      "source_start_frame": 6289920,
+      "source_end_frame": 7082880,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "b3f2a12ddf0947bac2d149b59284d5719e7cb4750e35cf9d4b60021054ae279a",
+      "text": "La preuve de l’exemple est ouverte. Elle donne le montant, le document source et la position du chiffre dans le tableau. Conservez aussi les unités, la ligne et la colonne. Une éventuelle notice de divergence doit accompagner l’interprétation du montant.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 792960
     },
     "precision": {
-      "src": "assets/narration/precision.mp3",
-      "duration": 18.46,
-      "source_start": 144.49,
-      "source_end": 162.95,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 144.49,
-          "end": 162.95
-        }
-      ],
-      "sha256": "d94e1e3cc06b0ed077f114e1858b01fe54883d94d6fbf4ad4ab221c547c32c6b",
-      "text": "Le parcours passe des milliards aux euros. Les montants restent ceux de la source ; seule leur présentation change. L’affichage en milliards peut être arrondi. Pour une citation précise, utilisez la preuve et gardez la précision réellement publiée, sans inventer de décimales supplémentaires."
+      "src": "/assets/narration/20261007/precision.mp3",
+      "duration": 20.060000000000002,
+      "source_start": 147.56,
+      "source_end": 167.62,
+      "source_start_frame": 7082880,
+      "source_end_frame": 8045760,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "32203ec76e3c7ef5e21818825ae20d943b2262835b570d16142a45cf40467b70",
+      "text": "Le parcours passe des milliards aux euros. Les montants restent ceux de la source, seule leur présentation change. L’affichage en milliards peut être arrondi. Pour une citation précise, utilisez la preuve et gardez la précision réellement publiée, sans inventer de décimales supplémentaires.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 962880
     },
     "absence": {
-      "src": "assets/narration/absence.mp3",
-      "duration": 18.18,
-      "source_start": 162.95,
-      "source_end": 181.13,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 162.95,
-          "end": 181.13
-        }
-      ],
-      "sha256": "f553217945d62cb7a7caea1c575ab0583a1d1b6850d2edd79f426a1c37f3c42c",
-      "text": "Un zéro établi par la source reste un zéro. Une valeur absente garde son explication. Les publications futures, les changements de périmètre et les détails non qualifiés sont distingués. La présence d’un document dans la recherche ne signifie pas que tous ses tableaux ont été intégrés."
+      "src": "/assets/narration/20261007/absence.mp3",
+      "duration": 18.569999999999993,
+      "source_start": 167.62,
+      "source_end": 186.19,
+      "source_start_frame": 8045760,
+      "source_end_frame": 8937120,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "404689c1d6745ac1c500a4d65eda4e82185a7d0e818b94e873f302fd5fff0bd5",
+      "text": "Un zéro établi par la source reste un zéro. Une valeur absente garde son explication. Les publications futures, les changements de périmètre et les détails non qualifiés sont distingués. La présence d’un document dans la recherche ne signifie pas que tous ses tableaux ont été intégrés.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 891360
     },
     "documents": {
-      "src": "assets/narration/documents.mp3",
-      "duration": 18.3,
-      "source_start": 181.13,
-      "source_end": 199.43,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 181.13,
-          "end": 199.43
-        }
-      ],
-      "sha256": "3452e002f46bd4c33e758099e0eb6075442cf15a5134cc1c7af2b17624031a9b",
-      "text": "La bibliothèque permet de retrouver les textes et leurs annexes. Dans cette copie, nous présentons quelques documents 2027. Sur le vrai site, vous pouvez rechercher dans le contenu et filtrer les sources. Vérifiez toujours le passage dans son contexte avant de le citer."
+      "src": "/assets/narration/20261007/documents.mp3",
+      "duration": 8.449999999999989,
+      "source_start": 186.19,
+      "source_end": 194.64,
+      "source_start_frame": 8937120,
+      "source_end_frame": 9342720,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "52ba3a6851ce89598802c094fe4f5eda2be0345e11089f623b20bdbe9f8549c6",
+      "text": "La bibliothèque permet de retrouver les textes et leurs annexes. Vérifiez toujours le passage dans son contexte avant de le citer.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 405600
     },
     "export": {
-      "src": "assets/narration/export.mp3",
-      "duration": 19.79,
-      "source_start": 199.43,
-      "source_end": 219.22,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 199.43,
-          "end": 219.22
-        }
-      ],
-      "sha256": "d762a933e878566281197caf6f6fc39736af714f9dab1a6f0e07d614491b8c58",
-      "text": "Sur PLFSS, l’export Excel ou CSV conserve le périmètre affiché et les références utiles. Pour votre note, gardez l’année, la branche ou le sous-objectif, l’indicateur, l’étape, l’unité et la source. La démo propose seulement un petit CSV de son exemple daté."
+      "src": "/assets/narration/20261007/export.mp3",
+      "duration": 18.140000000000015,
+      "source_start": 194.64,
+      "source_end": 212.78,
+      "source_start_frame": 9342720,
+      "source_end_frame": 10213440,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "8eed8c97065c12a504bd9688fde1b49af0f72fce1dacc3bfb6f778cce69b5003",
+      "text": "Sur P.L.F.S.S., l’export Excel ou CSV conserve le périmètre affiché et les références utiles. Pour votre note, gardez l’année, la branche ou le sous-objectif, l’indicateur, l’étape, l’unité et la source.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 870720
     },
     "fin": {
-      "src": "assets/narration/fin.mp3",
-      "duration": 17.1,
-      "source_start": 219.22,
-      "source_end": 236.32,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 219.22,
-          "end": 236.32
-        }
-      ],
-      "sha256": "2f63b5eeeb8cdd545dbf26e9cf618d62d2efba5d3c7879423d79ca2bbc5f70dd",
-      "text": "Vous pouvez maintenant retrouver un montant, comparer les bonnes colonnes et conserver une preuve. Le bouton Stop démo ouvre le véritable site PLFSS. Vous pourrez explorer votre propre sujet avec les données publiées, puis revenir à cette visite pour choisir un autre parcours."
+      "src": "/assets/narration/20261007/fin.mp3",
+      "duration": 15.892833333333328,
+      "source_start": 212.78,
+      "source_end": 228.67283333333333,
+      "source_start_frame": 10213440,
+      "source_end_frame": 10976296,
+      "source_file": "PLFSS 01.wav",
+      "source_sha256": "33db7cbfe0d029ada3bc3ceee0d3696c7a009799dae5f25795fc1074aba0fe13",
+      "sha256": "0c7349d909d0ef9f49289c8f39bf62145fd029660832d588ecbc91090a193b72",
+      "text": "Vous pouvez maintenant explorer votre propre sujet. Le bouton Démo vous permet de revenir ici pour choisir un autre parcours ou rejouer une étape.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 762856
+    },
+    "source-origine": {
+      "src": "/assets/narration/20261007/source-origine.mp3",
+      "duration": 17.76,
+      "source_start": 0.0,
+      "source_end": 17.76,
+      "source_start_frame": 0,
+      "source_end_frame": 852480,
+      "source_file": "PLFSS 02.wav",
+      "source_sha256": "2107a98ed9f3125da67f566aad071a17160d60e2a4f8aa2bef9c939a17986c96",
+      "sha256": "9e010fdccd5f02e896172c89f88fd3861b7176bc0e68844e82ed60b23f8ecd0d",
+      "text": "Revenons aux dépenses proposées pour la branche Maladie en 2027. Sur le site, chaque montant peut ouvrir sa preuve. Vérifiez l’exercice, l’étape, la branche et le périmètre avant de reprendre le chiffre dans votre note.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 852480
+    },
+    "source-preuve": {
+      "src": "/assets/narration/20261007/source-preuve.mp3",
+      "duration": 19.429999999999996,
+      "source_start": 17.76,
+      "source_end": 37.19,
+      "source_start_frame": 852480,
+      "source_end_frame": 1785120,
+      "source_file": "PLFSS 02.wav",
+      "source_sha256": "2107a98ed9f3125da67f566aad071a17160d60e2a4f8aa2bef9c939a17986c96",
+      "sha256": "d64901cd8eb2bdaf706be8e8689434149fa3ada9957e847e069b4792dfe01e50",
+      "text": "La preuve de l’exemple est ouverte. Elle donne le montant, le document source et la position du chiffre dans le tableau. Conservez aussi les unités, la ligne et la colonne. Une éventuelle notice de divergence doit accompagner l’interprétation du montant.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 932640
+    },
+    "source-precision": {
+      "src": "/assets/narration/20261007/source-precision.mp3",
+      "duration": 21.885000000000005,
+      "source_start": 37.19,
+      "source_end": 59.075,
+      "source_start_frame": 1785120,
+      "source_end_frame": 2835600,
+      "source_file": "PLFSS 02.wav",
+      "source_sha256": "2107a98ed9f3125da67f566aad071a17160d60e2a4f8aa2bef9c939a17986c96",
+      "sha256": "2ca373b13e6587565bd55a2d5b2cebca69d82e2aa40af24d18681b0d2489712f",
+      "text": "Le parcours passe des milliards aux euros. Les montants restent ceux de la source, seule leur présentation change. L’affichage en milliards peut être arrondi. Pour une citation précise, utilisez la preuve et gardez la précision réellement publiée, sans inventer de décimales supplémentaires.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 1050480
+    },
+    "source-absence": {
+      "src": "/assets/narration/20261007/source-absence.mp3",
+      "duration": 23.215000000000003,
+      "source_start": 59.075,
+      "source_end": 82.29,
+      "source_start_frame": 2835600,
+      "source_end_frame": 3949920,
+      "source_file": "PLFSS 02.wav",
+      "source_sha256": "2107a98ed9f3125da67f566aad071a17160d60e2a4f8aa2bef9c939a17986c96",
+      "sha256": "653ca2565f2188099ed311b172a908c70b7188adb6db7ba0a1bbfee251e73377",
+      "text": "Un zéro établi par la source reste un zéro. Une valeur absente garde son explication. Les publications futures, les changements de périmètre et les détails non qualifiés sont distingués. La présence d’un document dans la recherche ne signifie pas que tous ses tableaux ont été intégrés.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 1114320
+    },
+    "source-documents": {
+      "src": "/assets/narration/20261007/source-documents.mp3",
+      "duration": 10.199999999999989,
+      "source_start": 82.29,
+      "source_end": 92.49,
+      "source_start_frame": 3949920,
+      "source_end_frame": 4439520,
+      "source_file": "PLFSS 02.wav",
+      "source_sha256": "2107a98ed9f3125da67f566aad071a17160d60e2a4f8aa2bef9c939a17986c96",
+      "sha256": "9dcb84900f1e5d5dad41cea71a05ce55322c716bad791f7b1ac78dfb5256c457",
+      "text": "La bibliothèque permet de retrouver les textes et leurs annexes. Vérifiez toujours le passage dans son contexte avant de le citer.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 489600
+    },
+    "source-export": {
+      "src": "/assets/narration/20261007/source-export.mp3",
+      "duration": 20.36,
+      "source_start": 92.49,
+      "source_end": 112.85,
+      "source_start_frame": 4439520,
+      "source_end_frame": 5416800,
+      "source_file": "PLFSS 02.wav",
+      "source_sha256": "2107a98ed9f3125da67f566aad071a17160d60e2a4f8aa2bef9c939a17986c96",
+      "sha256": "768244bcf7c7d99acb31a806b425599c3d8b9405aaf74c0b0c3ae2c9f1d03d87",
+      "text": "Sur P.L.F.S.S., l’export Excel ou CSV conserve le périmètre affiché et les références utiles. Pour votre note, gardez l’année, la branche ou le sous-objectif, l’indicateur, l’étape, l’unité et la source.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 977280
+    },
+    "source-fin": {
+      "src": "/assets/narration/20261007/source-fin.mp3",
+      "duration": 23.416312500000004,
+      "source_start": 112.85,
+      "source_end": 136.2663125,
+      "source_start_frame": 5416800,
+      "source_end_frame": 6540783,
+      "source_file": "PLFSS 02.wav",
+      "source_sha256": "2107a98ed9f3125da67f566aad071a17160d60e2a4f8aa2bef9c939a17986c96",
+      "sha256": "fcead98e267bd935646e293f03b2012e06bcf6a65a2ee4fab07af83faab68054",
+      "text": "Vous pouvez maintenant explorer votre propre sujet. Le bouton Démo vous permet de revenir ici pour choisir un autre parcours ou rejouer une étape.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 1123983
     },
     "ondam-question": {
-      "src": "assets/narration/ondam-question.mp3",
-      "duration": 17.455011,
-      "source_start": 236.32,
-      "source_end": 253.775,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 236.32,
-          "end": 253.775
-        }
-      ],
-      "sha256": "e2349e3c40b13eac85c3c21e50fa2961b46d3d833b4d3cae7264fcaef1fe713e",
-      "text": "Quel objectif de dépenses de santé est proposé pour 2027, et comment se répartit-il ? Nous allons examiner l’ONDAM et ses sous-objectifs. Cette lecture complète les comptes des branches ; elle ne doit pas être additionnée à la branche Maladie."
+      "src": "/assets/narration/20261007/ondam-question.mp3",
+      "duration": 18.03,
+      "source_start": 0.0,
+      "source_end": 18.03,
+      "source_start_frame": 0,
+      "source_end_frame": 865440,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "90171bd03e5430fc113da7631e3124d7f1dd73306c2a40e7c164d6152c246177",
+      "text": "Quel objectif de dépenses de santé est proposé pour 2027, et comment se répartit-il ? Nous allons examiner l’O.N.D.A.M. et ses sous-objectifs. Cette lecture complète les comptes des branches, elle ne doit pas être additionnée à la branche Maladie.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 865440
     },
     "ondam-definition": {
-      "src": "assets/narration/ondam-definition.mp3",
-      "duration": 20.655011,
-      "source_start": 253.775,
-      "source_end": 274.43,
-      "source_ranges": [
-        {
-          "file": "Analyser les comptes de la.wav",
-          "sha256": "7f9bc52688d476583f2a3b7623c1929a460017651a4c84bff78d741137f7e683",
-          "start": 253.775,
-          "end": 262.0
-        },
-        {
-          "file": "Plfss (1).wav",
-          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
-          "start": 0,
-          "end": 12.430000000000007
-        }
-      ],
-      "sha256": "7fbca34021ad3ac99f5be5cd80af63184c0b0353da831289baabce324da610d2",
-      "text": "L’objectif national de dépenses d’assurance maladie est présenté dans sa propre rubrique. Son périmètre diffère des comptes de la branche Maladie. Les mêmes précautions s’appliquent : exercice, étape, périmètre, unité et source doivent rester identifiés."
+      "src": "/assets/narration/20261007/ondam-definition.mp3",
+      "duration": 15.769999999999996,
+      "source_start": 18.03,
+      "source_end": 33.8,
+      "source_start_frame": 865440,
+      "source_end_frame": 1622400,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "c2f48e805fe506af75416be7ec7aa39bd4ef85f325dc2fae9d12e952221fe6e3",
+      "text": "L’objectif national de dépenses d’assurance maladie est présenté dans sa propre rubrique. Son périmètre diffère des comptes de la branche Maladie. Les mêmes précautions s’appliquent : exercice, étape, périmètre, unité et source doivent rester identifiés.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 756960
     },
     "ondam-periode": {
-      "src": "assets/narration/ondam-periode.mp3",
-      "duration": 20.99,
-      "source_start": 274.43,
-      "source_end": 295.42,
-      "source_ranges": [
-        {
-          "file": "Plfss (1).wav",
-          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
-          "start": 12.430000000000007,
-          "end": 33.420000000000016
-        }
-      ],
-      "sha256": "f475a62717c27da041538a5ac3cd2c06fd385a5ffa1b381f42d4e2195eea8a12",
-      "text": "Le parcours retient 2026 et 2027. Pour préparer un débat, distinguez la proposition initiale, la loi votée et les dépenses constatées. Un objectif proposé ne constitue pas encore un résultat annuel. Les projections et les rectifications se consultent séparément sur PLFSS."
+      "src": "/assets/narration/20261007/ondam-periode.mp3",
+      "duration": 19.590000000000003,
+      "source_start": 33.8,
+      "source_end": 53.39,
+      "source_start_frame": 1622400,
+      "source_end_frame": 2562720,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "b6287bca0681babe3cddffa8949776549368b107d51d1b9bc1baad21b85b5917",
+      "text": "Le parcours retient 2026 et 2027. Pour préparer un débat, distinguez la proposition initiale, la loi votée et les dépenses constatées. Un objectif proposé ne constitue pas encore un résultat annuel. Les projections et les rectifications se consultent séparément sur P.L.F.S.S..",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 940320
     },
     "ondam-postes": {
-      "src": "assets/narration/ondam-postes.mp3",
-      "duration": 16.86,
-      "source_start": 295.42,
-      "source_end": 312.28,
-      "source_ranges": [
-        {
-          "file": "Plfss (1).wav",
-          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
-          "start": 33.420000000000016,
-          "end": 50.27999999999997
-        }
-      ],
-      "sha256": "79b9d28c793ffc1d061814d744fb97895e1d7b4dbf439d3b9120d7d5ed81dda1",
-      "text": "Le tableau distingue notamment les soins de ville, les établissements de santé et les établissements et services médico-sociaux. Ces lignes permettent de préciser la question. Le détail effectivement publié peut varier selon les exercices et les sources."
+      "src": "/assets/narration/20261007/ondam-postes.mp3",
+      "duration": 14.429999999999993,
+      "source_start": 53.39,
+      "source_end": 67.82,
+      "source_start_frame": 2562720,
+      "source_end_frame": 3255360,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "715c8572e6f34557a15b196cad50fa05229bb955102f12a78e43bb7d28ba8efc",
+      "text": "Le tableau distingue notamment les soins de ville, les établissements de santé et les établissements et services médico-sociaux. Ces lignes permettent de préciser la question. Le détail effectivement publié peut varier selon les exercices et les sources.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 692640
     },
     "ondam-ville": {
-      "src": "assets/narration/ondam-ville.mp3",
-      "duration": 16.22,
-      "source_start": 312.28,
-      "source_end": 328.5,
-      "source_ranges": [
-        {
-          "file": "Plfss (1).wav",
-          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
-          "start": 50.27999999999997,
-          "end": 66.5
-        }
-      ],
-      "sha256": "69a5732e57e5b360b7262e8ffbba4e787aeda68df79b04ffb83ce700916e5d28",
-      "text": "Nous isolons les soins de ville dans l’exemple. Vous voyez les colonnes correspondant aux étapes de chaque année. Le site aide à retrouver les montants et les pièces ; leurs évolutions doivent être expliquées à partir des documents, pas seulement d’une différence entre deux cases."
+      "src": "/assets/narration/20261007/ondam-ville.mp3",
+      "duration": 15.700000000000003,
+      "source_start": 67.82,
+      "source_end": 83.52,
+      "source_start_frame": 3255360,
+      "source_end_frame": 4008960,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "c2f03eb591f4d3b36d53ddfe9e41c7aed3dde74a9686cac79e6590da34de3a01",
+      "text": "Nous isolons les soins de ville dans l’exemple. Vous voyez les colonnes correspondant aux étapes de chaque année. Le site aide à retrouver les montants et les pièces. Leurs évolutions doivent être expliquées à partir des documents, pas seulement d’une différence entre deux cases.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 753600
     },
     "ondam-origine": {
-      "src": "assets/narration/ondam-origine.mp3",
-      "duration": 17.3,
-      "source_start": 328.5,
-      "source_end": 345.8,
-      "source_ranges": [
-        {
-          "file": "Plfss (1).wav",
-          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
-          "start": 66.5,
-          "end": 83.80000000000001
-        }
-      ],
-      "sha256": "3005fe7abce8d9617789a75017d110ff280ba2766f8b6494ab24b4010db01102",
-      "text": "Le parcours retient la proposition 2027 pour les soins de ville. Avant une citation ou une question parlementaire, ouvrez le tableau source et vérifiez le libellé exact du sous-objectif. Ne confondez pas le total ONDAM et une seule de ses composantes."
+      "src": "/assets/narration/20261007/ondam-origine.mp3",
+      "duration": 16.78,
+      "source_start": 83.52,
+      "source_end": 100.3,
+      "source_start_frame": 4008960,
+      "source_end_frame": 4814400,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "56af6634293be4de67f5bde056549dbd19103a5ca84cde340440ba85cd0bc558",
+      "text": "Le parcours retient la proposition 2027 pour les soins de ville. Avant une citation ou une question parlementaire, ouvrez le tableau source et vérifiez le libellé exact du sous-objectif. Ne confondez pas le total O.N.D.A.M. et une seule de ses composantes.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 805440
     },
     "ondam-preuve": {
-      "src": "assets/narration/ondam-preuve.mp3",
-      "duration": 18.38,
-      "source_start": 345.8,
-      "source_end": 364.18,
-      "source_ranges": [
-        {
-          "file": "Plfss (1).wav",
-          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
-          "start": 83.80000000000001,
-          "end": 102.18
-        }
-      ],
-      "sha256": "26964f5f5c68108b0416fcef0171a33c0a5482002c24192500ad4ef33d919bbd",
-      "text": "Voici la preuve conservée pour ce sous-objectif. Elle indique le montant publié, l’unité et les repères de tableau. Conservez cette référence avec le chiffre dans une note ou une question. Si plusieurs publications diffèrent, consultez leur explication avant de conclure."
+      "src": "/assets/narration/20261007/ondam-preuve.mp3",
+      "duration": 15.870000000000005,
+      "source_start": 100.3,
+      "source_end": 116.17,
+      "source_start_frame": 4814400,
+      "source_end_frame": 5576160,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "578aa863b7ebf1b1bc9d5165f49cd53689b85feb0f419063bd0723f03df94e1e",
+      "text": "Voici la preuve conservée pour ce sous-objectif. Elle indique le montant publié, l’unité et les repères de tableau. Conservez cette référence avec le chiffre dans une note ou une question. Si plusieurs publications diffèrent, consultez leur explication avant de conclure.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 761760
     },
     "ondam-limites": {
-      "src": "assets/narration/ondam-limites.mp3",
-      "duration": 25.82,
-      "source_start": 364.18,
-      "source_end": 390.0,
-      "source_ranges": [
-        {
-          "file": "Plfss (1).wav",
-          "sha256": "370a5ff84f95735c352ed058702aee813aaba75c577a59a0bca17a9519c18f80",
-          "start": 102.18,
-          "end": 128.0
-        }
-      ],
-      "sha256": "c8fb85ebc8f0ab08be9d048a8dcea083bc80467c48df8f2ad3b745cd4ff45d96",
-      "text": "Le bilan distingue les documents récupérés, les montants qualifiés et les détails restant à traiter. Les zéros, les absences et les écarts entre publications ne sont pas interchangeables. Une recherche sans résultat ne démontre pas, à elle seule, que l’information n’existe pas."
+      "src": "/assets/narration/20261007/ondam-limites.mp3",
+      "duration": 16.97500000000001,
+      "source_start": 116.17,
+      "source_end": 133.145,
+      "source_start_frame": 5576160,
+      "source_end_frame": 6390960,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "a5355d4338abcc98cdb1d61a07e269ea495d8b6075ab62b9e917a555d86ee40f",
+      "text": "Le bilan distingue les documents récupérés, les montants qualifiés et les détails restant à traiter. Les zéros, les absences et les écarts entre publications ne sont pas interchangeables. Une recherche sans résultat ne démontre pas, à elle seule, que l’information n’existe pas.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 814800
+    },
+    "ondam-fin": {
+      "src": "/assets/narration/20261007/ondam-fin.mp3",
+      "duration": 16.07804166666665,
+      "source_start": 133.145,
+      "source_end": 149.22304166666666,
+      "source_start_frame": 6390960,
+      "source_end_frame": 7162706,
+      "source_file": "PLFSS 03.wav",
+      "source_sha256": "703e6466199f7d66ba14f981f8ac9753738abf67d12b04fb8056911949383ba9",
+      "sha256": "2d4d406728ab055fdbc41535fb94fb6450cc87f74a583dc73db03e1217669fec",
+      "text": "Vous pouvez maintenant explorer votre propre sujet. Le bouton Démo vous permet de revenir ici pour choisir un autre parcours ou rejouer une étape.",
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "decoded_frames": 771746
     }
   },
   "missing": [],
-  "join": {
-    "at_seconds": 262.0,
-    "fade_out": 0.8,
-    "fade_in": 0.8,
-    "fades_outside_spoken_words": true
-  },
-  "integrated_at": "2026-10-06T12:10:53.056258+00:00"
+  "integrated_at": "2026-10-07T18:40:26.670831+00:00",
+  "revision": "20261007-user-word-three-recordings-full-music"
 }

@@ -1,5 +1,19 @@
 # PLFSS — point de reprise
 
+## 8 octobre 2026 — sauvegarde actuelle
+
+Dépôt permanent : `D:/ChatGPT/docker/backups/plfss-20261004-public/git`.
+Branche de capture `sauvegarde-en-ligne-20261008` ; branche active apres sauvegarde `main` ; tag `en-ligne-20261008`, dépôt privé `KRADIFY/plfss`.
+Dernier commit sûr avant capture : `d573ba55310b6991f9f1af53d8d070e7946cc71b` (7 octobre).
+Lire le commit courant avec `git log -1 --oneline` et l'état avec `git status --short --branch`.
+Capture publique du 8 octobre : trois parcours, nouveaux textes et 30 voix du 7 octobre, codas musicales conservées, dernier correctif de placement des cartouches. 215 fichiers capturés vérifiés ; aucun service modifié.
+Manifestes : `proofs/VERSION-EN-LIGNE-20261008.json`, `proofs/CAPTURE-VERIFIED-20261008.json`.
+Données principales inchangées ; volumes et images Docker sauvegardés séparément dans `H:/Sauvegardes-Nos-Deniers/20261008-version-en-ligne`.
+Test Git : `git fsck --full`. Démarrage : configurations archivées de production après restauration des volumes/images, sans créer de nouvel environnement pour cette sauvegarde.
+URL locale historique : `http://127.0.0.1:18895/` (site) et `http://127.0.0.1:18897/` (démo). Public : `https://plfss.lexmachine.net/`.
+Prochaine étape après une nouvelle modification : capture, commit et push supplémentaires ; conserver le tag actuel.
+Les sections historiques suivantes décrivent les versions anciennes.
+
 ## 7 octobre 2026 — Sauvegarde Git de la version actuellement en ligne
 
 Capture en lecture seule des conteneurs actifs, de la démo à trois parcours avec

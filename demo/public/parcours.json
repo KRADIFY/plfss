@@ -27,13 +27,13 @@
       "title": "Vérifier un chiffre avant de le citer",
       "summary": "Retrouver le tableau, ses unités et ses limites avant un export.",
       "steps": [
-        "origine",
-        "preuve",
-        "precision",
-        "absence",
-        "documents",
-        "export",
-        "fin"
+        "source-origine",
+        "source-preuve",
+        "source-precision",
+        "source-absence",
+        "source-documents",
+        "source-export",
+        "source-fin"
       ]
     },
     {
@@ -49,7 +49,7 @@
         "ondam-origine",
         "ondam-preuve",
         "ondam-limites",
-        "fin"
+        "ondam-fin"
       ]
     }
   ],
@@ -57,7 +57,7 @@
     {
       "id": "question",
       "title": "Partir d’une question utile",
-      "text": "Pour préparer une note ou une intervention, partons d’une question : quelles dépenses sont proposées pour la Sécurité sociale en 2027 ? Nous allons retrouver les branches, comparer les étapes et conserver une source. Cette visite utilise une copie datée de PLFSS.",
+      "text": "Pour préparer une note ou une intervention, partons d’une question : quelles dépenses sont proposées pour la Sécurité sociale en 2027 ? Nous allons retrouver les branches, comparer les étapes et conserver une source.",
       "target": "#view-title",
       "state": {}
     },
@@ -78,7 +78,7 @@
     {
       "id": "branche",
       "title": "Examiner une branche",
-      "text": "Les comptes sont organisés par branches : Maladie, accidents du travail, Vieillesse, Famille et Autonomie. Nous isolons ici la branche Maladie. Le PLFSS ne reprend pas la hiérarchie missions, programmes et actions du budget de l’État.",
+      "text": "Les comptes sont organisés par branches : Maladie, accidents du travail, Vieillesse, Famille et Autonomie. Nous isolons ici la branche Maladie. Le P.L.F.S.S. ne reprend pas la hiérarchie missions, programmes et actions du budget de l’État.",
       "target": "#scope-title",
       "state": {
         "entity": "MALADIE"
@@ -87,7 +87,7 @@
     {
       "id": "etapes",
       "title": "Distinguer proposé, voté et constaté",
-      "text": "La colonne PLFSS présente une proposition. La LFSS correspond à la loi votée. Les comptes constatés décrivent les résultats publiés. Une case encore non renseignée en 2027 ne signifie pas zéro. Comparez la même étape et le même périmètre avant de parler d’évolution.",
+      "text": "La colonne P.L.F.S.S. présente une proposition. La L.F.S.S. correspond à la loi votée. Les comptes constatés décrivent les résultats publiés. Une case encore non renseignée en 2027 ne signifie pas zéro. Comparez la même étape et le même périmètre avant de parler d’évolution.",
       "target": "#matrix thead",
       "state": {
         "entity": "MALADIE"
@@ -135,7 +135,7 @@
     {
       "id": "precision",
       "title": "L’unité d’affichage ne change pas la valeur",
-      "text": "Le parcours passe des milliards aux euros. Les montants restent ceux de la source ; seule leur présentation change. L’affichage en milliards peut être arrondi. Pour une citation précise, utilisez la preuve et gardez la précision réellement publiée, sans inventer de décimales supplémentaires.",
+      "text": "Le parcours passe des milliards aux euros. Les montants restent ceux de la source, seule leur présentation change. L’affichage en milliards peut être arrondi. Pour une citation précise, utilisez la preuve et gardez la précision réellement publiée, sans inventer de décimales supplémentaires.",
       "target": "#unit",
       "state": {
         "entity": "MALADIE",
@@ -154,7 +154,7 @@
     {
       "id": "documents",
       "title": "Retrouver les documents derrière les comptes",
-      "text": "La bibliothèque permet de retrouver les textes et leurs annexes. Dans cette copie, nous présentons quelques documents 2027. Sur le vrai site, vous pouvez rechercher dans le contenu et filtrer les sources. Vérifiez toujours le passage dans son contexte avant de le citer.",
+      "text": "La bibliothèque permet de retrouver les textes et leurs annexes. Vérifiez toujours le passage dans son contexte avant de le citer.",
       "target": "#document-filters",
       "state": {
         "view": "DOCUMENTS"
@@ -163,7 +163,7 @@
     {
       "id": "export",
       "title": "Préparer une note réutilisable",
-      "text": "Sur PLFSS, l’export Excel ou CSV conserve le périmètre affiché et les références utiles. Pour votre note, gardez l’année, la branche ou le sous-objectif, l’indicateur, l’étape, l’unité et la source. La démo propose seulement un petit CSV de son exemple daté.",
+      "text": "Sur P.L.F.S.S., l’export Excel ou CSV conserve le périmètre affiché et les références utiles. Pour votre note, gardez l’année, la branche ou le sous-objectif, l’indicateur, l’étape, l’unité et la source.",
       "target": "#automatic-panel",
       "state": {
         "entity": "MALADIE",
@@ -173,14 +173,78 @@
     {
       "id": "fin",
       "title": "Passer à votre propre dossier",
-      "text": "Vous pouvez maintenant retrouver un montant, comparer les bonnes colonnes et conserver une preuve. Le bouton Stop démo ouvre le véritable site PLFSS. Vous pourrez explorer votre propre sujet avec les données publiées, puis revenir à cette visite pour choisir un autre parcours.",
+      "text": "Vous pouvez maintenant explorer votre propre sujet. Le bouton Démo vous permet de revenir ici pour choisir un autre parcours ou rejouer une étape.",
+      "target": "#reopen-demo",
+      "state": {}
+    },
+    {
+      "id": "source-origine",
+      "title": "Ouvrir la preuve du montant",
+      "text": "Revenons aux dépenses proposées pour la branche Maladie en 2027. Sur le site, chaque montant peut ouvrir sa preuve. Vérifiez l’exercice, l’étape, la branche et le périmètre avant de reprendre le chiffre dans votre note.",
+      "target": "[data-cell=\"MALADIE|2027|PLFSS\"]",
+      "state": {
+        "entity": "MALADIE"
+      }
+    },
+    {
+      "id": "source-preuve",
+      "title": "Conserver le tableau et ses repères",
+      "text": "La preuve de l’exemple est ouverte. Elle donne le montant, le document source et la position du chiffre dans le tableau. Conservez aussi les unités, la ligne et la colonne. Une éventuelle notice de divergence doit accompagner l’interprétation du montant.",
+      "target": "#automatic-panel",
+      "state": {
+        "entity": "MALADIE",
+        "panel": "proof"
+      }
+    },
+    {
+      "id": "source-precision",
+      "title": "L’unité d’affichage ne change pas la valeur",
+      "text": "Le parcours passe des milliards aux euros. Les montants restent ceux de la source, seule leur présentation change. L’affichage en milliards peut être arrondi. Pour une citation précise, utilisez la preuve et gardez la précision réellement publiée, sans inventer de décimales supplémentaires.",
+      "target": "#unit",
+      "state": {
+        "entity": "MALADIE",
+        "unit": 1
+      }
+    },
+    {
+      "id": "source-absence",
+      "title": "Un blanc ne devient pas un zéro",
+      "text": "Un zéro établi par la source reste un zéro. Une valeur absente garde son explication. Les publications futures, les changements de périmètre et les détails non qualifiés sont distingués. La présence d’un document dans la recherche ne signifie pas que tous ses tableaux ont été intégrés.",
+      "target": "#reading-key",
+      "state": {
+        "entity": "MALADIE"
+      }
+    },
+    {
+      "id": "source-documents",
+      "title": "Retrouver les documents derrière les comptes",
+      "text": "La bibliothèque permet de retrouver les textes et leurs annexes. Vérifiez toujours le passage dans son contexte avant de le citer.",
+      "target": "#document-filters",
+      "state": {
+        "view": "DOCUMENTS"
+      }
+    },
+    {
+      "id": "source-export",
+      "title": "Préparer une note réutilisable",
+      "text": "Sur P.L.F.S.S., l’export Excel ou CSV conserve le périmètre affiché et les références utiles. Pour votre note, gardez l’année, la branche ou le sous-objectif, l’indicateur, l’étape, l’unité et la source.",
+      "target": "#automatic-panel",
+      "state": {
+        "entity": "MALADIE",
+        "panel": "export"
+      }
+    },
+    {
+      "id": "source-fin",
+      "title": "Passer à votre propre dossier",
+      "text": "Vous pouvez maintenant explorer votre propre sujet. Le bouton Démo vous permet de revenir ici pour choisir un autre parcours ou rejouer une étape.",
       "target": "#reopen-demo",
       "state": {}
     },
     {
       "id": "ondam-question",
       "title": "Poser une question sur les dépenses de santé",
-      "text": "Quel objectif de dépenses de santé est proposé pour 2027, et comment se répartit-il ? Nous allons examiner l’ONDAM et ses sous-objectifs. Cette lecture complète les comptes des branches ; elle ne doit pas être additionnée à la branche Maladie.",
+      "text": "Quel objectif de dépenses de santé est proposé pour 2027, et comment se répartit-il ? Nous allons examiner l’O.N.D.A.M. et ses sous-objectifs. Cette lecture complète les comptes des branches, elle ne doit pas être additionnée à la branche Maladie.",
       "target": "#view-title",
       "state": {
         "view": "ONDAM"
@@ -188,7 +252,7 @@
     },
     {
       "id": "ondam-definition",
-      "title": "L’ONDAM est un objectif distinct",
+      "title": "L’O.N.D.A.M. est un objectif distinct",
       "text": "L’objectif national de dépenses d’assurance maladie est présenté dans sa propre rubrique. Son périmètre diffère des comptes de la branche Maladie. Les mêmes précautions s’appliquent : exercice, étape, périmètre, unité et source doivent rester identifiés.",
       "target": "[data-view=\"ONDAM\"]",
       "state": {
@@ -198,7 +262,7 @@
     {
       "id": "ondam-periode",
       "title": "Comparer deux objectifs comparables",
-      "text": "Le parcours retient 2026 et 2027. Pour préparer un débat, distinguez la proposition initiale, la loi votée et les dépenses constatées. Un objectif proposé ne constitue pas encore un résultat annuel. Les projections et les rectifications se consultent séparément sur PLFSS.",
+      "text": "Le parcours retient 2026 et 2027. Pour préparer un débat, distinguez la proposition initiale, la loi votée et les dépenses constatées. Un objectif proposé ne constitue pas encore un résultat annuel. Les projections et les rectifications se consultent séparément sur P.L.F.S.S..",
       "target": "#matrix thead",
       "state": {
         "view": "ONDAM"
@@ -216,7 +280,7 @@
     {
       "id": "ondam-ville",
       "title": "Examiner les soins de ville",
-      "text": "Nous isolons les soins de ville dans l’exemple. Vous voyez les colonnes correspondant aux étapes de chaque année. Le site aide à retrouver les montants et les pièces ; leurs évolutions doivent être expliquées à partir des documents, pas seulement d’une différence entre deux cases.",
+      "text": "Nous isolons les soins de ville dans l’exemple. Vous voyez les colonnes correspondant aux étapes de chaque année. Le site aide à retrouver les montants et les pièces. Leurs évolutions doivent être expliquées à partir des documents, pas seulement d’une différence entre deux cases.",
       "target": "#scope-title",
       "state": {
         "view": "ONDAM",
@@ -226,7 +290,7 @@
     {
       "id": "ondam-origine",
       "title": "Vérifier l’objectif 2027 dans sa source",
-      "text": "Le parcours retient la proposition 2027 pour les soins de ville. Avant une citation ou une question parlementaire, ouvrez le tableau source et vérifiez le libellé exact du sous-objectif. Ne confondez pas le total ONDAM et une seule de ses composantes.",
+      "text": "Le parcours retient la proposition 2027 pour les soins de ville. Avant une citation ou une question parlementaire, ouvrez le tableau source et vérifiez le libellé exact du sous-objectif. Ne confondez pas le total O.N.D.A.M. et une seule de ses composantes.",
       "target": "[data-cell=\"SOINS_VILLE|2027|PLFSS\"]",
       "state": {
         "view": "ONDAM",
@@ -252,6 +316,13 @@
       "state": {
         "view": "COVERAGE"
       }
+    },
+    {
+      "id": "ondam-fin",
+      "title": "Passer à votre propre dossier",
+      "text": "Vous pouvez maintenant explorer votre propre sujet. Le bouton Démo vous permet de revenir ici pour choisir un autre parcours ou rejouer une étape.",
+      "target": "#reopen-demo",
+      "state": {}
     }
   ]
 }

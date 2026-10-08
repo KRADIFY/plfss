@@ -1,24 +1,32 @@
-# PLFSS — sauvegarde du site en ligne au 7 octobre 2026
+# PLFSS — version en ligne du 8 octobre 2026
 
-Branche privée `sauvegarde-en-ligne-20261007`, tag `en-ligne-20261007`.
-Cette capture provient des trois conteneurs actifs : site, moteur documentaire et démo.
-Le manifeste actuel est `proofs/VERSION-EN-LIGNE-20261007.json` : 185 fichiers
-contrôlés par SHA-256, images Docker et montages de production, métadonnées financières.
+Dépôt privé : https://github.com/KRADIFY/plfss.
+Branche `sauvegarde-en-ligne-20261008`, tag `en-ligne-20261008`.
+La branche principale reçoit également cette version par avance simple, sans effacement de l'historique.
+Site capturé : https://plfss.lexmachine.net/.
 
-La démo actuelle à trois parcours et ses voix sont dans `demo`. Les feuilles de
-présentation réellement injectées sont dans `presentations`, et la configuration
-d'entrée par la démo dans `proofs/nginx-plfss.conf`. Le bouton Stop ouvre le site
-avec `?demo=off` ; le bouton Démo relance la visite. Le code de recherche actif
-est aussi archivé dans `runtime-retrieval`.
+## Dernière version sauvegardée
 
-La base financière est inchangée : SHA-256
+La capture provient des trois conteneurs actifs : site, moteur documentaire et démo.
+Le manifeste actuel est `proofs/VERSION-EN-LIGNE-20261008.json` : 215 fichiers vérifiés par SHA-256, images Docker, montages et métadonnées financières.
+
+La démo comporte trois parcours, les textes révisés du 7 octobre et **30 nouveaux extraits audio**, avec les passages musicaux finaux conservés. Les explications utilisent le dernier correctif de placement pour laisser visibles les exemples. Les fichiers sont dans `demo/public` ; les feuilles de présentation injectées sont dans `presentations`. L'entrée par la démo et le comptage partagé sont conservés dans les fichiers de configuration capturés.
+
+La base financière est inchangée : **5 412 observations principales et 1 402 détails distincts**. La recherche compte **311 791 passages**.
+SHA-256 de `data/derived/plfss.sqlite` :
 `8c37953ef9c4bb222c132b8134bf652aebe86670818a4202f7c9dfc67083da24`.
-Les documents et index volumineux restent dans la publication du 4 octobre
-décrite ci-dessous ; cette nouvelle branche conserve les actualisations de code,
-de présentation et de démo. Les manifestes anciens restent des preuves historiques.
-Les configurations conservent les chemins VPS ; les styles du domaine Budget
-et le service externe de comptage ne sont pas déployés par ce dépôt.
-Aucun site, chiffre, conteneur ou réglage de production n'a été modifié par cette sauvegarde.
+
+Aucun site, chiffre, texte, style, conteneur ou réglage de production n'a été modifié pour réaliser cette sauvegarde.
+
+## Où se trouve le dépôt local ?
+
+`D:/ChatGPT/docker/backups/plfss-20261004-public/git`.
+Le nom historique du dossier indique sa création ; son contenu est actualisé au 8 octobre.
+Ce dépôt contient le code et l'historique Git sur le PC. GitHub en est la copie distante ; les changements futurs ne sont pas sauvegardés automatiquement sans un nouveau commit et un push.
+
+Les données volumineuses, les index et les images Docker sont également conservés en local dans :
+`H:/Sauvegardes-Nos-Deniers/20261008-version-en-ligne`.
+Consulter le manifeste de vérification et les instructions de restauration de ce dossier. Les anciens index n'ont pas été recalculés. La publication GitHub du 4 octobre, décrite ci-dessous, reste conservée.
 
 ## Sauvegarde de référence du 4 octobre 2026
 

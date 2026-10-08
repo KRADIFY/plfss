@@ -86,3 +86,6 @@ body[data-playback="playing"] .tape-reels i{animation-play-state:running}
 .demo-popover.driver-popover{position:fixed!important;top:var(--tour-caption-top,14px)!important;left:var(--tour-caption-left,14px)!important;right:auto!important;bottom:auto!important;width:var(--tour-caption-width,min(380px,calc(100vw - 28px)))!important;min-width:0;max-width:calc(100vw - 28px)!important;height:auto!important;max-height:none!important;overflow:visible;overflow-wrap:anywhere}
 .demo-popover .driver-popover-description{max-height:var(--tour-description-max-height,none);overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:none}
 .demo-popover .driver-popover-description::-webkit-scrollbar{display:none}
+
+/* Custom placement has no misleading arrow pointing into the example. */
+.demo-popover[data-tour-placement] .driver-popover-arrow{display:none}

@@ -1,0 +1,45 @@
+{
+  "complete": true,
+  "backup_root": "H:\\Sauvegardes-Nos-Deniers\\20261008-version-en-ligne",
+  "volumes_verified": true,
+  "images_verified": {
+    "passed": true,
+    "archive_sha256": "82ed3b8a960f4879a41a042f912e9e61ac8aacc6a9de833ad7fc24bbb015646e",
+    "archive_bytes": 3307505641,
+    "members_verified": 148,
+    "images": {
+      "lexmachine-budget:20261005-complements-5401": {
+        "image_id": "sha256:f9cd9e99c9a38f5b4273db79758755021af274ec45d11e51659a563045619c18",
+        "docker_config_id": "sha256:704f4a0a65b4d3d89ce37f0d164983c12f669fb24de03afcd3ea0376c7e74d7e",
+        "layers": 70
+      },
+      "lexmachine-budget-retrieval:20261003-recherche-filtree": {
+        "image_id": "sha256:c3c2f27b50456639c408078a36edbe724dc181a0982f72237e2109b46cd65622",
+        "docker_config_id": "sha256:a5cb2f284e8d57bf9428d911e8a52976c5108cdc428008b9bbac83a142acff28",
+        "layers": 11
+      },
+      "nos-deniers-demo:20261007-caption-layout": {
+        "image_id": "sha256:03186211696e11f82aeab111669035990aeb619383a93cd294c4b4acb8a097c6",
+        "docker_config_id": "sha256:6216079a2751db658249813be2319e806ad54535bca913a63df400560f5e88eb",
+        "layers": 10
+      },
+      "nos-deniers-plfss:20261004-phrase-entete": {
+        "image_id": "sha256:9b651c2d47db66f5c99c64c3c339959105beaa48d104db99843a0d0fc40b7d90",
+        "docker_config_id": "sha256:4169ffd99dca4f24eb68dbbabe9ab7da70ac5cd9549dc8274866aeec71d47c25",
+        "layers": 20
+      },
+      "nos-deniers-plfss-retrieval:20261004-vectorise": {
+        "image_id": "sha256:6fa05b5d4d4b2696e70c4e3ed202e7b98eb2cc5907e63674a971980142d5e2d3",
+        "docker_config_id": "sha256:e5dcfe2767d1d2781a97ec6aad0927c42bb520f5df5f6ab5f70955c5fd15b441",
+        "layers": 12
+      },
+      "plfss-demo:20261007-caption-layout": {
+        "image_id": "sha256:090a3e727ed708c69acad080b49b0afffe1801850a522b80cd3e4874ae503a05",
+        "docker_config_id": "sha256:b7d75e576cb7b87188285efd4b0a6257acaf9a9f72bf494032c240f588757b00",
+        "layers": 14
+      }
+    },
+    "production_modified": false
+  },
+  "production_modified": false
+}

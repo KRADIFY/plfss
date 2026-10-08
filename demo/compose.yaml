@@ -2,7 +2,7 @@ name: plfss-demo
 services:
   demo:
     build: .
-    image: plfss-demo:20261006-three-journeys
+    image: plfss-demo:20261007-caption-layout
     ports:
       - "127.0.0.1:18897:8080"
     restart: unless-stopped
